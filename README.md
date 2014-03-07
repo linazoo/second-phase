@@ -1,94 +1,75 @@
-# Phase 2
+# Phase 2 Guide
 
-[Overview of the Phase](overview.md) | [Resources](resources.md)
+### Week 1:
+**Groups**
 
-### Week 5:
+1. Greg Santikian, Marco Morales, Dinesh Kaushal, Kelsey Ando
+2. Cameron Johnson, Dan Benson, Marco Morales, Sarah Sprague
+3. Osagie Omoruyi, John Norton, Tony Ta, Kenny Luk
+4. Ian Bates, Greg Santikian, Pablo Vergel, Sarah Sprague
+5. Kelsey Ando, Dan Brown, Cameron Johnson, Calder Wishne
+6. Jarrod Scott, Osagie Omoruyi, Calder Wishne, Adam Willis
+7. Kenny Luk, Ian Bates, Devin Wieland, Dan Brown
+8. Tony Ta, Pablo Vergel, Jarrod Scott, Devin Wieland
+9. John Norton, Dan Benson, Dinesh Kaushal
 
-[Learning Competencies](learning-competencies/week-5-lc.md)
+**Daily Guides:**
 
-####Monday
+- [Monday](week-1/monday.md)
+- [Tuesday](week-1/tuesday.md)
+- [Wednesday](week-1/wednesday.md)
+- [Thursday](week-1/thursday.md)
+- [Friday](week-1/friday.md)
+- [Weekend](week-1/weekend.md)
 
-* 8:45 - 9:00 Meet with accountability buddies
-* 9:00  EE Training, Choose Afternoon Lecture
-* 9:10 Present group projects.
-* 9:30 Daily Overview Lecture
-* 9:30-12:30 Pair on challenges
- * [jQuery Challenge](../../../jquery-challenge)
- * [Behavior Drill: Collapsible Side Menu](../../../behavior-drill-collapsible-side-menu-challenge)
- * [Behavior Drill: Style Editor](../../../behavior-drill-style-editor-challenge)
- * [Behavior Drill: Add Comments](../../../behavior-drill-add-comments-challenge)
- * [Behavior Drill: Tabbed Interface](../../../behavior-drill-tabbed-interface-challenge)
- * [Layout Drill: Button Navigation](../../../layout-drill-button-style-navigation-bar-challenge)
- * [Behavior Drill: Drop Down Menu](../../../behavior-drill-drop-down-menu-challenge)
- * [Thing-o : Release 3,4](../../../thing-o-challenge)
+### Week 2:
+**Groups:**
 
-* 2:00 - LECTURE: TOPIC OF YOUR CHOICE / Lightning Talks
-* 3:00-6:00 Pair on Challenges
+1. Calder Wishne, Sarah Sprague, Dan Brown, Greg Santikian
+2. Osagie Omoruyi, Dan Brown, Kelsey Ando, Tony Ta
+3. Ian Bates, Dinesh Kaushal, Dinesh Kaushal, Calder Wishne
+4. Devin Wieland, Dan Benson, Marco Morales, Marco Morales
+5. Devin Wieland, Kenny Luk, Jarrod Scott, Kelsey Ando
+6. Jarrod Scott, Cameron Johnson, Dan Benson, John Norton
+7. Pablo Vergel, Pablo Vergel, Osagie Omoruyi, Kenny Luk
+8. Cameron Johnson, John Norton, Adam Willis, Ian Bates
+9. Tony Ta, Sarah Sprague, Greg Santikian
 
-####Tuesday  - Solo Optional Day
+**Daily Guides:**
 
-[Book Your Appointment with A Teacher]( https://www.google.com/calendar/selfsched?sstoken=UUR5OG9kZlBFOFFBfGRlZmF1bHR8MTUwNDM0YjRiMDFjMzhhNWYyZjA3NjQwZDlkNjY0MGM)
+- [Monday](week-2/monday.md)
+- [Tuesday](week-2/tuesday.md)
+- [Wednesday](week-2/wednesday.md)
+- [Thursday](week-2/thursday.md)
+- [Friday](week-2/friday.md)
+- [Weekend](week-2/weekend.md)
 
-* 8:45 - 9:00 Meet with accountability buddies
-* 9:00  EE Training, Choose Afternoon Lecture
-* 9:10 Daily Overview Lecture : Testing
-* 9:30 - 12:00 Pair on challenges.
- * [JavaScript Racer 1: Front-end](../../../javascript-racer-1-front-end-challenge)
- * [JavaScript Racer 2: Back-end](../../../javascript-racer-2-back-end-challenge)
- * [JavaScript Racer 3: Sane JavaScript](../../../javascript-racer-3-sane-javascript-challenge)
- * [Orange Trees](../../../orange-jasmine-challenge)
+### Week 3:
+**Groups:**
 
+1. Cameron Johnson, Dan Brown, Osagie Omoruyi, Kelsey Ando
+2. Dinesh Kaushal, Sarah Sprague, Adam Willis, Devin Wieland
+3. Kelsey Ando, Pablo Vergel, Ian Bates, Devin Wieland
+4. Sarah Sprague, Dan Benson, Dan Benson, Dinesh Kaushal
+5. Tony Ta, Tony Ta, Dan Brown, Calder Wishne
+6. Jarrod Scott, Greg Santikian, John Norton, Marco Morales
+7. Osagie Omoruyi, John Norton, Calder Wishne, Marco Morales
+8. Cameron Johnson, Greg Santikian, Jarrod Scott, Kenny Luk
+9. Kenny Luk, Pablo Vergel, Ian Bates
 
-* 12:00 - 12:30 EE Dive Deep
-* 2:00 - LECTURE: TOPIC OF YOUR CHOICE / Lightning Talks  - OOJS
-<!-- Breakout - Setting Up Jasmine : TDD Orange Trees -->
-* 3:00 - 6:00 Pair on challenges.
+**Daily Guides:**
 
-####Wednesday
+- [Monday](week-3/monday.md)
+- [Tuesday](week-3/tuesday.md)
+- [Wednesday](week-3/wednesday.md)
+- [Thursday](week-3/thursday.md)
+- [Friday](week-3/friday.md)
+- [Weekend](week-3/weekend.md)
 
-* 8:45 - 9:00 Meet with accountability buddies
-* 9:00  EE Training, Choose Afternoon Lecture  (mandatory attend)
-* 9:10 Daily Overview Lecture Into AJAX
-* 9:30 - 12:30 Pair on challenges.
-
- * [Deaf Sinatra 2: Asynchronous Forms](../../../deaf-sinatra-2-asynchronous-forms-challenge)
- * [Lucky Ajax](../../../lucky-ajax-challenge)
- * [Dynamic Todos](../../../dynamic-todos-challenge)
- * [Hacker News Clone (Part 1)](../../../hacker-news-clone-part-1-challenge)
- * [Hacker News Clone (Part 2)](../../../hacker-news-clone-part-2-challenge)
-* 2:00 Lecture : Closures and Callbacks
-* 3:00 - 6:00 Pair on Challenges
-
-####Thursday  - Solo Optional Day
-
-[Book Your Appointment with A Teacher]( https://www.google.com/calendar/selfsched?sstoken=UUR5OG9kZlBFOFFBfGRlZmF1bHR8MTUwNDM0YjRiMDFjMzhhNWYyZjA3NjQwZDlkNjY0MGM)
-
-* 8:45 - 9:00 Meet with accountability buddies
-* 9:00 Phase 3 Pitches
-* 9:30  EE Training, Choose Afternoon Lecture
-* 9:40 Daily Overview Lecture
-* 10:00 - 12:30 Pair on challenges.
- * [Behavior Drill: Form Validation](../../../behavior-drill-form-validation-challenge)
- * [Flickr, Jr.](../../../flickr-jr-challenge)
- <!-- [JavaScript Code Retreat with Try Jasmine]() -->
- * STRETCH [Behavior Drill: Image Carousel](../../../behavior-drill-image-carousel-challenge)
- * STRETCH [Behavior Drill: Persisting Order]()
-
-* 2:00 - LECTURE: TOPIC OF YOUR CHOICE / Lightning Talks
-* 3:00 - 6:00 Pair on challenges.
-
-####Friday
-
-* 8:45 - 9:00 Meet with accountability buddies
-* 9:00 Small group check-ins
-* 10:00 Brief lecture on Group Project : Agile / Team dynamics
-* 10:00 Group Project in Teams.
- * [Survey Gorilla]()
-
-####Weekend
-
-* Fill out the [learning objectives survey]()
-* Work on group projects - presentation on Monday
-* Try to have 8 of the Portfolio Challenges finished
-* Catch up on Week 5 Challenges that you didn't finish.
-
+### Additional Resources
+* [Counseling Session Signup](https://docs.google.com/a/devbootcamp.com/spreadsheet/ccc?key=0AkUBwMuwpfpvdFctWEpQNEdUank0dndENVhWMHhWbmc#gid=0)
+* [How to Submit a Challenge](resources/how-to-submit.md)
+* [Learning Competencies](resources/competencies.md)
+* [Mentoring Signup](http://mentoring.devbootcamp.com/)
+* [Resource Links](resources/resources.md)
+* [Schedule](resources/schedule.md)
