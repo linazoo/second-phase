@@ -18,7 +18,7 @@ With your pair, complete the following challenges.
 
 ## Schedule
 ### AM: Intro to Javascript
-* [CSS Floats](http://alistapart.com/article/css-floats-101)
-* [CSS Positioning](http://alistapart.com/article/css-positioning-101)
+* [Javascript Foundations](http://teamtreehouse.com/library/javascript-foundations)
+* [Javascript Cheatsheet](http://wps.aw.com/wps/media/objects/2234/2287950/javascript_refererence.pdf)
 
 ### PM: Intro to JQuery
