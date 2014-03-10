@@ -2,23 +2,14 @@
 
 ##Table Of Contents
 
-## Week 1
-
 * [Ruby Web Apps and Sinatra](#ruby-web-apps-and-sinatra)
-* [Testing](#testing)
 * [Active Record](#active-record)
 * [HTML and CSS](#HTML-and-CSS)
-
-## Week 2
-
 * [JavaScript](#javascript)
 * [JavaScript Testing - Jasmine](#jasmine)
 * [JavaScript Frameworks and Libraries](#javascript-frameworks-and-libraries)
 * [Debugging JavaScript](#debugging-javascript)
 * [Front End Engineering](#front-end-engineering)
-
-## Week 3
-
 * [API](#API)
 
 ## All Weeks
@@ -26,8 +17,6 @@
 * [EE](#engineering-empathy)
 * [Soft Skills](#soft-skills)
 * [More Tutorials](#tutorials)
-
-
 
 ### Ruby Web Apps
 ####Sinatra
