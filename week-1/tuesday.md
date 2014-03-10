@@ -1,25 +1,24 @@
 # Week 1: Tuesday
 
-### Challenges
-
-##### Core Challenges
+## Core Challenges
 With your pair, complete the following challenges.
 
-- [Behavior Drill: Tabbed Interface](https://github.com/otters-2014/behavior-drill-tabbed-interface-challenge)
-- [Layout Drill: Fixed Navigation](https://github.com/otters-2014/layout-drill-fixed-navigation-challenge)
-- [Deaf Sinatra 2: Asynchronous Forms](https://github.com/otters-2014/deaf-sinatra-2-asynchronous-forms-challenge)
-- [Sinatra Sandbox](https://github.com/otters-2014/sinatra-sandbox-challenge)
-- [Craigslist, Jr.](https://github.com/otters-2014/craigslist-jr-challenge)
+### HTML/CSS
+* [Behavior Drill: Tabbed Interface](https://github.com/otters-2014/behavior-drill-tabbed-interface-challenge)
+* [Layout Drill: Fixed Navigation](https://github.com/otters-2014/layout-drill-fixed-navigation-challenge)
 
-##### Reflect and Stretch
-Once you've completed your cores for the day, continue working on the following challenges.
+### Sinatra
+* [Sinatra Sandbox](https://github.com/otters-2014/sinatra-sandbox-challenge)
+* [Deaf Sinatra 2: Asynchronous Forms](https://github.com/otters-2014/deaf-sinatra-2-asynchronous-forms-challenge)
+* [Craigslist, Jr.](https://github.com/otters-2014/craigslist-jr-challenge)
 
-- **Solo:** redo one of today's cores on your own.
+## Stretch Challenges
+* [Sinatra Restful Crud](https://github.com/otters-2014/ph2-p1-sinatra-restful-crud-challenge)
 
-- **Review Others, Refactor Yours:**
 
-- **Stretch Challenges:**
+## Schedule
+### AM: Intro to Javascript
+* [CSS Floats](http://alistapart.com/article/css-floats-101)
+* [CSS Positioning](http://alistapart.com/article/css-positioning-101)
 
-### Lecture Topic
-* Intro to JS
-* jQuery
+### PM: Intro to JQuery
