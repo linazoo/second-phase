@@ -8,8 +8,8 @@
 
 ## Weekly Events
 
-* Yoga: Monday and Wednesday from 8:00 - 9:00 a.m.
-* Engineering Empathy: Tuesday from 10:00 - 11:30 a.m.
+* Yoga: Tuesday from 8:00 - 9:00 a.m.
+* Engineering Empathy: First Wednesday
 * Assessments: Thursday from 8:15 - 11:15 a.m. (Weeks 2 and 3)
 * DBCx: Thursday at 5:30 p.m.
 
