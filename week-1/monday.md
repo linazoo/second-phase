@@ -1,28 +1,27 @@
 # Week 1: Monday
 
-### Challenges
-
-##### Core Challenges
+## Core Challenges
 With your pair, complete the following challenges.
 
-- [Layout Drill: Left-hand Navigation](https://github.com/otters-2014/layout-drill-left-hand-navigation-challenge)
-- [Layout Drill: Right-hand Navigation](https://github.com/otters-2014/layout-drill-right-hand-navigation-challenge)
-- [Layout Drill: Top Navigation](https://github.com/otters-2014/layout-drill-top-navigation-challenge)
-- [Behavior Drill: Persisting Order](https://github.com/otters-2014/behavior-drill-persisting-order-challenge)
-- [Deaf Sinatra 1: Synchronous Forms](https://github.com/otters-2014/deaf-sinatra-1-synchronous-forms-challenge)
-- [Anagram Server 1: The Basics](https://github.com/otters-2014/anagram-server-1-the-basics-challenge)
-- [Anagram Server 2: Ludicrous Speed](https://github.com/otters-2014/anagram-server-2-ludicrous-speed-challenge)
+### HTML/CSS
+* [Layout Drill: Left-hand Navigation](https://github.com/otters-2014/layout-drill-left-hand-navigation-challenge)
+* [Layout Drill: Right-hand Navigation](https://github.com/otters-2014/layout-drill-right-hand-navigation-challenge)
+* [Layout Drill: Top Navigation](https://github.com/otters-2014/layout-drill-top-navigation-challenge)
 
-##### Reflect and Stretch
-Once you've completed your cores for the day, continue working on the following challenges.
+### HTTP & Sinatra
+* [Deaf Sinatra 1: Synchronous Forms](https://github.com/otters-2014/deaf-sinatra-1-synchronous-forms-challenge)
+* [Anagram Server 1: The Basics](https://github.com/otters-2014/anagram-server-1-the-basics-challenge)
+* [Anagram Server 2: Ludicrous Speed](https://github.com/otters-2014/anagram-server-2-ludicrous-speed-challenge)
+* [Behavior Drill: Persisting Order](https://github.com/otters-2014/behavior-drill-persisting-order-challenge)
 
-- **Solo:** redo one of today's cores on your own.
-
-- **Review Others, Refactor Yours:**
-
-- **Stretch Challenges:**
+## Stretch Challenges
+* [CSS Layout Simple Marketing Page](https://github.com/otters-2014/ph2-p4-css-layout-simple-marketing-page-challenge)
 
 
-### Lecture Topic
-* CSS Positioning & Floats
-* Intro to HTTP
+## Schedule
+### AM: CSS Floats & Positioning
+* [CSS Floats](http://alistapart.com/article/css-floats-101)
+* [CSS Positioning](http://alistapart.com/article/css-positioning-101)
+
+### PM: Intro to HTTP
+* [HTTP Basics](http://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/http_basics.html)
