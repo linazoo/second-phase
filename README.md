@@ -3,15 +3,10 @@
 ### Week 1:
 **Groups**
 
-1. Greg Santikian, Marco Morales, Dinesh Kaushal, Kelsey Ando
-2. Cameron Johnson, Dan Benson, Marco Morales, Sarah Sprague
-3. Osagie Omoruyi, John Norton, Tony Ta, Kenny Luk
-4. Ian Bates, Greg Santikian, Pablo Vergel, Sarah Sprague
-5. Kelsey Ando, Dan Brown, Cameron Johnson, Calder Wishne
-6. Jarrod Scott, Osagie Omoruyi, Calder Wishne, Adam Willis
-7. Kenny Luk, Ian Bates, Devin Wieland, Dan Brown
-8. Tony Ta, Pablo Vergel, Jarrod Scott, Devin Wieland
-9. John Norton, Dan Benson, Dinesh Kaushal
+1. Sarah Sprague, Jarrod Scott, Cameron Johnson, Kelsey Ando
+2. Calder Wishne, John Norton, Dan Benson, Devin Wieland
+3. Ian Bates, Dinesh Kaushal, Marco Morales, Pablo Vergel
+4. Adam Willis, Kenny Luk, Tony Ta, Greg Santikian, Dan Brown
 
 **Daily Guides:**
 
@@ -25,15 +20,10 @@
 ### Week 2:
 **Groups:**
 
-1. Calder Wishne, Sarah Sprague, Dan Brown, Greg Santikian
-2. Osagie Omoruyi, Dan Brown, Kelsey Ando, Tony Ta
-3. Ian Bates, Dinesh Kaushal, Dinesh Kaushal, Calder Wishne
-4. Devin Wieland, Dan Benson, Marco Morales, Marco Morales
-5. Devin Wieland, Kenny Luk, Jarrod Scott, Kelsey Ando
-6. Jarrod Scott, Cameron Johnson, Dan Benson, John Norton
-7. Pablo Vergel, Pablo Vergel, Osagie Omoruyi, Kenny Luk
-8. Cameron Johnson, John Norton, Adam Willis, Ian Bates
-9. Tony Ta, Sarah Sprague, Greg Santikian
+1. Devin Wieland, Greg Santikian, John Norton, Dinesh Kaushal
+2. Tony Ta, Kelsey Ando, Calder Wishne, Jarrod Scott
+3. Sarah Sprague, Dan Benson, Adam Willis, Kenny Luk
+4. Ian Bates, Marco Morales, Pablo Vergel, Cameron Johnson, Dan Brown
 
 **Daily Guides:**
 
@@ -47,15 +37,10 @@
 ### Week 3:
 **Groups:**
 
-1. Cameron Johnson, Dan Brown, Osagie Omoruyi, Kelsey Ando
-2. Dinesh Kaushal, Sarah Sprague, Adam Willis, Devin Wieland
-3. Kelsey Ando, Pablo Vergel, Ian Bates, Devin Wieland
-4. Sarah Sprague, Dan Benson, Dan Benson, Dinesh Kaushal
-5. Tony Ta, Tony Ta, Dan Brown, Calder Wishne
-6. Jarrod Scott, Greg Santikian, John Norton, Marco Morales
-7. Osagie Omoruyi, John Norton, Calder Wishne, Marco Morales
-8. Cameron Johnson, Greg Santikian, Jarrod Scott, Kenny Luk
-9. Kenny Luk, Pablo Vergel, Ian Bates
+1. Devin Wieland, John Norton, Jarrod Scott, Cameron Johnson
+2. Sarah Sprague, Greg Santikian, Pablo Vergel, Kenny Luk
+3. Dan Brown, Adam Willis, Dinesh Kaushal, Tony Ta
+4. Calder Wishne, Marco Morales, Kelsey Ando, Ian Bates, Dan Benson
 
 **Daily Guides:**
 
