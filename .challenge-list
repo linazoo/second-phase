@@ -5,6 +5,7 @@ behavior-drill-collapsible-side-menu-challenge
 behavior-drill-drop-down-menu-challenge
 behavior-drill-form-validation-challenge
 behavior-drill-image-carousel-challenge
+behavior-drill-persisting-order-challenge
 behavior-drill-style-editor-challenge
 behavior-drill-tabbed-interface-challenge
 blog-1-anonymous-blog-challenge
@@ -45,3 +46,4 @@ sinatra-url-shortener-challenge
 sinatra-url-shortener-with-users-challenge
 thing-o-challenge
 web-flash-cards-1-multiple-decks-challenge
+web-flash-cards-2-ajax-guessing-challenge

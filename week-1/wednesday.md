@@ -5,10 +5,10 @@
 ##### Core Challenges
 With your pair, complete the following challenges.
 
-- [Lucky AJAX!]()
-- [Sinatra URL Shortener]()
-- [Dummy Users]()
-- [Sinatra URL Shortener: With Users]()
+- [Lucky AJAX!](/otters-2014/lucky-ajax-challenge)
+- [Sinatra URL Shortener](/otters-2014/sinatra-url-shortener-challenge)
+- [Dummy Users](https://github.com/otters-2014/dummy-users-challenge)
+- [Sinatra URL Shortener: With Users](/otters-2014/sinatra-url-shortener-with-users-challenge)
 
 ##### Reflect and Stretch
 Once you've completed your cores for the day, continue working on the following challenges.
