@@ -15,7 +15,6 @@
 - [Wednesday](week-1/wednesday.md)
 - [Thursday](week-1/thursday.md)
 - [Friday](week-1/friday.md)
-- [Weekend](week-1/weekend.md)
 
 ### Week 2:
 **Groups:**
@@ -32,7 +31,6 @@
 - [Wednesday](week-2/wednesday.md)
 - [Thursday](week-2/thursday.md)
 - [Friday](week-2/friday.md)
-- [Weekend](week-2/weekend.md)
 
 ### Week 3:
 **Groups:**
@@ -49,7 +47,6 @@
 - [Wednesday](week-3/wednesday.md)
 - [Thursday](week-3/thursday.md)
 - [Friday](week-3/friday.md)
-- [Weekend](week-3/weekend.md)
 
 ### Additional Resources
 * [Counseling Session Signup](https://docs.google.com/a/devbootcamp.com/spreadsheet/ccc?key=0AkUBwMuwpfpvdFctWEpQNEdUank0dndENVhWMHhWbmc#gid=0)
