@@ -20,5 +20,6 @@ With your pair, complete the following challenges.
 ### AM: Intro to Javascript
 * [Javascript Foundations](http://teamtreehouse.com/library/javascript-foundations)
 * [Javascript Cheatsheet](http://wps.aw.com/wps/media/objects/2234/2287950/javascript_refererence.pdf)
+* [A Re-introduction to Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 
 ### PM: Intro to JQuery
