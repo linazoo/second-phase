@@ -1,25 +1,18 @@
 # Week 2: Monday
 
-### Challenges
-
-##### Core Challenges
+## Core Challenges
 With your pair, complete the following challenges.
 
-- [Layout Drill: Basic Form Styling]()
-- [Layout Drill: Single Page Navigation]()
-- [jQuery Challenge]()
-- [JavaScript Racer 1: Front-end]()
-- [JavaScript Racer 2: Back-end]()
+### HTML/CSS
+* [Layout Drill: Basic Form Styling](https://github.com/otters-2014/layout-drill-basic-form-styling-challenge)
+* [Layout Drill Sticky Side Menu](https://github.com/otters-2014/layout-drill-sticky-side-menu-challenge)
 
-##### Reflect and Stretch
-Once you've completed your cores for the day, continue working on the following challenges.
+### JS & Sinatra
+* [jQuery Challenge](https://github.com/otters-2014/jquery-challenge)
+* [JavaScript Racer 1: Front-end](https://github.com/otters-2014/javascript-racer-1-front-end-challenge)
+* [JavaScript Racer 2: Back-end](https://github.com/otters-2014/javascript-racer-2-back-end-challenge)
 
-- **Solo:** redo one of today's cores on your own.
+## Schedule
+### AM: Data in the DOM
 
-- **Review Others, Refactor Yours:**
-
-- **Stretch Challenges:**
-
-### Lecture Topic
-* Data in the DOM
-* Recitation (afternoon)
+### PM: Recitation
