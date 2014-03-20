@@ -1,22 +1,16 @@
-# Week 1: Thursday
+# Week 2: Thursday
 
-### Challenges
-
-##### Core Challenges
+## Core Challenges
 With your pair, complete the following challenges.
 
-- [Behavior Drill: Form Validation]()
-- [Behavior Drill: Image Carousel]()
-- [Flickr, Jr.]()
+### JS & Sinatra
+* [Behavior Drill: Form Validation](https://github.com/otters-2014/behavior-drill-form-validation-challenge)
+* [Behavior Drill: Image Carousel](https://github.com/otters-2014/behavior-drill-image-carousel-challenge)
+* [Flickr, Jr.](https://github.com/otters-2014/flickr-jr-challenge)
 
-##### Reflect and Stretch
-Once you've completed your cores for the day, continue working on the following challenges.
 
-- **Solo:** redo one of today's cores on your own.
+## Schedule
+### AM: Mock Assessment
+### PM: Assessment Review & Cores
 
-- **Review Others, Refactor Yours:**
 
-- **Stretch Challenges:**
-
-### Lecture Topic
-* Mock Assessment

@@ -1,23 +1,19 @@
 # Week 2: Tuesday
 
-### Challenges
-
-##### Core Challenges
+## Core Challenges
 With your pair, complete the following challenges.
 
-- [Layout Drill: Two Column Layout]()
-- [Layout Drill: Three Column Layout]()
-- [JavaScript Racer 3: Sane JavaScript]()
+### HTML/CSS
 
-##### Reflect and Stretch
-Once you've completed your cores for the day, continue working on the following challenges.
+* [Layout Drill: Two Column Layout](https://github.com/otters-2014/layout-drill-two-column-layout-challenge)
+* [Layout Drill: Three Column Layout](https://github.com/otters-2014/layout-drill-three-column-layout-challenge)
 
-- **Solo:** redo one of today's cores on your own.
+### JS & Sinatra
 
-- **Review Others, Refactor Yours:**
+* [JavaScript Racer 3: Sane JavaScript](https://github.com/otters-2014/javascript-racer-3-sane-javascript-challenge)
 
-- **Stretch Challenges:**
 
-### Lecture Topic
-* OOJS
-* Recitation (afternoon)
+## Schedule
+### AM: OOJS
+
+### PM: Recitation

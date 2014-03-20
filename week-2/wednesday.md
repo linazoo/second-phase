@@ -1,26 +1,16 @@
-# Week 1: Wednesday
+# Week 2: Tuesday
 
-### Challenges
-
-##### Core Challenges
+## Core Challenges
 With your pair, complete the following challenges.
 
-- [Layout Drill: Button-Style Navigation Bar]()
-- [Behavior Drill: Drop Down Menu]()
-- [Hacker News Clone (Part 1)]()
-- [Hacker News Clone (Part 2)]()
-- [Craigslist, Jr.]()
+### HTML/CSS
+* [Layout Drill: Button-Style Navigation Bar](https://github.com/otters-2014/layout-drill-button-style-navigation-bar-challenge)
+* [Behavior Drill: Drop Down Menu](https://github.com/otters-2014/behavior-drill-drop-down-menu-challenge)
 
-##### Reflect and Stretch
-Once you've completed your cores for the day, continue working on the following challenges.
+### JS Sinatra
+* [Hacker News Clone (Part 1)](https://github.com/otters-2014/hacker-news-clone-part-1-challenge)
+* [Hacker News Clone (Part 2)](https://github.com/otters-2014/hacker-news-clone-part-2-challenge)
 
-- **Solo:** redo one of today's cores on your own.
-
-- **Review Others, Refactor Yours:**
-* [Review and Refactor: Web Flash Cards 1]()
-
-- **Stretch Challenges:**
-
-### Lecture Topic
-* JS Scope
-* jQuery
+## Schedule
+### AM: JS Scope
+### PM: Recitation
