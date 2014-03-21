@@ -1,20 +1,14 @@
-# Week 1: Friday
+# Week 2: Friday
 
-### Challenges
+## Core Challenges
+With your group, complete the following challenge:
 
-##### Core Challenges
-With your pair, complete the following challenges.
+* [Survey Gorilla](https://github.com/otters-2014/survey-gorilla-challenge)
 
-- [Survey Gorilla]()
+You'll present your Survey Gorrila project Monday morning.
 
-##### Reflect and Stretch
-Once you've completed your cores for the day, continue working on the following challenges.
+## Schedule
+### AM: Group Projects & Git Review
+### PM: Group Project
 
-- **Solo:** redo one of today's cores on your own.
 
-- **Review Others, Refactor Yours:**
-
-- **Stretch Challenges:**
-
-### Lecture Topic
-* Git Pull Request Workflow
