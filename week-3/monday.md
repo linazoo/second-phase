@@ -1,25 +1,16 @@
 # Week 3: Monday
 
-### Challenges
-
-##### Core Challenges
+## Core Challenges
 With your pair, complete the following challenges.
 
-- [Behavior Drill: Style Editor]()
-- [Behavior Drill: Add Comments]()
-- [Recent Tweets 1]()
-- [Recent Tweets 2]()
+### JS & Sinatra
 
-##### Reflect and Stretch
-Once you've completed your cores for the day, continue working on the following challenges.
+* [Behavior Drill: Style Editor](https://github.com/otters-2014/behavior-drill-style-editor-challenge)
+* [Behavior Drill: Add Comments](https://github.com/otters-2014/behavior-drill-add-comments-challenge)
+* [Recent Tweets 1](https://github.com/otters-2014/recent-tweets-1-challenge)
+* [Recent Tweets 2](https://github.com/otters-2014/recent-tweets-2-challenge)
 
-- **Solo:** redo one of today's cores on your own.
+## Schedule
+### AM: Team Presentations, Advanced ActiveRecord
 
-- **Review Others, Refactor Yours:**
-
-- **Stretch Challenges:**
-
-### Lecture Topic
-* Team Presentations
-* Advanced AR
-* Recitation (afternoon)
+### PM: Recitation
