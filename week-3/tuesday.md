@@ -1,25 +1,17 @@
 # Week 3: Tuesday
 
-### Challenges
-
-##### Core Challenges
+## Core Challenges
 With your pair, complete the following challenges.
 
-- [Layout Drill: Sticky Side Menu]()
-- [Behavior Drill: Collapsible Side Menu]()
-- [Heroku 1: Getting Started]()
-- [Tweet Now! 1: Single User]()
-- [Tweet Now! 2: Multi-User]()
+### HTML & CSS
+* [Layout Drill: Sticky Side Menu](https://github.com/otters-2014/layout-drill-sticky-side-menu-challenge)
+* [Behavior Drill: Collapsible Side Menu](https://github.com/otters-2014/behavior-drill-collapsible-side-menu-challenge)
 
-##### Reflect and Stretch
-Once you've completed your cores for the day, continue working on the following challenges.
+### JS & Sinatra
+* [Heroku 1: Getting Started](https://github.com/otters-2014/heroku-1-getting-started-challenge)
+* [Tweet Now! 1: Single User](https://github.com/otters-2014/tweet-now-1-single-user-challenge)
+* [Tweet Now! 2: Multi-User](https://github.com/otters-2014/tweet-now-2-multi-user-challenge)
 
-- **Solo:** redo one of today's cores on your own.
-
-- **Review Others, Refactor Yours:**
-
-- **Stretch Challenges:**
-
-### Lecture Topic
-* OAuth
-* Recitation (afternoon)
+## Schedule
+### AM: Cores
+### PM: Recitation
