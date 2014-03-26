@@ -1,23 +1,14 @@
 # Week 3: Wednesday
 
-### Challenges
-
-##### Core Challenges
+## Core Challenges
 With your pair, complete the following challenges.
 
-- [Heroku 2: Apps Ahoy!]()
-- [Tweet Later]()
-- [Oh My Auth! (Google)]()
+* [Heroku 2: Apps Ahoy!](https://github.com/otters-2014/heroku-2-apps-ahoy-challenge)
+* [Tweet Later](https://github.com/otters-2014/tweet-later-challenge)
+* [Oh My Auth! (Google)](https://github.com/otters-2014/oh-my-auth-google-challenge)
 
-##### Reflect and Stretch
-Once you've completed your cores for the day, continue working on the following challenges.
 
-- **Solo:** redo one of today's cores on your own.
+## Schedule
+### AM: OOJS Take 2
+### PM: Recitation
 
-- **Review Others, Refactor Yours:**
-
-- **Stretch Challenges:**
-
-### Lecture Topic
-* OOJS Take 2
-* Recitation (afternoon)
