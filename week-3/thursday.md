@@ -1,20 +1,13 @@
 # Week 3: Thursday
 
-### Challenges
+Assessment day! Good luck!
 
-##### Core Challenges
-With your group, complete the following challenges.
 
-- [The Hardest Challenge Yet]()
+## Schedule
+### AM: Assessment
+### PM: The Hardest Challenge Yet
 
-##### Reflect and Stretch
-Once you've completed your cores for the day, continue working on the following challenges.
+Build whatever you'd like! You'll have this afternoon and most of Friday to build a web app of your choosing.
 
-- **Solo:** redo one of today's cores on your own.
+It's up to you if you want to solo, pair or build something as a group.
 
-- **Review Others, Refactor Yours:**
-
-- **Stretch Challenges:**
-
-### Lecture Topic
-* Assessment
