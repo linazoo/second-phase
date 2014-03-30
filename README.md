@@ -3,10 +3,10 @@
 ### Week 1:
 **Groups**
 
-1. Sarah Sprague, Jarrod Scott, Cameron Johnson, Kelsey Ando
-2. Calder Wishne, John Norton, Dan Benson, Devin Wieland
-3. Ian Bates, Dinesh Kaushal, Marco Morales, Pablo Vergel
-4. Adam Willis, Kenny Luk, Tony Ta, Greg Santikian, Dan Brown
+1.
+2.
+3.
+4.
 
 **Daily Guides:**
 
@@ -19,10 +19,10 @@
 ### Week 2:
 **Groups:**
 
-1. Devin Wieland, Greg Santikian, John Norton, Dinesh Kaushal
-2. Tony Ta, Kelsey Ando, Calder Wishne, Jarrod Scott
-3. Sarah Sprague, Dan Benson, Adam Willis, Kenny Luk
-4. Ian Bates, Marco Morales, Pablo Vergel, Cameron Johnson, Dan Brown
+1.
+2.
+3.
+4.
 
 **Daily Guides:**
 
@@ -35,10 +35,10 @@
 ### Week 3:
 **Groups:**
 
-1. Devin Wieland, John Norton, Jarrod Scott, Cameron Johnson
-2. Sarah Sprague, Greg Santikian, Pablo Vergel, Kenny Luk
-3. Dan Brown, Adam Willis, Dinesh Kaushal, Tony Ta
-4. Calder Wishne, Marco Morales, Kelsey Ando, Ian Bates, Dan Benson
+1.
+2.
+3.
+4.
 
 **Daily Guides:**
 
