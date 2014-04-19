@@ -12,7 +12,6 @@ With your pair, complete the following challenges.
 * [Deaf Sinatra 1: Synchronous Forms](https://github.com/fiddler-crabs-2014/deaf-sinatra-1-synchronous-forms-challenge)
 * [Anagram Server 1: The Basics](https://github.com/fiddler-crabs-2014/anagram-server-1-the-basics-challenge)
 * [Anagram Server 2: Ludicrous Speed](https://github.com/fiddler-crabs-2014/anagram-server-2-ludicrous-speed-challenge)
-* [Behavior Drill: Persisting Order](https://github.com/fiddler-crabs-2014/behavior-drill-persisting-order-challenge)
 
 ## Stretch Challenges
 * [CSS Layout Simple Marketing Page](https://github.com/fiddler-crabs-2014/ph2-p4-css-layout-simple-marketing-page-challenge)
