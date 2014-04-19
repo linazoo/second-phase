@@ -3,7 +3,7 @@
 ## Core Challenges
 With your group, complete the following challenge:
 
-* [Survey Gorilla](https://github.com/otters-2014/survey-gorilla-challenge)
+* [Survey Gorilla](https://github.com/fiddler-crabs-2014/survey-gorilla-challenge)
 
 You'll present your Survey Gorrila project Monday morning.
 

@@ -4,16 +4,16 @@
 With your pair, complete the following challenges.
 
 ### HTML/CSS
-* [Behavior Drill: Tabbed Interface](https://github.com/otters-2014/behavior-drill-tabbed-interface-challenge)
-* [Layout Drill: Fixed Navigation](https://github.com/otters-2014/layout-drill-fixed-navigation-challenge)
+* [Behavior Drill: Tabbed Interface](https://github.com/fiddler-crabs-2014/behavior-drill-tabbed-interface-challenge)
+* [Layout Drill: Fixed Navigation](https://github.com/fiddler-crabs-2014/layout-drill-fixed-navigation-challenge)
 
 ### Sinatra
-* [Sinatra Sandbox](https://github.com/otters-2014/sinatra-sandbox-challenge)
-* [Deaf Sinatra 2: Asynchronous Forms](https://github.com/otters-2014/deaf-sinatra-2-asynchronous-forms-challenge)
-* [Craigslist, Jr.](https://github.com/otters-2014/craigslist-jr-challenge)
+* [Sinatra Sandbox](https://github.com/fiddler-crabs-2014/sinatra-sandbox-challenge)
+* [Deaf Sinatra 2: Asynchronous Forms](https://github.com/fiddler-crabs-2014/deaf-sinatra-2-asynchronous-forms-challenge)
+* [Craigslist, Jr.](https://github.com/fiddler-crabs-2014/craigslist-jr-challenge)
 
 ## Stretch Challenges
-* [Sinatra Restful Crud](https://github.com/otters-2014/ph2-p1-sinatra-restful-crud-challenge)
+* [Sinatra Restful Crud](https://github.com/fiddler-crabs-2014/ph2-p1-sinatra-restful-crud-challenge)
 
 
 ## Schedule

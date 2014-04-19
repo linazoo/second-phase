@@ -43,7 +43,7 @@ We will be using github to submit and review all challenges. There are three sta
 
 ![](img/edit.png)
 
-Select otters-2014. Now you're good to go.
+Select fiddler-crabs-2014. Now you're good to go.
 ![](img/select.png)
 
 
@@ -105,13 +105,13 @@ A teacher or fellow boot will review your code by commenting on your pull reques
 
 ![](img/edit.png)
 
-Select otters-2014. Now you're good to go.
+Select fiddler-crabs-2014. Now you're good to go.
 ![](img/select.png)
 
 
 ## Group Project Workflow
 
-When working on a group project, you will be starting with a brand new repository which you will create as a private repository in the otters-2014 organization.
+When working on a group project, you will be starting with a brand new repository which you will create as a private repository in the fiddler-crabs-2014 organization.
 
 1. [Create a new repository on github](https://help.github.com/articles/create-a-repo).
 
