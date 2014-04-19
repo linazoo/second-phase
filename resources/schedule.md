@@ -8,20 +8,20 @@
 
 ## Weekly Events
 
-* Yoga: Tuesday from 8:00 - 9:00 a.m.
-* Engineering Empathy: First Wednesday
+* Yoga: Monday & Wednesday
+* Engineering Empathy: TBD
 * Assessments: Thursday from 8:15 - 11:15 a.m. (Weeks 2 and 3)
-* DBCx: Thursday at 5:30 p.m.
 
 ## General Daily Cadence
 
 * Check in with accountability buddies
 * Announcements
 * Yoga on Monday and Wednesday
+* Drills
 * Morning Lecture
 * Challenges
 * Lunch
-* Afternoon Lecture
+* Afternoon Lecture or Recitations
 * Challenges
 * End of core hours
 * Challenges, Optimize your learning
