@@ -44,7 +44,6 @@
 - [Friday](week-3/friday.md)
 
 ### Additional Resources
-* [Counseling Session Signup](https://docs.google.com/a/devbootcamp.com/spreadsheet/ccc?key=0AkUBwMuwpfpvdFctWEpQNEdUank0dndENVhWMHhWbmc#gid=0)
 * [How to Submit a Challenge](resources/how-to-submit.md)
 * [Learning Competencies](resources/competencies.md)
 * [Mentoring Signup](http://mentoring.devbootcamp.com/)
