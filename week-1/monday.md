@@ -25,7 +25,7 @@ With your pair, complete the following challenges.
 
 ### PM: Intro to HTTP
 * [HTTP Basics](http://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/http_basics.html)
-* [HTTP Request & Response Cycle](http://devhub.fm/http-requestresponse-basics/) - not working
+* [HTTP Request & Response Cycle (archive.org cache link)](https://web.archive.org/web/20130705214517/http://devhub.fm/http-requestresponse-basics)
 
 ## Other Resources
 * [Singing With Sinatra, Parts 1-3](http://net.tutsplus.com/tutorials/ruby/singing-with-sinatra/)
