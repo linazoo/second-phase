@@ -19,6 +19,7 @@ With your pair, complete the following challenges.
 
 ## Schedule
 ### AM: CSS Floats & Positioning
+* [CSS Display Playground](http://quirksmode.org/css/css2/display.html#link9)
 * [CSS Floats](http://alistapart.com/article/css-floats-101)
 * [CSS Positioning](http://alistapart.com/article/css-positioning-101)
 
