@@ -9,8 +9,8 @@
 ## Weekly Events
 
 * Yoga: Monday & Wednesday
-* Engineering Empathy: TBD
-* Assessments: Thursday from 8:15 - 11:15 a.m. (Weeks 2 and 3)
+* Engineering Empathy: Thurs
+* Assessments: Thursday from 9:15 - 12:15 a.m. (Weeks 2 and 3)
 
 ## General Daily Cadence
 
