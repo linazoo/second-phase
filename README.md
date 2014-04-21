@@ -1,12 +1,7 @@
 # Phase 2 Guide
 
 ### Week 1:
-**Groups**
-
-1.
-2.
-3.
-4.
+**[Groups](https://github.com/fiddler-crabs-2014/phase-2-guide/wiki#week-1-groups)**
 
 **Daily Guides:**
 
