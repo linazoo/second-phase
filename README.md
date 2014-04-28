@@ -1,7 +1,9 @@
 # Phase 2 Guide
 
-### Week 1:
+### Weekly Groups
 **[Groups](https://github.com/fiddler-crabs-2014/phase-2-guide/wiki#week-1-groups)**
+
+### Week 1:
 
 **Daily Guides:**
 
@@ -12,13 +14,6 @@
 - [Friday](week-1/friday.md)
 
 ### Week 2:
-**Groups:**
-
-1.
-2.
-3.
-4.
-
 **Daily Guides:**
 
 - [Monday](week-2/monday.md)
@@ -28,13 +23,6 @@
 - [Friday](week-2/friday.md)
 
 ### Week 3:
-**Groups:**
-
-1.
-2.
-3.
-4.
-
 **Daily Guides:**
 
 - [Monday](week-3/monday.md)
