@@ -13,5 +13,5 @@ With your pair, complete the following challenges.
 * [Tweet Now! 2: Multi-User](https://github.com/fiddler-crabs-2014/tweet-now-2-multi-user-challenge)
 
 ## Schedule
-### AM: Cores
-### PM: Recitation
+### AM: OAuth
+### PM: Advanced AR & Optional Recitations
