@@ -2,23 +2,14 @@
 
 ##Table Of Contents
 
-## Week 1
-
 * [Ruby Web Apps and Sinatra](#ruby-web-apps-and-sinatra)
-* [Testing](#testing)
 * [Active Record](#active-record)
 * [HTML and CSS](#HTML-and-CSS)
-
-## Week 2
-
 * [JavaScript](#javascript)
 * [JavaScript Testing - Jasmine](#jasmine)
 * [JavaScript Frameworks and Libraries](#javascript-frameworks-and-libraries)
 * [Debugging JavaScript](#debugging-javascript)
 * [Front End Engineering](#front-end-engineering)
-
-## Week 3
-
 * [API](#API)
 
 ## All Weeks
@@ -26,8 +17,6 @@
 * [EE](#engineering-empathy)
 * [Soft Skills](#soft-skills)
 * [More Tutorials](#tutorials)
-
-
 
 ### Ruby Web Apps
 ####Sinatra
@@ -40,14 +29,14 @@
 1. [request/response cycle](http://devhub.fm/http-requestresponse-basics/), :level_1, :tutorial
 1. [URI](https://en.wikipedia.org/wiki/URI_scheme#Examples), :level_1, :tutorial
 1. [bcrypt](http://bcrypt-ruby.rubyforge.org/) , :level_2, :documentation
-1.[Socket](http://www.ruby-doc.org/stdlib-2.0.0/libdoc/socket/rdoc/Socket.html), :level_2
+1. [Socket](http://www.ruby-doc.org/stdlib-2.0.0/libdoc/socket/rdoc/Socket.html), :level_2
 
 
 #### Rack
 1. [Rack Compliant Frameworks](https://devcenter.heroku.com/articles/rack#sinatra), :level_2
 1. [What is Rack](http://codefol.io/posts/14--What-is-Rack-A-Primer), :level_2
 1. [Rack Apps](http://rack.rubyforge.org/doc/Rack/Builder.html) , :level_2
-1. [nested query params](http://codefol.io/posts/9-How-Does-Rack-Parse-Query-Params-With-parse-nested-query), :level_2, :blog
+1. [Nested Query Params](http://codefol.io/posts/9-How-Does-Rack-Parse-Query-Params-With-parse-nested-query), :level_2, :blog
 
 #### Environment
 1. [Environment Variables in Ruby](http://ruby.about.com/od/rubyfeatures/a/envvar.htm), :level_2, :tutorial
@@ -61,8 +50,8 @@
 
 #### Rake
 1. [Rake](http://jasonseifer.com/2010/04/06/rake-tutorial#The-Default-Task), :level_2, :tutorial
-1. [restful routes](http://guides.rubyonrails.org/routing.html) - see the Restful Routes Table, :level_2, :documentation
-1. [HTTP Server in ruby](http://oldmoe.blogspot.com/2009/10/ruby-19x-web-servers-booklet.html), :level_3, :blog
+1. [Restful Routes](http://guides.rubyonrails.org/routing.html) - see the Restful Routes Table, :level_2, :documentation
+1. [HTTP Server in Ruby](http://oldmoe.blogspot.com/2009/10/ruby-19x-web-servers-booklet.html), :level_3, :blog
 
 ### Testing
 
@@ -73,7 +62,7 @@
 1. [Testing Web Apps with Capybara and Sinatra](http://net.tutsplus.com/tutorials/ruby/ruby-for-newbies-testing-web-apps-with-capybara-and-cucumber/),:level_2, :tutorial
 1. [Using Capybara](https://github.com/jnicklas/capybara), :level_1, :tutorial
 1. [RSpec Rake Tasks](https://www.relishapp.com/rspec/rspec-core/docs/command-line/rake-task), :level_2, :documentation
-1.  [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers), :level_2, :documentation
+1. [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers), :level_2, :documentation
 
 ### Active Record
 1. [Active Record Migrations](http://api.rubyonrails.org/classes/ActiveRecord/Migration.html), :level_1, :documentation
@@ -148,7 +137,6 @@
 ## Soft Skills
 1. [Code Review](http://blog.codeclimate.com/blog/2013/10/09/unexpected-outcomes-of-code-reviews/?utm_source=Code+Climate&utm_campaign=ef73e7adfa-newsletter-2013-10&utm_medium=email&utm_term=0_672a7f5529-ef73e7adfa-318096897), from Zee
 1. [Coding Interview Tips](http://www.interviewcake.com/tips-and-tricks), from Paul
-
 
 
 ## Tutorials
