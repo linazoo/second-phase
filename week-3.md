@@ -13,8 +13,8 @@ With your pair, complete the following challenges.
 - [Recent Tweets 2](https://github.com/fiddler-crabs-2014/recent-tweets-2-challenge)
 
 ### Schedule
-AM: Team Presentations, Advanced ActiveRecord  
-PM: Recitation
+AM: Team Presentations
+PM: Working with APIs
 
 
 ## Tuesday
@@ -32,8 +32,8 @@ With your pair, complete the following challenges.
 - [Tweet Now! 2: Multi-User](https://github.com/fiddler-crabs-2014/tweet-now-2-multi-user-challenge)
 
 ### Schedule
-AM: OAuth  
-PM: Advanced AR & Optional Recitations
+AM: OAuth
+PM: Data in the DOM, Recitations
 
 
 ## Wednesday
@@ -46,7 +46,7 @@ With your pair, complete the following challenges.
 - [Oh My Auth! (Google)](https://github.com/fiddler-crabs-2014/oh-my-auth-google-challenge)
 
 ### Schedule
-AM: OOJS Take 2  
+AM: OOJS Take 2
 PM: Recitation
 
 
@@ -54,7 +54,7 @@ PM: Recitation
 Assessment day! Good luck!
 
 ### Schedule
-AM: Assessment  
+AM: Assessment
 PM: The Hardest Challenge Yet
 
 Build whatever you'd like! You'll have this afternoon and most of Friday to build a web app of your choosing.
@@ -65,5 +65,5 @@ It's up to you if you want to solo, pair or build something as a group.
 ## Friday
 
 ### Schedule
-AM: The Hardest Challenge Yet (cont.)  
+AM: The Hardest Challenge Yet (cont.)
 PM: Presentations

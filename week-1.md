@@ -19,17 +19,17 @@ With your pair, complete the following challenges.
 - [CSS Layout Simple Marketing Page](https://github.com/fiddler-crabs-2014/ph2-p4-css-layout-simple-marketing-page-challenge)
 
 ### Schedule
-AM: CSS Floats & Positioning  
+AM: CSS Floats & Positioning
 - [HTML & CSS Resources](https://gist.github.com/jenmyers/a6bb9ea6233c6c5a9edb)
 - [CSS Display Playground](http://quirksmode.org/css/css2/display.html#link9)
 - [CSS Floats](http://alistapart.com/article/css-floats-101)
 - [CSS Positioning](http://alistapart.com/article/css-positioning-101)
 
-PM: Intro to HTTP  
+PM: Intro to HTTP
 - [HTTP Basics](http://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/http_basics.html)
 - [HTTP Request & Response Cycle (archive.org cache link)](https://web.archive.org/web/20130705214517/http://devhub.fm/http-requestresponse-basics)
 
-Other Resources  
+Other Resources
 - [Singing With Sinatra, Parts 1-3](http://net.tutsplus.com/tutorials/ruby/singing-with-sinatra/)
 
 
@@ -44,19 +44,12 @@ With your pair, complete the following challenges.
 
 #### Sinatra
 - [Sinatra Sandbox](https://github.com/fiddler-crabs-2014/sinatra-sandbox-challenge)
-- [Deaf Sinatra 2: Asynchronous Forms](https://github.com/fiddler-crabs-2014/deaf-sinatra-2-asynchronous-forms-challenge)
 - [Craigslist, Jr.](https://github.com/fiddler-crabs-2014/craigslist-jr-challenge)
-
-### Stretch Challenges
 - [Sinatra Restful Crud](https://github.com/fiddler-crabs-2014/ph2-p1-sinatra-restful-crud-challenge)
 
 ### Schedule
-AM: Intro to Javascript  
-- [Javascript Foundations](http://teamtreehouse.com/library/javascript-foundations)
-- [Javascript Cheatsheet](http://wps.aw.com/wps/media/objects/2234/2287950/javascript_refererence.pdf)
-- [A Re-introduction to Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
-
-PM: Intro to JQuery
+AM: RESTful Routing
+PM: Recitations (afternoon)
 
 
 ## Wednesday
@@ -64,13 +57,12 @@ PM: Intro to JQuery
 ### Core Challenges
 With your pair, complete the following challenges.
 
-- [Lucky AJAX!](https://github.com/fiddler-crabs-2014/lucky-ajax-challenge)
 - [Sinatra URL Shortener](https://github.com/fiddler-crabs-2014/sinatra-url-shortener-challenge)
 - [Dummy Users](https://github.com/fiddler-crabs-2014/dummy-users-challenge)
 - [Sinatra URL Shortener: With Users](https://github.com/fiddler-crabs-2014/sinatra-url-shortener-with-users-challenge)
 
 ### Schedule
-AM: Sessions & Cookies  
+AM: Sessions & Cookies
 PM: Recitations (afternoon)
 
 
@@ -89,8 +81,8 @@ With your pair, complete the following challenges.
 - [Blog 3: Pagination](https://github.com/fiddler-crabs-2014/blog-3-pagination-challenge)
 
 ### Schedule
-AM: AJAX  
-PM: Recitations
+AM: Advanced ActiveRecord
+PM: More ActiveRecord
 
 
 ## Friday
@@ -101,6 +93,9 @@ As a group, complete the following challenges.
 - [Web Flash Cards 1: Multiple Decks](https://github.com/fiddler-crabs-2014/web-flash-cards-1-multiple-decks-challenge)
 - [Web Flash Cards 2: AJAX Guessing](https://github.com/fiddler-crabs-2014/web-flash-cards-2-ajax-guessing-challenge)
 
+On your own or in a pair, complete the following challenges.
+- [From Ruby to JavaScript](https://github.com/Devbootcamp/javascript-from-ruby-challenge)
+
 ### Schedule
-AM: Group Project  
-PM: Group Project
+AM: Group Project
+PM: Intro to AJAX, Group Project
