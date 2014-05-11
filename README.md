@@ -1,6 +1,6 @@
 # Phase 2 Guide
 
-**[Groups, Resources, and more!](./wiki)**
+**[Groups, Resources, and more!](../../wiki)**
 
 ### Week 1:
 
