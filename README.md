@@ -2,37 +2,34 @@
 
 **[Groups, Resources, and more!](../../wiki)**
 
-### Week 1:
+## Course Outline
 
-**Daily Guides:**
+- [Week 1 : Web Fundementals](week-1.md)
+- [Week 2 : Front End](week-2.md)
+- [Week 3 : Web Apps](week-3.md)
 
-- [Monday](week-1/monday.md)
-- [Tuesday](week-1/tuesday.md)
-- [Wednesday](week-1/wednesday.md)
-- [Thursday](week-1/thursday.md)
-- [Friday](week-1/friday.md)
+## Weekly Cadence
 
-### Week 2:
-**Daily Guides:**
+- Yoga: Monday & Wednesday
+- Engineering Empathy: Thurs
+- Assessments: Thursday from 9:15 - 12:15 a.m. (Weeks 2 and 3)
 
-- [Monday](week-2/monday.md)
-- [Tuesday](week-2/tuesday.md)
-- [Wednesday](week-2/wednesday.md)
-- [Thursday](week-2/thursday.md)
-- [Friday](week-2/friday.md)
+## Daily Cadence
 
-### Week 3:
-**Daily Guides:**
+- Check in with accountability buddies
+- Announcements
+- Yoga (Monday and Wednesday)
+- Drills
+- Morning Lecture
+- Challenges
+- Lunch
+- Afternoon Lecture or Recitations
+- Challenges
+- End of core hours
+- Challenges, Optimize your learning
 
-- [Monday](week-3/monday.md)
-- [Tuesday](week-3/tuesday.md)
-- [Wednesday](week-3/wednesday.md)
-- [Thursday](week-3/thursday.md)
-- [Friday](week-3/friday.md)
+## Additional Resources
 
-### Additional Resources
-* [How to Submit a Challenge](resources/how-to-submit.md)
-* [Learning Competencies](resources/competencies.md)
-* [Mentoring Signup](http://mentoring.devbootcamp.com/)
-* [Resource Links](resources/resources.md)
-* [Schedule](resources/schedule.md)
+- [How to Submit a Challenge](resources/how-to-submit.md)
+- [Resource Links](resources/resources.md)
+- [Mentoring Signup](http://mentoring.devbootcamp.com/)
