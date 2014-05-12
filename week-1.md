@@ -6,17 +6,17 @@
 With your pair, complete the following challenges.
 
 #### HTML/CSS
-- [Layout Drill: Left-hand Navigation](https://github.com/fiddler-crabs-2014/layout-drill-left-hand-navigation-challenge)
-- [Layout Drill: Right-hand Navigation](https://github.com/fiddler-crabs-2014/layout-drill-right-hand-navigation-challenge)
-- [Layout Drill: Top Navigation](https://github.com/fiddler-crabs-2014/layout-drill-top-navigation-challenge)
+- [Layout Drill: Left-hand Navigation](../../../layout-drill-left-hand-navigation-challenge)
+- [Layout Drill: Right-hand Navigation](../../../layout-drill-right-hand-navigation-challenge)
+- [Layout Drill: Top Navigation](../../../layout-drill-top-navigation-challenge)
 
 #### HTTP & Sinatra
-- [Deaf Sinatra 1: Synchronous Forms](https://github.com/fiddler-crabs-2014/deaf-sinatra-1-synchronous-forms-challenge)
-- [Anagram Server 1: The Basics](https://github.com/fiddler-crabs-2014/anagram-server-1-the-basics-challenge)
-- [Anagram Server 2: Ludicrous Speed](https://github.com/fiddler-crabs-2014/anagram-server-2-ludicrous-speed-challenge)
+- [Deaf Sinatra 1: Synchronous Forms](../../../deaf-sinatra-1-synchronous-forms-challenge)
+- [Anagram Server 1: The Basics](../../../anagram-server-1-the-basics-challenge)
+- [Anagram Server 2: Ludicrous Speed](../../../anagram-server-2-ludicrous-speed-challenge)
 
 ### Stretch Challenges
-- [CSS Layout Simple Marketing Page](https://github.com/fiddler-crabs-2014/ph2-p4-css-layout-simple-marketing-page-challenge)
+- [CSS Layout Simple Marketing Page](../../../ph2-p4-css-layout-simple-marketing-page-challenge)
 
 ### Schedule
 AM: CSS Floats & Positioning
@@ -39,13 +39,13 @@ Other Resources
 With your pair, complete the following challenges.
 
 #### HTML/CSS
-- [Behavior Drill: Tabbed Interface](https://github.com/fiddler-crabs-2014/behavior-drill-tabbed-interface-challenge)
-- [Layout Drill: Fixed Navigation](https://github.com/fiddler-crabs-2014/layout-drill-fixed-navigation-challenge)
+- [Behavior Drill: Tabbed Interface](../../../behavior-drill-tabbed-interface-challenge)
+- [Layout Drill: Fixed Navigation](../../../layout-drill-fixed-navigation-challenge)
 
 #### Sinatra
-- [Sinatra Sandbox](https://github.com/fiddler-crabs-2014/sinatra-sandbox-challenge)
-- [Craigslist, Jr.](https://github.com/fiddler-crabs-2014/craigslist-jr-challenge)
-- [Sinatra Restful Crud](https://github.com/fiddler-crabs-2014/ph2-p1-sinatra-restful-crud-challenge)
+- [Sinatra Sandbox](../../../sinatra-sandbox-challenge)
+- [Craigslist, Jr.](../../../craigslist-jr-challenge)
+- [Sinatra Restful Crud](../../../ph2-p1-sinatra-restful-crud-challenge)
 
 ### Schedule
 AM: RESTful Routing
@@ -57,9 +57,9 @@ PM: Recitations (afternoon)
 ### Core Challenges
 With your pair, complete the following challenges.
 
-- [Sinatra URL Shortener](https://github.com/fiddler-crabs-2014/sinatra-url-shortener-challenge)
-- [Dummy Users](https://github.com/fiddler-crabs-2014/dummy-users-challenge)
-- [Sinatra URL Shortener: With Users](https://github.com/fiddler-crabs-2014/sinatra-url-shortener-with-users-challenge)
+- [Sinatra URL Shortener](../../../sinatra-url-shortener-challenge)
+- [Dummy Users](../../../dummy-users-challenge)
+- [Sinatra URL Shortener: With Users](../../../sinatra-url-shortener-with-users-challenge)
 
 ### Schedule
 AM: Sessions & Cookies
@@ -72,13 +72,13 @@ PM: Recitations (afternoon)
 With your pair, complete the following challenges.
 
 #### HTML/CSS
-- [Layout Drill: Proper Typesetting](https://github.com/fiddler-crabs-2014/layout-drill-proper-typesetting-challenge)
-- [Layout Drill: Pagination Navigation](https://github.com/fiddler-crabs-2014/layout-drill-pagination-navigation-challenge)
+- [Layout Drill: Proper Typesetting](../../../layout-drill-proper-typesetting-challenge)
+- [Layout Drill: Pagination Navigation](../../../layout-drill-pagination-navigation-challenge)
 
 #### Sinatra
-- [Blog 1: Anonymous Blog](https://github.com/fiddler-crabs-2014/blog-1-anonymous-blog-challenge)
-- [Blog 2: Multi-Author](https://github.com/fiddler-crabs-2014/blog-2-multi-author-challenge)
-- [Blog 3: Pagination](https://github.com/fiddler-crabs-2014/blog-3-pagination-challenge)
+- [Blog 1: Anonymous Blog](../../../blog-1-anonymous-blog-challenge)
+- [Blog 2: Multi-Author](../../../blog-2-multi-author-challenge)
+- [Blog 3: Pagination](../../../blog-3-pagination-challenge)
 
 ### Schedule
 AM: Advanced ActiveRecord
@@ -90,11 +90,11 @@ PM: More ActiveRecord
 ### Core Challenges
 As a group, complete the following challenges.
 
-- [Web Flash Cards 1: Multiple Decks](https://github.com/fiddler-crabs-2014/web-flash-cards-1-multiple-decks-challenge)
-- [Web Flash Cards 2: AJAX Guessing](https://github.com/fiddler-crabs-2014/web-flash-cards-2-ajax-guessing-challenge)
+- [Web Flash Cards 1: Multiple Decks](../../../web-flash-cards-1-multiple-decks-challenge)
+- [Web Flash Cards 2: AJAX Guessing](../../../web-flash-cards-2-ajax-guessing-challenge)
 
 On your own or in a pair, complete the following challenges.
-- [From Ruby to JavaScript](https://github.com/Devbootcamp/javascript-from-ruby-challenge)
+- [From Ruby to JavaScript](../../../javascript-from-ruby-challenge)
 
 ### Schedule
 AM: Group Project
