@@ -6,13 +6,13 @@
 With your pair, complete the following challenges.
 
 #### HTML/CSS
-- [Layout Drill: Basic Form Styling](https://github.com/fiddler-crabs-2014/layout-drill-basic-form-styling-challenge)
-- [Layout Drill: Sticky Side Menu](https://github.com/fiddler-crabs-2014/layout-drill-sticky-side-menu-challenge)
+- [Layout Drill: Basic Form Styling](../../../layout-drill-basic-form-styling-challenge)
+- [Layout Drill: Sticky Side Menu](../../../layout-drill-sticky-side-menu-challenge)
 
 #### JS & Sinatra
 
-- [JavaScript Racer 1: Front-end](https://github.com/fiddler-crabs-2014/javascript-racer-1-front-end-challenge)
-- [JavaScript Racer 2: Back-end](https://github.com/fiddler-crabs-2014/javascript-racer-2-back-end-challenge)
+- [JavaScript Racer 1: Front-end](../../../javascript-racer-1-front-end-challenge)
+- [JavaScript Racer 2: Back-end](../../../javascript-racer-2-back-end-challenge)
 
 ### Schedule
 AM: Intro to JavaScript
@@ -29,12 +29,12 @@ PM: Intro to JQuery
 With your pair, complete the following challenges.
 
 #### HTML/CSS
-- [Layout Drill: Two Column Layout](https://github.com/fiddler-crabs-2014/layout-drill-two-column-layout-challenge)
-- [Layout Drill: Three Column Layout](https://github.com/fiddler-crabs-2014/layout-drill-three-column-layout-challenge)
+- [Layout Drill: Two Column Layout](../../../layout-drill-two-column-layout-challenge)
+- [Layout Drill: Three Column Layout](../../../layout-drill-three-column-layout-challenge)
 
 #### AJAX
-- [Deaf Sinatra 2: Asynchronous Forms](https://github.com/fiddler-crabs-2014/deaf-sinatra-2-asynchronous-forms-challenge)
-- [Lucky AJAX!](https://github.com/fiddler-crabs-2014/lucky-ajax-challenge)
+- [Deaf Sinatra 2: Asynchronous Forms](../../../deaf-sinatra-2-asynchronous-forms-challenge)
+- [Lucky AJAX!](../../../lucky-ajax-challenge)
 
 ### Schedule
 AM: AJAX
@@ -47,13 +47,13 @@ PM: Recitations
 With your pair, complete the following challenges.
 
 #### HTML/CSS
-- [Layout Drill: Button-Style Navigation Bar](https://github.com/fiddler-crabs-2014/layout-drill-button-style-navigation-bar-challenge)
-- [Behavior Drill: Drop Down Menu](https://github.com/fiddler-crabs-2014/behavior-drill-drop-down-menu-challenge)
+- [Layout Drill: Button-Style Navigation Bar](../../../layout-drill-button-style-navigation-bar-challenge)
+- [Behavior Drill: Drop Down Menu](../../../behavior-drill-drop-down-menu-challenge)
 
 #### JS & Sinatra
 
-- [JavaScript Racer 3: Sane JavaScript](https://github.com/fiddler-crabs-2014/javascript-racer-3-sane-javascript-challenge)
-- [Hacker News Clone (Part 2)](https://github.com/fiddler-crabs-2014/hacker-news-clone-part-2-challenge)
+- [JavaScript Racer 3: Sane JavaScript](../../../javascript-racer-3-sane-javascript-challenge)
+- [Hacker News Clone (Part 2)](../../../hacker-news-clone-part-2-challenge)
 
 ### Schedule
 AM: JS Scope
@@ -66,11 +66,11 @@ PM: OOJS
 With your pair, complete the following challenges.
 
 #### JavaScript
-- [Behavior Drill: Form Validation](https://github.com/fiddler-crabs-2014/behavior-drill-form-validation-challenge)
-- [Behavior Drill: Image Carousel](https://github.com/fiddler-crabs-2014/behavior-drill-image-carousel-challenge)
+- [Behavior Drill: Form Validation](../../../behavior-drill-form-validation-challenge)
+- [Behavior Drill: Image Carousel](../../../behavior-drill-image-carousel-challenge)
 
 #### JS & Sinatra
-- [Flickr, Jr.](https://github.com/fiddler-crabs-2014/flickr-jr-challenge)
+- [Flickr, Jr.](../../../flickr-jr-challenge)
 
 ### Schedule
 AM: Mock Assessment
@@ -82,7 +82,7 @@ PM: Assessment Review & Cores
 ### Core Challenges
 With your group, complete the following challenge:
 
-- [Survey Gorilla](https://github.com/fiddler-crabs-2014/survey-gorilla-challenge)
+- [Survey Gorilla](../../../survey-gorilla-challenge)
 
 You'll present your Survey Gorrila project Monday morning.
 

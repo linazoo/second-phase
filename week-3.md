@@ -7,10 +7,10 @@ With your pair, complete the following challenges.
 
 #### JS & Sinatra
 
-- [Behavior Drill: Style Editor](https://github.com/fiddler-crabs-2014/behavior-drill-style-editor-challenge)
-- [Behavior Drill: Add Comments](https://github.com/fiddler-crabs-2014/behavior-drill-add-comments-challenge)
-- [Recent Tweets 1](https://github.com/fiddler-crabs-2014/recent-tweets-1-challenge)
-- [Recent Tweets 2](https://github.com/fiddler-crabs-2014/recent-tweets-2-challenge)
+- [Behavior Drill: Style Editor](../../../behavior-drill-style-editor-challenge)
+- [Behavior Drill: Add Comments](../../../behavior-drill-add-comments-challenge)
+- [Recent Tweets 1](../../../recent-tweets-1-challenge)
+- [Recent Tweets 2](../../../recent-tweets-2-challenge)
 
 ### Schedule
 AM: Team Presentations
@@ -23,13 +23,13 @@ PM: Working with APIs
 With your pair, complete the following challenges.
 
 #### HTML & CSS
-- [Layout Drill: Sticky Side Menu](https://github.com/fiddler-crabs-2014/layout-drill-sticky-side-menu-challenge)
-- [Behavior Drill: Collapsible Side Menu](https://github.com/fiddler-crabs-2014/behavior-drill-collapsible-side-menu-challenge)
+- [Layout Drill: Sticky Side Menu](../../../layout-drill-sticky-side-menu-challenge)
+- [Behavior Drill: Collapsible Side Menu](../../../behavior-drill-collapsible-side-menu-challenge)
 
 #### JS & Sinatra
-- [Heroku 1: Getting Started](https://github.com/fiddler-crabs-2014/heroku-1-getting-started-challenge)
-- [Tweet Now! 1: Single User](https://github.com/fiddler-crabs-2014/tweet-now-1-single-user-challenge)
-- [Tweet Now! 2: Multi-User](https://github.com/fiddler-crabs-2014/tweet-now-2-multi-user-challenge)
+- [Heroku 1: Getting Started](../../../heroku-1-getting-started-challenge)
+- [Tweet Now! 1: Single User](../../../tweet-now-1-single-user-challenge)
+- [Tweet Now! 2: Multi-User](../../../tweet-now-2-multi-user-challenge)
 
 ### Schedule
 AM: OAuth
@@ -41,9 +41,9 @@ PM: Data in the DOM, Recitations
 ### Core Challenges
 With your pair, complete the following challenges.
 
-- [Heroku 2: Apps Ahoy!](https://github.com/fiddler-crabs-2014/heroku-2-apps-ahoy-challenge)
-- [Tweet Later](https://github.com/fiddler-crabs-2014/tweet-later-challenge)
-- [Oh My Auth! (Google)](https://github.com/fiddler-crabs-2014/oh-my-auth-google-challenge)
+- [Heroku 2: Apps Ahoy!](../../../heroku-2-apps-ahoy-challenge)
+- [Tweet Later](../../../tweet-later-challenge)
+- [Oh My Auth! (Google)](../../../oh-my-auth-google-challenge)
 
 ### Schedule
 AM: OOJS Take 2
