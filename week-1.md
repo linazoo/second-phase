@@ -47,8 +47,8 @@ With your pair, complete the following challenges.
 - [Sinatra Restful Crud](../../../ph2-p1-sinatra-restful-crud-challenge)
 
 ### Schedule
-AM: RESTful Routing
-PM: Recitations (afternoon)
+AM: RESTful Routing  
+PM: Sinatra
 
 
 ## Wednesday
@@ -61,7 +61,7 @@ With your pair, complete the following challenges.
 - [Sinatra URL Shortener: With Users](../../../sinatra-url-shortener-with-users-challenge)
 
 ### Schedule
-AM: Sessions & Cookies
+AM: Advanced ActiveRecord  
 PM: Recitations (afternoon)
 
 
@@ -80,7 +80,7 @@ With your pair, complete the following challenges.
 - [Blog 3: Pagination](../../../blog-3-pagination-challenge)
 
 ### Schedule
-AM: Advanced ActiveRecord
+AM: Sessions & Cookies  
 PM: More ActiveRecord
 
 
@@ -96,5 +96,5 @@ On your own or in a pair, complete the following challenges.
 - [From Ruby to JavaScript](../../../javascript-from-ruby-challenge)
 
 ### Schedule
-AM: Group Project
+AM: Group Project  
 PM: Intro to AJAX, Group Project
