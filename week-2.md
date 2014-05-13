@@ -8,6 +8,7 @@ With your pair, complete the following challenges.
 #### HTML/CSS
 - [Layout Drill: Basic Form Styling](../../../layout-drill-basic-form-styling-challenge)
 - [Layout Drill: Sticky Side Menu](../../../layout-drill-sticky-side-menu-challenge)
+- [Behavior Drill: Tabbed Interface](../../../behavior-drill-tabbed-interface-challenge)
 
 #### JS & Sinatra
 
