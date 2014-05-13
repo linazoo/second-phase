@@ -39,7 +39,6 @@ Other Resources
 With your pair, complete the following challenges.
 
 #### HTML/CSS
-- [Behavior Drill: Tabbed Interface](../../../behavior-drill-tabbed-interface-challenge)
 - [Layout Drill: Fixed Navigation](../../../layout-drill-fixed-navigation-challenge)
 
 #### Sinatra
