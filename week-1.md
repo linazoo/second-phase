@@ -56,12 +56,16 @@ PM: Sinatra
 ### Core Challenges
 With your pair, complete the following challenges.
 
+### ActiveRecord
+- [Drill: Advanced ActiveRecord](../../../advanced-ar-dril)
+
+#### Sinatra
 - [Sinatra URL Shortener](../../../sinatra-url-shortener-challenge)
 - [Dummy Users](../../../dummy-users-challenge)
 - [Sinatra URL Shortener: With Users](../../../sinatra-url-shortener-with-users-challenge)
 
 ### Schedule
-AM: Advanced ActiveRecord  
+AM: Advanced ActiveRecord
 PM: Recitations (afternoon)
 
 
