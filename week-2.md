@@ -33,6 +33,9 @@ With your pair, complete the following challenges.
 - [Layout Drill: Two Column Layout](../../../layout-drill-two-column-layout-challenge)
 - [Layout Drill: Three Column Layout](../../../layout-drill-three-column-layout-challenge)
 
+#### JavaScript & TDD
+- [Orange Trees: TDD w/ Jasmine](../../../orange-jasmine-challenge)
+
 #### AJAX
 - [Deaf Sinatra 2: Asynchronous Forms](../../../deaf-sinatra-2-asynchronous-forms-challenge)
 - [Lucky AJAX!](../../../lucky-ajax-challenge)
