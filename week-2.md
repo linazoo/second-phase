@@ -42,7 +42,6 @@ With your pair, complete the following challenges.
 
 ### Schedule
 AM: AJAX
-PM: Recitations
 
 
 ## Wednesday
@@ -60,8 +59,7 @@ With your pair, complete the following challenges.
 - [Hacker News Clone (Part 2)](../../../hacker-news-clone-part-2-challenge)
 
 ### Schedule
-AM: JS Scope
-PM: OOJS
+PM: Recitations
 
 
 ## Thursday
