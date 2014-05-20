@@ -55,8 +55,9 @@ With your pair, complete the following challenges.
 
 #### JS & Sinatra
 
-- [JavaScript Racer 3: Sane JavaScript](../../../javascript-racer-3-sane-javascript-challenge)
+- [Hacker News Clone (Part 1)](../../../hacker-news-clone-part-1-challenge)
 - [Hacker News Clone (Part 2)](../../../hacker-news-clone-part-2-challenge)
+- [JavaScript Racer 3: Sane JavaScript](../../../javascript-racer-3-sane-javascript-challenge)
 
 ### Schedule
 PM: Recitations
