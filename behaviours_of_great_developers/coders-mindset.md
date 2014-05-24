@@ -5,7 +5,7 @@ learning are the most important skills a programmer can have. The coders
 mindset requires that you:
 
 1. Have a clear strategy for learning
-1. Strive for simplcity
+1. Strive for simplicity
 1. Move between layers of abstraction
 1. Communicate clearly
 
