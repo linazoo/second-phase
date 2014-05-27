@@ -32,8 +32,7 @@ With your pair, complete the following challenges.
 - [Tweet Now! 2: Multi-User](../../../tweet-now-2-multi-user-challenge)
 
 ### Schedule
-AM: OAuth   
-PM: Data in the DOM
+PM: OAuth   
 
 
 ## Wednesday
