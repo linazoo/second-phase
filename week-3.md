@@ -13,7 +13,7 @@ With your pair, complete the following challenges.
 - [Recent Tweets 2](../../../recent-tweets-2-challenge)
 
 ### Schedule
-AM: Team Presentations
+AM: Team Presentations   
 PM: Working with APIs
 
 
@@ -32,8 +32,8 @@ With your pair, complete the following challenges.
 - [Tweet Now! 2: Multi-User](../../../tweet-now-2-multi-user-challenge)
 
 ### Schedule
-AM: OAuth
-PM: Data in the DOM, Recitations
+AM: OAuth   
+PM: Data in the DOM
 
 
 ## Wednesday
@@ -46,7 +46,7 @@ With your pair, complete the following challenges.
 - [Oh My Auth! (Google)](../../../oh-my-auth-google-challenge)
 
 ### Schedule
-AM: OOJS Take 2
+AM: OOJS Take 2   
 PM: Recitation
 
 
@@ -65,5 +65,5 @@ It's up to you if you want to solo, pair or build something as a group.
 ## Friday
 
 ### Schedule
-AM: The Hardest Challenge Yet (cont.)
+AM: The Hardest Challenge Yet (cont.)   
 PM: Presentations
