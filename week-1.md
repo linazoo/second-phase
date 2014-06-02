@@ -33,6 +33,7 @@ With your pair, complete the following challenges.
 
 ### Schedule
 AM: HTML/CSS
+
 PM: RESTful Routing
 
 ### Resources
@@ -57,6 +58,7 @@ With your pair, complete the following challenges.
 
 ### Schedule
 AM: Advanced ActiveRecord
+
 PM: Recitations
 
 
@@ -80,6 +82,7 @@ With your pair, complete the following challenges.
 
 ### Schedule
 AM: Sessions & Cookies
+
 PM: Git Review
 
 ## Friday
@@ -96,6 +99,7 @@ As a group, complete the following challenges.
 
 ### Schedule
 AM: Recap Breakout Lectures
+
 PM: Group Project
 
 ## Weekend
