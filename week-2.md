@@ -66,7 +66,7 @@ With your pair, complete the following challenges.
 - [Flickr, Jr.](../../../flickr-jr-challenge)
 
 ### Schedule
-AM: Mock Assessment
+AM: Mock Assessment  
 PM: Assessment Review & Cores
 
 
@@ -80,5 +80,5 @@ With your group, complete the following challenge:
 You'll present your Survey Gorrila project Monday morning.
 
 ### Schedule
-AM: Group Projects & Git Review
+AM: Group Projects & Git Review  
 PM: Group Project
