@@ -32,8 +32,7 @@ With your pair, complete the following challenges.
 - [Sinatra Restful Crud](../../../ph2-p1-sinatra-restful-crud-challenge)
 
 ### Schedule
-AM: HTML/CSS
-
+AM: HTML/CSS  
 PM: RESTful Routing
 
 ### Resources
@@ -58,8 +57,7 @@ With your pair, complete the following challenges.
 
 
 ### Schedule
-AM: Advanced ActiveRecord
-
+AM: Advanced ActiveRecord  
 PM: Recitations
 
 
@@ -82,8 +80,7 @@ With your pair, complete the following challenges.
 - Repeat [Drill: Advanced ActiveRecord](../../../advanced-ar-dril) from scratch.
 
 ### Schedule
-AM: Sessions & Cookies
-
+AM: Sessions & Cookies  
 PM: Git Review
 
 ## Friday
@@ -99,8 +96,7 @@ As a group, complete the following challenges.
 - [Web Flash Cards 1: Multiple Decks](../../../web-flash-cards-1-multiple-decks-challenge)
 
 ### Schedule
-AM: Recap Breakout Lectures
-
+AM: Recap Breakout Lectures  
 PM: Group Project
 
 ## Weekend
