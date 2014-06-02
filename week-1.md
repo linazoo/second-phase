@@ -49,12 +49,13 @@ PM: RESTful Routing
 ### Core Challenges
 With your pair, complete the following challenges.
 
-### ActiveRecord
-- [Drill: Advanced ActiveRecord](../../../advanced-ar-dril)
-
 #### Sinatra
 - [Sinatra URL Shortener](../../../sinatra-url-shortener-challenge)
 - [Blog 1: Anonymous Blog](../../../blog-1-anonymous-blog-challenge)
+
+### ActiveRecord
+- [Drill: Advanced ActiveRecord](../../../advanced-ar-dril)
+
 
 ### Schedule
 AM: Advanced ActiveRecord
