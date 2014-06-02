@@ -4,9 +4,9 @@
 
 ## Course Outline
 
-- [Week 1 : Web Fundementals](week-1.md)
-- [Week 2 : Front End](week-2.md)
-- [Week 3 : Web Apps](week-3.md)
+- [Week 1](week-1.md)
+- [Week 2](week-2.md)
+- [Week 3](week-3.md)
 
 ## Weekly Cadence
 
@@ -20,10 +20,10 @@
 - Announcements
 - Yoga (Monday and Wednesday)
 - Drills
-- Morning Lecture
+- Morning Lecture (usually at 10:30am)
 - Challenges
 - Lunch
-- Afternoon Lecture or Recitations
+- Afternoon Lecture or Recitations (usually at 3:30pm)
 - Challenges
 - End of core hours
 - Challenges, Optimize your learning
