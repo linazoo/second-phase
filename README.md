@@ -1,6 +1,6 @@
 # Phase 2 Guide
 
-**[Groups, Resources, and more!](../../wiki)**
+**[Groups](../../wiki)**
 
 ## Course Outline
 
