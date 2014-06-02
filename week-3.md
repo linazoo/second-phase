@@ -12,7 +12,7 @@ With your pair, complete the following challenges.
 - [Recent Tweets 2](../../../recent-tweets-2-challenge)
 
 ### Schedule
-AM: Team Presentations
+AM: Team Presentations  
 PM: Working with APIs
 
 
@@ -46,14 +46,14 @@ With your pair, complete the following challenges.
 - [Oh My Auth! (Google)](../../../oh-my-auth-google-challenge)
 
 ### Schedule
-AM: Topic Recap Breakouts
+AM: Topic Recap Breakouts  
 PM: Recitation
 
 ## Thursday
 Assessment day! Good luck!
 
 ### Schedule
-AM: Assessment
+AM: Assessment  
 PM: The Best Challenge Yet
 
 Build whatever you'd like! You'll have this afternoon and most of Friday to build a web app of your choosing.
