@@ -24,6 +24,7 @@ With your pair, complete the following challenges.
 
 #### HTML/CSS
 - [Layout Drill: Basic Form Styling](../../../layout-drill-basic-form-styling-challenge)
+- [Learn CSS Layout](http://learnlayout.com)
 - [Layout Drill: Left-hand Navigation](../../../layout-drill-left-hand-navigation-challenge)
 - [Layout Drill: Right-hand Navigation](../../../layout-drill-right-hand-navigation-challenge)
 
