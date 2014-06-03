@@ -36,6 +36,9 @@ AM: HTML/CSS
 PM: RESTful Routing
 
 ### Resources
+- [MDN position](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
+- [MDN display](https://developer.mozilla.org/en-US/docs/Web/CSS/display)
+- [MDN float](https://developer.mozilla.org/en-US/docs/Web/CSS/float)
 - [HTML & CSS Resources](https://gist.github.com/jenmyers/a6bb9ea6233c6c5a9edb)
 - [CSS Display Playground](http://quirksmode.org/css/css2/display.html#link9)
 - [CSS Floats](http://alistapart.com/article/css-floats-101)
