@@ -87,7 +87,6 @@ With your pair, complete the following challenges.
 
 ### Schedule
 AM: Sessions & Cookies  
-PM: Git Review
 
 ## Friday
 
