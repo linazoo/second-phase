@@ -73,9 +73,9 @@ PM: Recitations
 With your pair, complete the following challenges.
 
 #### HTML/CSS
+- [Layout Drill: Proper Typesetting](../../../layout-drill-proper-typesetting-challenge)
 - [Layout Drill: Top Navigation](../../../layout-drill-top-navigation-challenge)
 - [Layout Drill: Fixed Navigation](../../../layout-drill-fixed-navigation-challenge)
-- [Layout Drill: Proper Typesetting](../../../layout-drill-proper-typesetting-challenge)
 
 #### Sinatra
 - [Dummy Users](../../../dummy-users-challenge)
