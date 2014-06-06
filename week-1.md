@@ -101,12 +101,12 @@ As a group, complete the following challenges.
 - [Web Flash Cards 1: Multiple Decks](../../../web-flash-cards-1-multiple-decks-challenge)
 
 ### Schedule
-AM: Recap Breakout Lectures  
-PM: Group Project
+AM 1: Recap Breakout Lectures  
+PM: Working on a Team. Agile Pracices (right after lunch)
 
 ## Weekend
 
 #### Javascript
-On your own or in a pair, complete the following challenges.
+On your own or in a pair, complete the following challenge.
 - [From Ruby to JavaScript](../../../javascript-from-ruby-challenge)
 
