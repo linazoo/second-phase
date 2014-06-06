@@ -101,7 +101,7 @@ As a group, complete the following challenges.
 - [Web Flash Cards 1: Multiple Decks](../../../web-flash-cards-1-multiple-decks-challenge)
 
 ### Schedule
-AM 1: Recap Breakout Lectures  
+AM: Recap Breakout Lectures  
 PM: Working on a Team. Agile Pracices (right after lunch)
 
 ## Weekend
