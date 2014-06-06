@@ -95,7 +95,7 @@ AM: Sessions & Cookies
 With your pair, complete the following challenges.
 
 #### Sinatra/ActiveRecord
-- [ActiveRecord Validations with Sinatra](https://github.com/Devbootcamp/ph2-p5-active-record-and-sinatra-propagating-validations-challenge)
+- [ActiveRecord Validations with Sinatra](../../../ph2-p5-active-record-and-sinatra-propagating-validations-challenge)
 
 As a group, complete the following challenges.
 - [Web Flash Cards 1: Multiple Decks](../../../web-flash-cards-1-multiple-decks-challenge)
