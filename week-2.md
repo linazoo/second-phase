@@ -5,11 +5,13 @@
 ### Core Challenges
 With your pair, complete the following challenges.
 
-#### HTML/CSS
-- [Behavior Drill: Tabbed Interface](../../../behavior-drill-tabbed-interface-challenge)
-
 #### JavaScript & TDD
+- [Objects & Classes](../../../javascript-drills#objects--classes)
 - [Orange Trees: TDD w/ Jasmine](../../../orange-jasmine-challenge)
+
+#### HTML/CSS
+- [Read "The Mystery Of The jQuery Object: A Basic Introduction"](http://www.smashingmagazine.com/2014/05/29/mystery-jquery-object-syntax-basic-introduction)
+- [Behavior Drill: Tabbed Interface](../../../behavior-drill-tabbed-interface-challenge)
 
 #### JS & Sinatra
 - [JavaScript Racer 1: Front-end](../../../javascript-racer-1-front-end-challenge)
