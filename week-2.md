@@ -13,7 +13,7 @@ With your pair, complete the following challenges.
 - Read [The Mystery Of The jQuery Object: A Basic Introduction](http://www.smashingmagazine.com/2014/05/29/mystery-jquery-object-syntax-basic-introduction)
 - [Behavior Drill: Tabbed Interface](../../../behavior-drill-tabbed-interface-challenge)
 
-#### JS & Sinatra
+#### JS
 - [JavaScript Racer 1: Front-end](../../../javascript-racer-1-front-end-challenge)
 
 ### Schedule
@@ -31,15 +31,13 @@ With your pair, complete the following challenges.
 - [Layout Drill: Two Column Layout](../../../layout-drill-two-column-layout-challenge)
 - [Layout Drill: Three Column Layout](../../../layout-drill-three-column-layout-challenge)
 
-#### AJAX
-- [Lucky AJAX!](../../../lucky-ajax-challenge)
-- [Web Flash Cards 2: AJAX Guessing](../../../web-flash-cards-2-ajax-guessing-challenge)
-
-#### Sinatra
+#### JS & Sinatra
+- [JavaScript Racer 1: Front-end](../../../javascript-racer-1-front-end-challenge)
 - [JavaScript Racer 2: Back-end](../../../javascript-racer-2-back-end-challenge)
+- [JavaScript Racer 3: Sane JavaScript](../../../javascript-racer-3-sane-javascript-challenge)
 
 ### Schedule
-AM: AJAX
+AM: OOJS
 
 
 ## Wednesday
@@ -48,11 +46,11 @@ AM: AJAX
 With your pair, complete the following challenges.
 
 #### JS & Sinatra
-- [Hacker News Clone (Part 1)](../../../hacker-news-clone-part-1-challenge)
-- [Hacker News Clone (Part 2)](../../../hacker-news-clone-part-2-challenge)
-- [JavaScript Racer 3: Sane JavaScript](../../../javascript-racer-3-sane-javascript-challenge)
+- [AJAXifying Hacker News](../../../ajaxifying-hacker-news-challenge)
+
 
 ### Schedule
+AM: AJAX
 PM: Recitations
 
 ## Thursday
