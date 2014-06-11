@@ -47,6 +47,7 @@ PM: RESTful Routing
 - [Clear Floats with `overflow: hidden;`](http://colinaarts.com/articles/the-magic-of-overflow-hidden/)
 - [CSS Positioning](http://alistapart.com/article/css-positioning-101)
 - [Typesetting a Short Article with CSS](https://medium.com/designed-thought/99033116fe92)
+- [Pesticide](http://pesticide.io/) A stylesheet and Chrome extension to help with CSS debugging
 - [HTML & CSS Resources](https://gist.github.com/jenmyers/a6bb9ea6233c6c5a9edb)
 
 
