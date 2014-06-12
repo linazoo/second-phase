@@ -37,7 +37,7 @@ With your pair, complete the following challenges.
 - [JavaScript Racer 3: Sane JavaScript](../../../javascript-racer-3-sane-javascript-challenge)
 
 ### Schedule
-AM: AJAX
+AM: AJAX  
 PM: OOJS
 
 
