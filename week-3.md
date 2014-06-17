@@ -13,7 +13,7 @@ With your pair, complete the following challenges.
 
 ### Schedule
 AM: Team Presentations  
-PM: Working with APIs
+PM: OAuth
 
 
 ## Tuesday
@@ -32,7 +32,7 @@ With your pair, complete the following challenges.
 - [Tweet Now! 2: Multi-User](../../../tweet-now-2-multi-user-challenge)
 
 ### Schedule
-AM: OAuth
+AM: Optional Breakouts
 
 ## Wednesday
 
