@@ -64,5 +64,5 @@ It's up to you if you want to solo, pair or build something as a group.
 ## Friday
 
 ### Schedule
-AM: The Best Challenge Yet (cont.)
+AM: The Best Challenge Yet (cont.)  
 PM: Presentations
