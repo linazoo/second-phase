@@ -10,15 +10,15 @@
 
 ## Weekly Cadence
 
-- Yoga: Monday & Wednesday
-- Engineering Empathy: Thurs
+- Yoga: Tuesday (mandatory)
+- Engineering Empathy: Wednesday, 10:30am
 - Assessments: Thursday from 9:15 - 12:15 a.m. (Weeks 2 and 3)
 
 ## Daily Cadence
 
 - Check in with accountability buddies
 - Announcements
-- Yoga (Monday and Wednesday)
+- Yoga (Tuesday)
 - Drills
 - Morning Lecture (usually at 10:30am)
 - Challenges
