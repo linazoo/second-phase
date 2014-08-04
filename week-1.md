@@ -5,13 +5,16 @@
 ### Core Challenges
 With your pair, complete the following challenges.
 
+#### ActiveRecord
+- [Active Record Design Your Own](../../../activerecord-design-your-own-challenge)
+
 #### HTTP & Sinatra
 - [Deaf Sinatra 1: Synchronous Forms](../../../deaf-sinatra-1-synchronous-forms-challenge)
 - [Anagram Server 1: The Basics](../../../anagram-server-1-the-basics-challenge)
 - [Anagram Server 2: Ludicrous Speed](../../../anagram-server-2-ludicrous-speed-challenge)
 
 ### Schedule
-AM: Intro to Sinatra & HTTP
+PM: Intro to Sinatra & HTTP
 - [HTTP Basics](http://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/http_basics.html)
 - [HTTP Request & Response Cycle (archive.org cache link)](https://web.archive.org/web/20130705214517/http://devhub.fm/http-requestresponse-basics)
 - [Singing With Sinatra, Parts 1-3](http://net.tutsplus.com/tutorials/ruby/singing-with-sinatra/)
@@ -60,9 +63,8 @@ With your pair, complete the following challenges.
 - [Sinatra URL Shortener](../../../sinatra-url-shortener-challenge)
 - [Blog 1: Anonymous Blog](../../../blog-1-anonymous-blog-challenge)
 
-### ActiveRecord
+#### ActiveRecord
 - [Drill: Advanced ActiveRecord](../../../advanced-ar-dril)
-
 
 ### Schedule
 AM: Advanced ActiveRecord  
