@@ -32,4 +32,5 @@
 
 - [How to Submit a Challenge](resources/how-to-submit.md)
 - [Resource Links](resources/resources.md)
-- [Mentoring Signup](http://mentoring.devbootcamp.com/)
+- [Mentoring Signup](http://mentoring.devbootcamp.com/)  
+- [Counseling Signup](resources/counseling_instructions.md)
