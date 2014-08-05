@@ -10,17 +10,31 @@ With your pair, complete the following challenges.
 
 #### HTTP & Sinatra
 - [Deaf Sinatra 1: Synchronous Forms](../../../deaf-sinatra-1-synchronous-forms-challenge)
+
+## Tuesday
+
+### Core Challenges
+With your pair, complete the following challenges.
+
+#### HTTP & Sinatra
 - [Anagram Server 1: The Basics](../../../anagram-server-1-the-basics-challenge)
 - [Anagram Server 2: Ludicrous Speed](../../../anagram-server-2-ludicrous-speed-challenge)
+- [Craigslist, Jr.](../../../craigslist-jr-challenge)
+- [RESTful Routing TBD]()
+
+#### Extra Practice
+- [Sinatra Restful Crud](../../../ph2-p1-sinatra-restful-crud-challenge)
 
 ### Schedule
-PM: Intro to Sinatra & HTTP
+AM: Intro to Sinatra & HTTP
 - [HTTP Basics](http://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/http_basics.html)
 - [HTTP Request & Response Cycle (archive.org cache link)](https://web.archive.org/web/20130705214517/http://devhub.fm/http-requestresponse-basics)
 - [Singing With Sinatra, Parts 1-3](http://net.tutsplus.com/tutorials/ruby/singing-with-sinatra/)
 
+PM: RESTful Routing
 
-## Tuesday
+
+## Wednesday
 
 ### Core Challenges
 With your pair, complete the following challenges.
@@ -32,12 +46,17 @@ With your pair, complete the following challenges.
 - [Layout Drill: Right-hand Navigation](../../../layout-drill-right-hand-navigation-challenge)
 
 #### Sinatra
-- [Craigslist, Jr.](../../../craigslist-jr-challenge)
-- [Sinatra Restful Crud](../../../ph2-p1-sinatra-restful-crud-challenge)
+- [Sinatra URL Shortener](../../../sinatra-url-shortener-challenge)
+- [Blog 1: Anonymous Blog](../../../blog-1-anonymous-blog-challenge)
+
+#### ActiveRecord
+- [Drill: Advanced ActiveRecord](../../../advanced-ar-dril)
+
 
 ### Schedule
 AM: HTML/CSS  
-PM: RESTful Routing
+PM: Recitations
+
 
 ### Resources
 
@@ -53,22 +72,6 @@ PM: RESTful Routing
 - [Pesticide](http://pesticide.io/) A stylesheet and Chrome extension to help with CSS debugging
 - [HTML & CSS Resources](https://gist.github.com/jenmyers/a6bb9ea6233c6c5a9edb)
 
-
-## Wednesday
-
-### Core Challenges
-With your pair, complete the following challenges.
-
-#### Sinatra
-- [Sinatra URL Shortener](../../../sinatra-url-shortener-challenge)
-- [Blog 1: Anonymous Blog](../../../blog-1-anonymous-blog-challenge)
-
-#### ActiveRecord
-- [Drill: Advanced ActiveRecord](../../../advanced-ar-dril)
-
-### Schedule
-AM: Advanced ActiveRecord  
-PM: Recitations
 
 
 ## Thursday
