@@ -59,7 +59,10 @@ PM: Recitations
 
 
 ### Resources
+#### ActiveRecord
+* [Advanced Active Record Associations](http://www.theodinproject.com/ruby-on-rails/active-record-associations)
 
+#### HTML/CSS
 - [MDN position](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
 - [MDN display](https://developer.mozilla.org/en-US/docs/Web/CSS/display)
 - [MDN float](https://developer.mozilla.org/en-US/docs/Web/CSS/float)
