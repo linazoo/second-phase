@@ -33,7 +33,7 @@ AM: Intro to Sinatra & HTTP
 
 PM: RESTful Routing
 
-- [REST Slides](resources/rest.pdf)
+- [REST Slides](resources/rest.pdf?raw=true)
 
 ## Wednesday
 
