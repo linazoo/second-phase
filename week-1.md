@@ -20,7 +20,7 @@ With your pair, complete the following challenges.
 - [Anagram Server 1: The Basics](../../../anagram-server-1-the-basics-challenge)
 - [Anagram Server 2: Ludicrous Speed](../../../anagram-server-2-ludicrous-speed-challenge)
 - [Craigslist, Jr.](../../../craigslist-jr-challenge)
-- [RESTful Routing TBD]()
+- [REST Controller Challenge](../../../rest-controller-challenge)
 
 #### Extra Practice
 - [Sinatra Restful Crud](../../../ph2-p1-sinatra-restful-crud-challenge)
