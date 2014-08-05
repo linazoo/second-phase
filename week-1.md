@@ -33,6 +33,7 @@ AM: Intro to Sinatra & HTTP
 
 PM: RESTful Routing
 
+- [REST Slides](resources/rest.pdf)
 
 ## Wednesday
 
@@ -128,4 +129,3 @@ In week two, you'll be using Javascript to manipulate the DOM (i.e. the webpage 
 Javascript is a powerful language that while most commonly run inside a web browser is finding its way into other places as well. For example you can write applications for the [Audrino using Javscript](https://github.com/rwaldron/johnny-five) or write web apps on the server using [Node](http://nodejs.org/). You can also automate applications like [Adobe Illustrator with Javascript](http://www.adobe.com/devnet/illustrator/scripting.html).
 
 **To prepare for next week, read through the following tutorial:** [From Ruby to JavaScript](../../../javascript-from-ruby-challenge)
-
