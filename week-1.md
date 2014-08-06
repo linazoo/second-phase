@@ -55,8 +55,10 @@ With your pair, complete the following challenges.
 
 
 ### Schedule
-AM: HTML/CSS  
-PM: Recitations
+AM: EE (10:30am)
+
+PM 1: HTML/CSS  
+PM 2: Recitations
 
 
 ### Resources
