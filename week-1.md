@@ -40,15 +40,22 @@ PM: RESTful Routing
 ### Core Challenges
 With your pair, complete the following challenges.
 
+#### Sinatra
+Complete yesteday's Sinatra challenges if you haven't and if you both have, review each other's solutions.
+- [Craigslist, Jr.](../../../craigslist-jr-challenge)
+- [REST Controller Challenge](../../../rest-controller-challenge)
+
 #### HTML/CSS
 - [Layout Drill: Basic Form Styling](../../../layout-drill-basic-form-styling-challenge)
-- [Learn CSS Layout](http://learnlayout.com)
+- [Learn CSS Layout](http://learnlayout.com) **very very important**
 - [Layout Drill: Left-hand Navigation](../../../layout-drill-left-hand-navigation-challenge)
 - [Layout Drill: Right-hand Navigation](../../../layout-drill-right-hand-navigation-challenge)
 
 #### Sinatra
 - [Sinatra URL Shortener](../../../sinatra-url-shortener-challenge)
 - [Blog 1: Anonymous Blog](../../../blog-1-anonymous-blog-challenge)
+
+### After Core Hours (AR Practice)
 
 #### ActiveRecord
 - [Drill: Advanced ActiveRecord](../../../advanced-ar-dril)
