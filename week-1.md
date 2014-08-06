@@ -25,6 +25,8 @@ With your pair, complete the following challenges.
 #### Extra Practice
 - [Sinatra Restful Crud](../../../ph2-p1-sinatra-restful-crud-challenge)
 
+asfsaf
+
 ### Schedule
 AM: Intro to Sinatra & HTTP
 - [HTTP Basics](http://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/http_basics.html)
