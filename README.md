@@ -12,7 +12,7 @@
 
 - Yoga: Tuesday (mandatory)
 - Engineering Empathy: Wednesday, 10:30am
-- Assessments: Thursday from 9:15 - 12:15 a.m. (Weeks 2 and 3)
+- Assessments: Thursday from 8:15 - 11:15 a.m. (Weeks 2 and 3)
 
 ## Daily Cadence
 
