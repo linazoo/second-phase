@@ -19,8 +19,8 @@ With your pair, complete the following challenges.
 #### HTTP & Sinatra
 - [Anagram Server 1: The Basics](../../../anagram-server-1-the-basics-challenge)
 - [Anagram Server 2: Ludicrous Speed](../../../anagram-server-2-ludicrous-speed-challenge)
-- [Craigslist, Jr.](../../../craigslist-jr-challenge)
 - [REST Controller Challenge](../../../rest-controller-challenge)
+- [Craigslist, Jr.](../../../craigslist-jr-challenge)
 
 #### Extra Practice
 - [Sinatra Restful Crud](../../../ph2-p1-sinatra-restful-crud-challenge)
@@ -58,7 +58,8 @@ Complete yesteday's Sinatra challenges if you haven't and if you both have, revi
 ### After Core Hours (AR Practice)
 
 #### ActiveRecord
-- [Drill: Advanced ActiveRecord](../../../advanced-ar-dril)
+- [Drill: ActiveRecord Migrations](../../../ar-migrations-drill)
+- [Drill: Advanced ActiveRecord](../../../advanced-ar-drill)
 
 
 ### Schedule
