@@ -63,10 +63,8 @@ Complete yesteday's Sinatra challenges if you haven't and if you both have, revi
 
 
 ### Schedule
-AM: EE (10:30am)
-
-PM 1: HTML/CSS  
-PM 2: Recitations
+AM: EE (10:30am)  
+PM: Recitations
 
 
 ### Resources
