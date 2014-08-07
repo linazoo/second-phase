@@ -101,6 +101,9 @@ With your pair, complete the following challenges.
 - [Sinatra URL Shortener: With Users](../../../sinatra-url-shortener-with-users-challenge)
 - [Blog 2: Multi-Author](../../../blog-2-multi-author-challenge)
 
+#### Required Reading
+- [Storing Passwords Securely (with BCrypt)](https://github.com/devbootcamp/reference/wiki/Storing-Passwords-Securely)
+
 #### Stretch
 - Repeat [Drill: Advanced ActiveRecord](../../../advanced-ar-dril) from scratch.
 
