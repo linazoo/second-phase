@@ -2,11 +2,27 @@
 
 ## Monday
 
+### Code Review
+Pair with another group and review each others Flash Cards apps from last week. Timebox each review to 15 minutes per group. Things to look for & share:
+
+- A quick demo of how the app works
+- DB Schema
+- User authentication
+- How did you track progress through the deck? (e.g. sessions? DB column?)
+- What statistics are available?
+- Keep a look out for opprotunities to refactor and improve your code.
+
+**Remember, feedback should be Kind, Actionable and Specific.**
+
+**Group Pairings**  
+- Group 1 & Group 6
+- Group 2 & Group 5
+- Group 3 & Group 4
+
 ### Core Challenges
-With your pair, complete the following challenges.
 
 #### JavaScript & TDD
-- [Objects & Classes](../../../javascript-drills#objects--classes)
+- [Objects & Classes](../../../javascript-drills#objects--classes) **Solo this challenge**
 - [Orange Trees: TDD w/ Jasmine](../../../orange-jasmine-challenge)
 
 #### HTML/CSS
