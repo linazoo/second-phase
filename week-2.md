@@ -3,7 +3,7 @@
 ## Monday
 
 ### Code Review
-Pair with another group and review each others Flash Cards apps from last week. Timebox each review to 15 minutes per group. Things to look for & share:
+Pair with another group and review each other's Flash Cards apps from last week. Timebox each review to 15 minutes per group. Things to look for & share:
 
 - A quick demo of how the app works
 - DB Schema
