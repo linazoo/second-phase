@@ -41,7 +41,7 @@ AM: Javascript Recap & jQuery Intro
 ## Tuesday
 
 ### Core Challenges
-With your pair, complete the following challenges.
+Since you began your JS Racer yesterday, continue with your same pair today.  
 
 #### HTML/CSS
 - [Layout Drill: Two Column Layout](../../../layout-drill-two-column-layout-challenge)
@@ -53,8 +53,8 @@ With your pair, complete the following challenges.
 - [JavaScript Racer 3: Sane JavaScript](../../../javascript-racer-3-sane-javascript-challenge)
 
 ### Schedule
-AM: AJAX  
-PM: OOJS
+AM: Live JS Racer Refactor (OOJS Intro)  
+PM: AJAX
 
 
 ## Wednesday
