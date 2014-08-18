@@ -6,30 +6,22 @@
 With your pair, complete the following challenges.
 
 #### JS & Sinatra
+- [DBC Mail](../../../dbc-mail-challenge)
+
+### Optional Practice
 - [Behavior Drill: Style Editor](../../../behavior-drill-style-editor-challenge)
 - [Behavior Drill: Add Comments](../../../behavior-drill-add-comments-challenge)
-- [Recent Tweets 1](../../../recent-tweets-1-challenge)
-- [Recent Tweets 2](../../../recent-tweets-2-challenge)
 
 ### Schedule
 AM: Team Presentations  
-PM: OAuth
-
 
 ## Tuesday
 
 ### Core Challenges
 With your pair, complete the following challenges.
 
-#### HTML & CSS
-- [Layout Drill: Sticky Side Menu](../../../layout-drill-sticky-side-menu-challenge)
-- [Layout Drill: Button-Style Navigation Bar](../../../layout-drill-button-style-navigation-bar-challenge)
-- [Behavior Drill: Drop Down Menu](../../../behavior-drill-drop-down-menu-challenge)
-
 #### JS & Sinatra
-- [Heroku 1: Getting Started](../../../heroku-1-getting-started-challenge)
-- [Tweet Now! 1: Single User](../../../tweet-now-1-single-user-challenge)
-- [Tweet Now! 2: Multi-User](../../../tweet-now-2-multi-user-challenge)
+- [DBC Mail](../../../dbc-mail-challenge)
 
 ### Schedule
 AM: Optional Breakouts
@@ -39,15 +31,11 @@ AM: Optional Breakouts
 ### Core Challenges
 With your pair, complete the following challenges.
 
-- [Heroku 2: Apps Ahoy!](../../../heroku-2-apps-ahoy-challenge)
-- [Tweet Later](../../../tweet-later-challenge)
-
-### Stretch
-- [Oh My Auth! (Google)](../../../oh-my-auth-google-challenge)
+- [DBC Mail](../../../dbc-mail-challenge)
 
 ### Schedule
 AM: Topic Recap Breakouts  
-PM: Recitation
+PM: Recitations
 
 ## Thursday
 Assessment day! Good luck!
