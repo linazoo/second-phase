@@ -2,6 +2,18 @@
 
 ## Monday
 
+### Code Review
+Pair with another group and review each other's Survey Gorilla apps from last week. Timebox each review to 15 minutes per group. Things to look for & share:
+
+- A quick demo of how the app works
+- DB Schema
+- User authentication
+- How does your form to create a survey work? Can you add multiple questions? Multiple responses?
+- What statistics are available?
+- Keep a look out for opprotunities to refactor and improve your code.
+
+**Remember, feedback should be Kind, Actionable and Specific.**
+
 ### Core Challenges
 With your pair, complete the following challenges.
 
