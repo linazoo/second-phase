@@ -1,5 +1,10 @@
 # Week 1
 
+## Weekend (before the phase starts)
+
+* Complete the ActiveRecord challenge [At the Races](../../../at-the-races) (1.5 hours)
+* [Introduction to Sinatra](http://net.tutsplus.com/tutorials/ruby/singing-with-sinatra) (1.5 hours)
+
 ## Monday
 
 ### Core Challenges
