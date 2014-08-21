@@ -13,7 +13,7 @@ With your pair, complete the following challenges.
 - [Behavior Drill: Add Comments](../../../behavior-drill-add-comments-challenge)
 
 ### Schedule
-AM: Team Presentations  
+AM: Show & Tell with another group  
 
 ## Tuesday
 
@@ -24,7 +24,8 @@ With your pair, complete the following challenges.
 - [DBC Mail](../../../dbc-mail-challenge)
 
 ### Schedule
-AM: Optional Breakouts
+AM: Live Review of [Recipes Fronend](../../../recipes-frontend)
+PM: Optional Breakouts
 
 ## Wednesday
 
@@ -44,7 +45,7 @@ Assessment day! Good luck!
 AM: Assessment  
 PM: The Best Challenge Yet
 
-Build whatever you'd like! You'll have this afternoon and most of Friday to build a web app of your choosing.
+Spend this afternoon & Friady building whatever you'd like! Feel free to continue working on your DBC Mail challenge if you'd like.
 
 It's up to you if you want to solo, pair or build something as a group.
 
