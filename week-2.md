@@ -14,11 +14,6 @@ Pair with another group and review each other's Flash Cards apps from last week.
 
 **Remember, feedback should be Kind, Actionable and Specific.**
 
-**Group Pairings**  
-- Group 1 & Group 6
-- Group 2 & Group 5
-- Group 3 & Group 4
-
 ### Core Challenges
 
 #### JavaScript & TDD
