@@ -31,11 +31,14 @@ With your pair, complete the following challenges.
 - [OO JS Etsy](../../../../oo-js-etsy-challenge)
 
 #### Review & Sharpen
-- [Refactor HR App](../../../../hr-sinatra-refactor-challenge)
-- [Javascript Racer](../../../../javascript-racer-2-back-end-challenge)
+- [Refactor HR App](../../../../hr-sinatra-refactor-challenge) :star:
+:star: :star:
+- [Orange Trees: TDD w/ Jasmine](../../../../orange-jasmine-challenge)
+:star: :star: :star:
 
 #### Client-side JS & APIs
-- [DBC Mail Challenge](../../../../dbc-mail-challenge)
+- [DBC Mail Challenge](../../../../dbc-mail-challenge) :star: :star:
+:star: :star: :star:
 
 
 
