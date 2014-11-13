@@ -1,3 +1,4 @@
+active-record-associations-drill-shirts-challenge
 activerecord-design-your-own-challenge
 advanced-ar-dril
 ajaxifying-hacker-news-challenge
@@ -50,11 +51,11 @@ ph2-p1-sinatra-restful-crud-challenge
 ph2-p2-active-record-people-skills-challenge
 ph2-p3-sinatra-authentication-and-authorization-challenge
 ph2-p4-css-layout-simple-marketing-page-challenge
-ph2-p4-css-layout-simple-marketing-page-challenge
+ph2-p4-css-/layout-simple-marketing-page-challenge
 ph2-p5-active-record-and-sinatra-propagating-validations-challenge
 recent-tweets-1-challenge
 recent-tweets-2-challenge
-rest-controller-challenge
+*rest-controller-challenge
 sinatra-sandbox-challenge
 sinatra-skeleton-mvc-challenge
 sinatra-url-shortener-challenge
@@ -66,3 +67,4 @@ tweet-now-1-single-user-challenge
 tweet-now-2-multi-user-challenge
 web-flash-cards-1-multiple-decks-challenge
 web-flash-cards-2-ajax-guessing-challenge
+world-s-second-simplest-browser-challenge
