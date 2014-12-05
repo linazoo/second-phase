@@ -9,6 +9,7 @@ To be successful in this phase, you should answer 'Yes' to all of the
 
 ## Week 1
 
+- [Computational Thinking](./computational-thinking.md)
 - [Coder's Mindset](./coders-mindset.md)
 - [ActiveRecord](./activerecord.md)
 - [Debugging](./debugging.md)
