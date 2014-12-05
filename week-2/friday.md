@@ -6,9 +6,9 @@
 - Check-Ins
 - Feedback
 - Review Mock Assessment or wrap up JS Racer/AJAXifying Hacker News
-- Agile Lecture
 
 #### PM
+- Lightning Talks
 - Group Project
 - AMA
 

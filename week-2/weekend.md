@@ -1,21 +1,17 @@
 # Weekend
 
-## Javascript
-In week two, you'll be using Javascript to manipulate the DOM (i.e. the webpage in your browser). Examples of DOM manipulation include:
+Review [learning competencies self-assessment](./self-assessments.md)
 
-* Hiding & showing content
-* Sending HTTP requsts without reloading the entire page (AJAX)
-* Validating a form before submitting the data to the server
-* In-browser gameplay
-* Annoying popup advertisments
+## Survey Gorilla
+Complete this challenge with your group. I'd spend one day of the weekend wrapping up this challenge. It's a great chance to practice both CRUD/REST & AJAX.
 
-Javascript is a powerful language that while most commonly run inside a web browser is finding its way into other places as well. For example you can write applications for the [Audrino using Javscript](https://github.com/rwaldron/johnny-five) or write web apps on the server using [Node](http://nodejs.org/). You can also automate applications like [Adobe Illustrator with Javascript](http://www.adobe.com/devnet/illustrator/scripting.html).
+Make sure to:
+- follow and practice agile processes
+- work on things *you aren't the best at*
 
-**To prepare for next week:**
-- Go through the [From Ruby to JavaScript](../../../../javascript-from-ruby-challenge) tutorials and complete the associated [drills](../../../../javascript-drills).
-- Study the slides from Torey's [Object-Oriented JavaScript lecture](../resources/torey-oojs.pdf).
-
-## Optional Challenge
-With your pair or solo, complete the following challenges.
-
-- [Lucky Ajax](../../../../lucky-ajax-challenge)
+## Review or Advance
+**Review**: Use the remainder of the weekend to review the mock and solo challenges from the last week.  
+-or-  
+**Advance**: If you're confident in the material from last week, here some some challenges that will push you a bit futher in your understanding of AJAX & Javascript:
+* [Exploring Asynchrony Challenge](../../../../exploring-asynchrony-challenge)
+* [Meditation Trainer](../../../../meditation-trainer-challenge)

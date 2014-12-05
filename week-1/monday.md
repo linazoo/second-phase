@@ -13,6 +13,11 @@
 ## Core Challenges
 With your pair, complete the following challenges.
 
+### Rspec
+
+- [Rspec Todos Drill](../../../../rspec-drill-simple-todo-challenge)
+:star:
+
 ### ActiveRecord
 - [Active Record Design Your
 Own](../../../../activerecord-design-your-own-challenge) :star:

@@ -32,3 +32,5 @@ Review for assessment:
 - Sinatra
 - OO JS
 - AJAX
+
+Review [learning competencies self-assessment](./self-assessments.md)

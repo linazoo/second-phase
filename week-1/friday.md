@@ -3,12 +3,13 @@
 ## Schedule
 
 #### AM
+- Lecture: Agile process
 - Lecture: Authentication
 - [Dummy Users](../../../../dummy-users-challenge) :star:
 :star:
-- Lecture: Agile process
 
 #### PM
+- Lightning Talks
 - [Flashcards Group
 Project](../../../../web-flash-cards-1-multiple-decks-challenge)
 :star: :star: :star: :star: :star:

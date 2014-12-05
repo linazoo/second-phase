@@ -9,8 +9,10 @@
 - Cores (Orange Tree)
 
 #### PM
+- Lightning Talks
 - Lecture: jQuery Intro
-- Cores (JavaScript Racer)
+- Cores (Orange Tree, JavaScript Racer)
+- [Required readings](#prep-for-tomorrow)
 
 ## Drills
 
@@ -22,11 +24,11 @@ Classes](../../../../javascript-drills#objects--classes) drill :star:
 With your pair, complete the following challenges.
 
 - [Orange Trees: TDD w/
-Jasmine](../../../../orange-jasmine-challenge) **Complete only _Release 0_** :star: :star:
+Jasmine](../../../../orange-jasmine-challenge) :star: :star:
 - [JavaScript Racer 1: Front-end](../../../../javascript-racer-1-front-end-challenge)
 
 
-## Required Readings
+## Prep for Tomorrow
 - Read [this in JS](http://www.2ality.com/2014/05/this.html)
 - Read [The Mystery Of The jQuery Object: A Basic Introduction](http://www.smashingmagazine.com/2014/05/29/mystery-jquery-object-syntax-basic-introduction)
 

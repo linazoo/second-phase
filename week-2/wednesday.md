@@ -10,6 +10,7 @@
 
 #### PM
 - pitch day
+- Lightning Talks
 - Lecture: Debugging AJAX
 - Cores
 
@@ -31,3 +32,5 @@ Review for mock assessment:
 - RESTful routes
 - OOJS
 - AJAX
+
+Review [learning competencies self-assessment](./self-assessments.md)

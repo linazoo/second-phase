@@ -8,6 +8,7 @@
 - Cores (HTTP)
 
 #### PM
+- Lightning Talks
 - Lecture: Sinatra
 - Cores (Sinatra)
 
@@ -19,14 +20,8 @@ With your pair, complete the following challenges.
 browser](../../../../world-s-second-simplest-browser-challenge)
 :star: :star:
 
-### HTTP & APIs
-- [Recent Tweets at the Command
-Line](../../../../recent-tweets-command-line-challenge) :star:
-:star:
-- [Tweet Now at the Command
-Line](../../../../tweet-now-command-line-challenge) :star:
-
 ### Sinatra
+- [Sinatra Sandbox](../../../../sinatra-sandbox-challenge)
 - [Deaf
 Sinatra](../../../../deaf-sinatra-1-synchronous-forms-challenge)
 :star: :star:
@@ -34,6 +29,13 @@ Sinatra](../../../../deaf-sinatra-1-synchronous-forms-challenge)
 ## Prep for Tomorrow
 
 - [HTML](./readings/html-css/html.md)
+
+### Stretch: HTTP & APIs
+- [Recent Tweets at the Command
+Line](../../../../recent-tweets-command-line-challenge) :star:
+:star:
+- [Tweet Now at the Command
+Line](../../../../tweet-now-command-line-challenge) :star:
 
 ## Resources
 

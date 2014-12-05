@@ -7,6 +7,7 @@
 - Cores
 
 #### PM
+- Lightning Talks
 - Cores
 
 ## Core Challenges

@@ -7,6 +7,7 @@
 - EE
 
 #### PM
+- Lightning Talks
 - Surprise Code Bootcamp!
 - Cores
 

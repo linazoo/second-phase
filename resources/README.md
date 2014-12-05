@@ -43,7 +43,7 @@
 1. [$LOAD_PATH](http://selfless-singleton.rickwinfrey.com/2012/12/20/-rubys-load-path/), :documentation, :level_2
 1. [Gemfiles](http://bundler.io/v1.3/gemfile.html) , :level_1
 1. [Managing Secret Data in Open Source Projects](https://gist.github.com/ndelage/7026164)
-1. [Open a gem in a browser](http://blog.thejls.com/post/19789574673/opening-a-gem-source-with-sublime-text-2) 
+1. [Open a gem in a browser](http://blog.thejls.com/post/19789574673/opening-a-gem-source-with-sublime-text-2)
 
 #### Heroku
 1. [Heroku and Ruby Version](https://devcenter.heroku.com/articles/getting-started-with-ruby#specify-ruby-version-and-declare-dependencies-with-a-gemfile), :level_2
@@ -82,7 +82,7 @@
 1. [An Advanced Guide to HTML and CSS](http://learn.shayhowe.com/),:level_2, :tutorial
 1. [semantic markup](http://www.webstyleguide.com/wsg3/5-site-structure/2-semantic-markup.html), :level_1
 1. [CSS Tricks]([pseudo-selectors](http://css-tricks.com), :level_2, :tutorial
-1. [CSS3 transitions](http://net.tutsplus.com/tutorials/html-css-techniques/css-fundametals-css-3-transitions/), :level_2, :tutorial 
+1. [CSS3 transitions](http://net.tutsplus.com/tutorials/html-css-techniques/css-fundametals-css-3-transitions/), :level_2, :tutorial
 1. [List of CSS Resources](https://gist.github.com/jenmyers/a6bb9ea6233c6c5a9edb)
 
 ### Git
@@ -103,7 +103,7 @@
 1. [exercism.io JavaScript](exercism.io/setup/javascript),:level_2, :tutorial
 1. [Javascript Cheat Sheet](http://wps.aw.com/wps/media/objects/2234/2287950/javascript_refererence.pdf)
 1. [Good Habits](http://enterprisejquery.com/2010/10/how-good-c-habits-can-encourage-bad-javascript-habits-part-1/), :level_2?, from Matt
-
+1. [Maurice's Function invocation guide](Overview of function invocation.pdf)
 
 ### Jasmine
 1. [Jasmine Documentation](http://pivotal.github.io/jasmine/)
@@ -155,4 +155,3 @@
 1. [Testing Web Apps with Capybara and Sinatra](http://net.tutsplus.com/tutorials/ruby/ruby-for-newbies-testing-web-apps-with-capybara-and-cucumber/)
 1. [exercism.io JavaScript](exercism.io/setup/javascript)
 1. [An Advanced Guide to HTML and CSS](http://learn.shayhowe.com/)
-

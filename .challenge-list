@@ -21,6 +21,7 @@ deaf-sinatra-1-synchronous-forms-challenge
 deaf-sinatra-2-asynchronous-forms-challenge
 dummy-users-challenge
 dynamic-todos-challenge
+exploring-asynchrony-challenge
 flickr-jr-challenge
 hacker-news-clone-part-1-challenge
 hacker-news-clone-part-2-challenge
@@ -45,6 +46,7 @@ layout-drill-three-column-layout-challenge
 layout-drill-top-navigation-challenge
 layout-drill-two-column-layout-challenge
 lucky-ajax-challenge
+meditation-trainer-challenge
 oh-my-auth-google-challenge
 orange-jasmine-challenge
 ph2-p1-sinatra-restful-crud-challenge
@@ -55,7 +57,8 @@ ph2-p4-css-/layout-simple-marketing-page-challenge
 ph2-p5-active-record-and-sinatra-propagating-validations-challenge
 recent-tweets-1-challenge
 recent-tweets-2-challenge
-*rest-controller-challenge
+rest-controller-challenge
+rspec-drill-simple-todo-challenge
 sinatra-sandbox-challenge
 sinatra-skeleton-mvc-challenge
 sinatra-url-shortener-challenge

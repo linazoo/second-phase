@@ -3,7 +3,7 @@
 ## Schedule
 
 #### AM
-- Survey Gorilla Demos
+- Survey Gorilla Demos & Group code-review
 - Lecture: Git rebase, *optional*
 - Cores
 
