@@ -8,7 +8,7 @@
 
 ## Code Reviews
 
-**[Groups](../../wiki)**
+Create a Pull Request for your challenge submissions, then tag both Rebecca ([@rmw](http://github.com/rmw)) and Mike ([@mikelikesbikes](http://github.com/mikelikesbikes)) for a Code Review. Please also give some context for what you'd like us to look at; e.g. "Is there a better way to do X in file.rb?", "I'm looking for feedback on my CRUD actions in controller.rb".
 
 ## Course Outline
 
