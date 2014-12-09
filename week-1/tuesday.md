@@ -28,7 +28,7 @@ Sinatra](../../../../deaf-sinatra-1-synchronous-forms-challenge)
 
 ## Prep for Tomorrow
 
-- [HTML](./readings/html-css/html.md)
+- [HTML](../readings/html-css/html.md)
 
 ### Stretch: HTTP & APIs
 - [Recent Tweets at the Command
