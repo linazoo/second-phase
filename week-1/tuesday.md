@@ -21,14 +21,14 @@ browser](../../../../world-s-second-simplest-browser-challenge)
 :star: :star:
 
 ### Sinatra
-- [Sinatra Sandbox](../../../../sinatra-sandbox-challenge)
+- [Sinatra Sandbox](../../../../sinatra-sandbox-challenge) :star: :star:
 - [Deaf
 Sinatra](../../../../deaf-sinatra-1-synchronous-forms-challenge)
 :star: :star:
 
 ## Prep for Tomorrow
 
-- [HTML](./readings/html-css/html.md)
+- [HTML](../readings/html-css/html.md)
 
 ### Stretch: HTTP & APIs
 - [Recent Tweets at the Command

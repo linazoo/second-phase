@@ -187,7 +187,3 @@ For example, an `h1` tag will have larger font size and more space around it tha
 
 We can override these styles by using [CSS](./css.md). More on that later.
 
-
-## Conclusion
-
-j

@@ -2,7 +2,7 @@
 
 ##Table Of Contents
 
-* [Ruby Web Apps and Sinatra](#ruby-web-apps-and-sinatra)
+* [Ruby Web Apps and Sinatra](#ruby-web-apps)
 * [Active Record](#active-record)
 * [HTML and CSS](#HTML-and-CSS)
 * [JavaScript](#javascript)
