@@ -81,7 +81,7 @@ With your pair, spend the afternoon building a small CRUD app. Keep an eye on th
 ## Prep for Tomorrow
 
 ### Required Reading
-Read [JavaScript Intro](./readings/javascript-intro.md) as well as the reading linked within it.
+Read [JavaScript Intro](../readings/javascript-intro.md) as well as the reading linked within it.
 
 ### Drills
 Complete following [drills](../../../../javascript-drills) in [From Ruby to JavaScript](../../../../javascript-from-ruby-challenge) :
