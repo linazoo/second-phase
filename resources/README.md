@@ -106,7 +106,7 @@
 1. [Maurice's Function invocation guide](Overview of function invocation.pdf)
 
 ### Jasmine
-1. [Jasmine Documentation](http://pivotal.github.io/jasmine/)
+1. [Jasmine Documentation](http://jasmine.github.io/)
 1. [Jasmine Cheat Sheet](http://www.cheatography.com/citguy/cheat-sheets/jasmine-js-testing/)
 
 ### JavaScript Frameworks and Libraries
