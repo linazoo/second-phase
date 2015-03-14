@@ -6,7 +6,7 @@ Choose your [lightning talk topic](../lightning-talks/README.md#week-2) for
 week 2.
 
 Review [learning competencies self-assessment for week
-1](./self-assessments.md#week-1)
+1](../self-assessments#week-1)
 
 ## Challenges
 Complete the following challenges to get more cruddy practice!
