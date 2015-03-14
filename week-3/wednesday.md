@@ -33,4 +33,4 @@ Review for assessment:
 - OO JS
 - AJAX
 
-Review [learning competencies self-assessment](./self-assessments.md)
+Review [learning competencies self-assessment](../self-assessments#week-3)
