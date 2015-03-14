@@ -102,7 +102,7 @@
 1. Justin Searls video : [javascript testing tactics](https://speakerdeck.com/searls/javascript-testing-tactics)
 1. [exercism.io JavaScript](http://help.exercism.io/getting-started-with-javascript.html),:level_2, :tutorial
 1. [Javascript Cheat Sheet](http://wps.aw.com/wps/media/objects/2234/2287950/javascript_refererence.pdf)
-1. [Good Habits](http://enterprisejquery.com/2010/10/how-good-c-habits-can-encourage-bad-javascript-habits-part-1/), :level_2?, from Matt
+1. [Good Habits](http://appendto.com/2010/10/how-good-c-habits-can-encourage-bad-javascript-habits-part-1/), :level_2?, from Matt
 1. [Maurice's Function invocation guide](Overview of function invocation.pdf)
 
 ### Jasmine
