@@ -1,6 +1,6 @@
 # HTML
 
-Written by [Rebecca Miller-Webster](@rmw).
+Written by [Rebecca Miller-Webster](http://github.com/rmw).
 
 ## Introduction
 
