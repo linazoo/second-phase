@@ -15,7 +15,7 @@
 With your pair, complete the following challenges.
 
 #### Git
-- [Git with it](../../../../git-with-it) :star:
+- [Git with it](../../../../git-with-it-challenge) :star:
 
 #### Sinatra
 - [ActiveRecord Validations with
