@@ -2,7 +2,7 @@
 
 Work on your group project.
 
-Choose your [lightning talk topic](lightning-talks/README.md#week-2) for
+Choose your [lightning talk topic](../lightning-talks/README.md#week-2) for
 week 2.
 
 Review [learning competencies self-assessment for week
