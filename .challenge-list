@@ -19,6 +19,7 @@ blog-2-multi-author-challenge
 blog-3-pagination-challenge
 craigslist-jr-challenge
 dbc-mail-challenge
+dbc-mail-frontend-skeleton
 deaf-sinatra-1-synchronous-forms-challenge
 deaf-sinatra-2-asynchronous-forms-challenge
 dummy-users-challenge
@@ -62,6 +63,7 @@ ph2-p5-active-record-and-sinatra-propagating-validations-challenge
 recent-tweets-1-challenge
 recent-tweets-2-challenge
 recent-tweets-command-line-challenge
+recipes-frontend
 rest-controller-challenge
 rspec-drill-simple-todo-challenge
 sinatra-sandbox-challenge
