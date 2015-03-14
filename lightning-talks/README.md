@@ -12,10 +12,10 @@ phase)
 
 ## INSTRUCTIONS: READ CAREFULLY
 
-1. Look at **[wiki](../../../wiki/talks.md)** to see if anyone has signed up
+1. Look at **[wiki](../../../wiki/Talks)** to see if anyone has signed up
 for the talk you want to do.
 2. Choose a topic that no one has choosen.
-3. Add your name and topic to the **[wiki](../../wiki/talks.md)** to
+3. Add your name and topic to the **[wiki](../../../wiki/Talks)** to
 sign up for your talk each week.
 
 ## Week 1

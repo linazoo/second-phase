@@ -18,5 +18,3 @@ particular attention to:
   * [What are Objects and Classes?](../../../../javascript-from-ruby-challenge/blob/master/07-objects-and-classes/01-what-are-objects-and-classes.md)
   * [Object Constructors](../../../../javascript-from-ruby-challenge/blob/master/07-objects-and-classes/02-object-constructors.md)
   * [Variables & Prototypes](../../../../javascript-from-ruby-challenge/blob/master/07-objects-and-classes/03-variables-and-properties.md)
-
-- Study the slides from Torey's [Object-Oriented JavaScript lecture](../resources/torey-oojs.pdf).

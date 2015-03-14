@@ -1,6 +1,6 @@
 # Weekend
 
-Review [learning competencies self-assessment](./self-assessments.md)
+Review [learning competencies self-assessment](../self-assessments#week-2)
 
 ## Survey Gorilla
 Complete this challenge with your group. I'd spend one day of the weekend wrapping up this challenge. It's a great chance to practice both CRUD/REST & AJAX.

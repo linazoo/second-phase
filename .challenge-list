@@ -2,6 +2,7 @@ active-record-associations-drill-shirts-challenge
 activerecord-design-your-own-challenge
 advanced-ar-dril
 ajaxifying-hacker-news-challenge
+ar-skeleton
 at-the-races
 anagram-server-1-the-basics-challenge
 anagram-server-2-ludicrous-speed-challenge
@@ -17,6 +18,8 @@ blog-1-anonymous-blog-challenge
 blog-2-multi-author-challenge
 blog-3-pagination-challenge
 craigslist-jr-challenge
+dbc-mail-challenge
+dbc-mail-frontend-skeleton
 deaf-sinatra-1-synchronous-forms-challenge
 deaf-sinatra-2-asynchronous-forms-challenge
 dummy-users-challenge
@@ -28,6 +31,7 @@ hacker-news-clone-part-1-challenge
 hacker-news-clone-part-2-challenge
 heroku-1-getting-started-challenge
 heroku-2-apps-ahoy-challenge
+hr-sinatra-refactor-challenge
 html-and-css-challenge
 javascript-drills
 javascript-from-ruby-challenge
@@ -49,6 +53,7 @@ layout-drill-two-column-layout-challenge
 lucky-ajax-challenge
 meditation-trainer-challenge
 oh-my-auth-google-challenge
+oo-js-etsy-challenge
 orange-jasmine-challenge
 ph2-p1-sinatra-restful-crud-challenge
 ph2-p2-active-record-people-skills-challenge
@@ -57,6 +62,8 @@ ph2-p4-css-layout-simple-marketing-page-challenge
 ph2-p5-active-record-and-sinatra-propagating-validations-challenge
 recent-tweets-1-challenge
 recent-tweets-2-challenge
+recent-tweets-command-line-challenge
+recipes-frontend
 rest-controller-challenge
 rspec-drill-simple-todo-challenge
 sinatra-sandbox-challenge
@@ -68,6 +75,7 @@ thing-o-challenge
 tweet-later-challenge
 tweet-now-1-single-user-challenge
 tweet-now-2-multi-user-challenge
+tweet-now-command-line-challenge
 web-flash-cards-1-multiple-decks-challenge
 web-flash-cards-2-ajax-guessing-challenge
 world-s-second-simplest-browser-challenge

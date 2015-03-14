@@ -1,10 +1,10 @@
 # HTML
 
-Written by [Rebecca Miller-Webster](@rmw).
+Written by [Rebecca Miller-Webster](http://github.com/rmw).
 
 ## Introduction
 
-HTML is the language used to create web pages.  [CSS](./css.md) is the language used to make the web pages pretty. HTML & [CSS](./css.md) are essential tools for web developers.  You cannot develop websites without them.
+HTML is the language used to create web pages.  CSS is the language used to make the web pages pretty. HTML & CSS are essential tools for web developers.  You cannot develop websites without them.
 
 HTML (<b>H</b>yper <b>T</b>ext <b>M</b>arkup <b>L</b>anguage) describes the content of the page.  You can think of it as basic formatting and outlining of a paper.
 
@@ -71,7 +71,7 @@ All of this together creates an *element*. The letters that follow the &lt; in t
 | **p** | <code>&lt;p&gt;Oat cake pie tootsie roll tootsie roll macaroon I love I love. Sweet roll donut jujubes jelly beans cheesecake. Cake I love oat cake jelly tiramisu cake.&lt;/p&gt; | Paragraph. <br />Used for blocks of text. Adds a new line before and after. | No |
 | **span** | <code>&lt;span&gt;Liquorice jelly beans&lt;/&gt;</code> | Span. <br /> Usually used to style a bit of text in that's within a paragraph or other container tag. Does not add any new lines. | Yes |
 | **br** | <code>&lt;br /&gt;</code> | Line break. | Yes |
-| **a** | <code>&lt;a href="http://www.cupcakeipsum.com/"&gt;Cupcake Ipsum&lt;/a&gt; <br /><a href="href="http://www.cupcakeipsum.com/" | Link. <br />Create a *hyperlink* to another web page or URL. | No |
+| **a** | <code>&lt;a href="http://www.cupcakeipsum.com/"&gt; Cupcake Ipsum &lt;/a&gt;</code> | Link. <br />Create a *hyperlink* to another web page or URL. | No |
 | **form** | <code>&lt;form action="cupakes/2/edit" method="post"&gt;</code><p style="margin: 0 0 0 10px;">&hellip;</p><code>&lt;/form&gt;</code> | Form. <br />Creates an HTML form that takes user input and, when *submitted* sends that input to a server. | No |
 | **input** | <code>&lt;input type="text" id="cupake_type" value="Pistachio" /&gt;</code> <br /> <input type="text" id="cupcake_type" value="Pistachio Piquant" /> | User input within a `form` tag. <br />There are a number of [*types* of input](http://www.w3schools.com/tags/att_input_type.asp) (defined by the `type` attribute). The most commons types are: <ul style="margin: 0;"><li>*text*: single line text box</li><li>*submit*: submit button<li>*radio*: radio button</li><li>*button*: clickable button (mostly used with JavaScript)</li><li>*checkbox*</li>*hidden*: creates a hidden field (pass data from form to server without showing user)</li><li>*password*: password field, which maskes the typed characters with `*`</li></ul> <br />The *value* attribute is the text shown on the screen. | Yes |
 | **label** | <code>&lt;label for="cupake_type"&gt;Flavor&lt;/label&gt;</code> <br /><label for="cupcake_type">Flavor</label><input type="text" id="cupcake_type" value="Pistachio Piquant" />| Label for an `input` element. <br /> The `for` attribute should equal the `id` of the corresponding input. | No |
@@ -185,5 +185,5 @@ Both the HTML specification and *specific browsers* define the *default* look of
 
 For example, an `h1` tag will have larger font size and more space around it than a `p` tag.  `ul` will be indented with bullets (filled-in circles) for each `li`.
 
-We can override these styles by using [CSS](./css.md). More on that later.
+We can override these styles by using CSS. More on that later.
 

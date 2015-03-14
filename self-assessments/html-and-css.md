@@ -25,7 +25,7 @@ solely so that we can send some text over the Internet in HTML
    selectors
 1. I've used a Grid framework
 1. I've used [CSS3
-   transitions](http://net.tutsplus.com/tutorials/html-css-techniques/css-fundametals-css-3-transitions/)
+   transitions](http://code.tutsplus.com/tutorials/css-fundamentals-css3-transitions--pre-10922)
 
 ## :+1: :+1: :+1:
 1. I've written my own grid layout system

@@ -75,14 +75,14 @@
 1. [ActiveRecord::Base](http://rubydoc.info/gems/activerecord/3.2.13/ActiveRecord/Base)
 
 ### HTML and CSS
-1. [Build a Simple Website](http://teamtreehouse.com/library/websites/build-a-simple-website), :level_1, :tutorial
+1. [Build a Simple Website](https://teamtreehouse.com/library/build-a-simple-website/website-basics/introduction-to-the-project-2), :level_1, :tutorial
 1. [Learn HTML and CSS](http://teamtreehouse.com/learning-adventures/learn-html-and-css), :level_1, :tutorial
 1. [Dash HTML/CSS Tutorial](https://dash.generalassemb.ly/), :level_1, :tutorial
 1. [A Beginners Guide to HTML and CSS](http://learn.shayhowe.com/), :level_1, :tutorial
 1. [An Advanced Guide to HTML and CSS](http://learn.shayhowe.com/),:level_2, :tutorial
 1. [semantic markup](http://www.webstyleguide.com/wsg3/5-site-structure/2-semantic-markup.html), :level_1
 1. [CSS Tricks]([pseudo-selectors](http://css-tricks.com), :level_2, :tutorial
-1. [CSS3 transitions](http://net.tutsplus.com/tutorials/html-css-techniques/css-fundametals-css-3-transitions/), :level_2, :tutorial
+1. [CSS3 transitions](http://code.tutsplus.com/tutorials/css-fundamentals-css3-transitions--pre-10922), :level_2, :tutorial
 1. [List of CSS Resources](https://gist.github.com/jenmyers/a6bb9ea6233c6c5a9edb)
 
 ### Git
@@ -100,13 +100,13 @@
 1. Team Treehouses: [Javascript Foundations](http://teamtreehouse.com/library/websites/javascript-foundations)
 1. Understanding [this](http://trephine.org/t/index.php?title=Understanding_JavaScript%27s_this_keyword) and [call and apply](http://trephine.org/t/index.php?title=JavaScript_call_and_apply)
 1. Justin Searls video : [javascript testing tactics](https://speakerdeck.com/searls/javascript-testing-tactics)
-1. [exercism.io JavaScript](exercism.io/setup/javascript),:level_2, :tutorial
+1. [exercism.io JavaScript](http://help.exercism.io/getting-started-with-javascript.html),:level_2, :tutorial
 1. [Javascript Cheat Sheet](http://wps.aw.com/wps/media/objects/2234/2287950/javascript_refererence.pdf)
-1. [Good Habits](http://enterprisejquery.com/2010/10/how-good-c-habits-can-encourage-bad-javascript-habits-part-1/), :level_2?, from Matt
-1. [Maurice's Function invocation guide](Overview of function invocation.pdf)
+1. [Good Habits](http://appendto.com/2010/10/how-good-c-habits-can-encourage-bad-javascript-habits-part-1/), :level_2?, from Matt
+1. [Maurice's Function invocation guide](overview-of-function-invocation.pdf)
 
 ### Jasmine
-1. [Jasmine Documentation](http://pivotal.github.io/jasmine/)
+1. [Jasmine Documentation](http://jasmine.github.io/)
 1. [Jasmine Cheat Sheet](http://www.cheatography.com/citguy/cheat-sheets/jasmine-js-testing/)
 
 ### JavaScript Frameworks and Libraries
@@ -143,7 +143,7 @@
 
 1. [Singing With Sinatra, Parts 1-3](http://net.tutsplus.com/tutorials/ruby/singing-with-sinatra/)
 1. [Testing with Rspec](http://net.tutsplus.com/tutorials/ruby/ruby-for-newbies-testing-with-rspec/)
-1. [Build a Simple Website](http://teamtreehouse.com/library/websites/build-a-simple-website)
+1. [Build a Simple Website](https://teamtreehouse.com/library/build-a-simple-website/website-basics/introduction-to-the-project-2)
 1. [Learn HTML and CSS](http://teamtreehouse.com/learning-adventures/learn-html-and-css)
 1. [A Beginners Guide to HTML and CSS](http://learn.shayhowe.com/)
 1. [Designing With Class: Sinatra + PostgreSQL + Heroku](http://mherman.org/blog/2013/06/08/designing-with-class-sinatra-plus-postgresql-plus-heroku/)
@@ -153,5 +153,5 @@
 1. [Environment Variables in Ruby](http://ruby.about.com/od/rubyfeatures/a/envvar.htm)
 1. [Deploying Sinatra Apps to Heroku](http://cloud.dzone.com/articles/deploying-sinatra-app-heroku-0)
 1. [Testing Web Apps with Capybara and Sinatra](http://net.tutsplus.com/tutorials/ruby/ruby-for-newbies-testing-web-apps-with-capybara-and-cucumber/)
-1. [exercism.io JavaScript](exercism.io/setup/javascript)
+1. [exercism.io JavaScript](http://help.exercism.io/getting-started-with-javascript.html)
 1. [An Advanced Guide to HTML and CSS](http://learn.shayhowe.com/)

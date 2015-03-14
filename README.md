@@ -67,6 +67,6 @@ Create a Pull Request for your challenge submissions, then tag both Rebecca ([@r
 
 - [How to Submit a Challenge](resources/how-to-submit.md)
 - [Self Assessment](self-assessments/)
-- [Resource Links](resources/resources.md)
+- [Resource Links](resources/)
 - [Mentoring Signup](http://mentoring.devbootcamp.com/)  
 - [Counseling Signup](resources/counseling_instructions.md)
