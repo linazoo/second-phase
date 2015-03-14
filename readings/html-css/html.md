@@ -4,7 +4,7 @@ Written by [Rebecca Miller-Webster](http://github.com/rmw).
 
 ## Introduction
 
-HTML is the language used to create web pages.  [CSS](./css.md) is the language used to make the web pages pretty. HTML & [CSS](./css.md) are essential tools for web developers.  You cannot develop websites without them.
+HTML is the language used to create web pages.  CSS is the language used to make the web pages pretty. HTML & CSS are essential tools for web developers.  You cannot develop websites without them.
 
 HTML (<b>H</b>yper <b>T</b>ext <b>M</b>arkup <b>L</b>anguage) describes the content of the page.  You can think of it as basic formatting and outlining of a paper.
 
@@ -185,5 +185,5 @@ Both the HTML specification and *specific browsers* define the *default* look of
 
 For example, an `h1` tag will have larger font size and more space around it than a `p` tag.  `ul` will be indented with bullets (filled-in circles) for each `li`.
 
-We can override these styles by using [CSS](./css.md). More on that later.
+We can override these styles by using CSS. More on that later.
 
