@@ -43,7 +43,7 @@ We will be using github to submit and review all challenges. There are three sta
 
 ![](img/edit.png)
 
-Select fiddler-crabs-2014. Now you're good to go.
+Select your cohort. Now you're good to go.
 ![](img/select.png)
 
 
