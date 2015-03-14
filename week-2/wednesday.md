@@ -33,4 +33,4 @@ Review for mock assessment:
 - OOJS
 - AJAX
 
-Review [learning competencies self-assessment](./self-assessments.md)
+Review [learning competencies self-assessment](../self-assessments#week-2)
