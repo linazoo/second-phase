@@ -100,7 +100,7 @@
 1. Team Treehouses: [Javascript Foundations](http://teamtreehouse.com/library/websites/javascript-foundations)
 1. Understanding [this](http://trephine.org/t/index.php?title=Understanding_JavaScript%27s_this_keyword) and [call and apply](http://trephine.org/t/index.php?title=JavaScript_call_and_apply)
 1. Justin Searls video : [javascript testing tactics](https://speakerdeck.com/searls/javascript-testing-tactics)
-1. [exercism.io JavaScript](exercism.io/setup/javascript),:level_2, :tutorial
+1. [exercism.io JavaScript](http://help.exercism.io/getting-started-with-javascript.html),:level_2, :tutorial
 1. [Javascript Cheat Sheet](http://wps.aw.com/wps/media/objects/2234/2287950/javascript_refererence.pdf)
 1. [Good Habits](http://enterprisejquery.com/2010/10/how-good-c-habits-can-encourage-bad-javascript-habits-part-1/), :level_2?, from Matt
 1. [Maurice's Function invocation guide](Overview of function invocation.pdf)
@@ -153,5 +153,5 @@
 1. [Environment Variables in Ruby](http://ruby.about.com/od/rubyfeatures/a/envvar.htm)
 1. [Deploying Sinatra Apps to Heroku](http://cloud.dzone.com/articles/deploying-sinatra-app-heroku-0)
 1. [Testing Web Apps with Capybara and Sinatra](http://net.tutsplus.com/tutorials/ruby/ruby-for-newbies-testing-web-apps-with-capybara-and-cucumber/)
-1. [exercism.io JavaScript](exercism.io/setup/javascript)
+1. [exercism.io JavaScript](http://help.exercism.io/getting-started-with-javascript.html)
 1. [An Advanced Guide to HTML and CSS](http://learn.shayhowe.com/)
