@@ -23,7 +23,7 @@ With your pair, complete the following challenges.
 
 - [Adding in
 AJAX](https://github.com/Devbootcamp/exploring-asynchrony-challenge)
-- [JavaScript Racer 2: Back-end](../../../javascript-racer-2-back-end-challenge)
+- [JavaScript Racer 2: Back-end](../../../../javascript-racer-2-back-end-challenge)
 
 ## Prep for Tomorrow
 
