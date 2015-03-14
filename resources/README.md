@@ -75,7 +75,7 @@
 1. [ActiveRecord::Base](http://rubydoc.info/gems/activerecord/3.2.13/ActiveRecord/Base)
 
 ### HTML and CSS
-1. [Build a Simple Website](http://teamtreehouse.com/library/websites/build-a-simple-website), :level_1, :tutorial
+1. [Build a Simple Website](https://teamtreehouse.com/library/build-a-simple-website/website-basics/introduction-to-the-project-2), :level_1, :tutorial
 1. [Learn HTML and CSS](http://teamtreehouse.com/learning-adventures/learn-html-and-css), :level_1, :tutorial
 1. [Dash HTML/CSS Tutorial](https://dash.generalassemb.ly/), :level_1, :tutorial
 1. [A Beginners Guide to HTML and CSS](http://learn.shayhowe.com/), :level_1, :tutorial
@@ -143,7 +143,7 @@
 
 1. [Singing With Sinatra, Parts 1-3](http://net.tutsplus.com/tutorials/ruby/singing-with-sinatra/)
 1. [Testing with Rspec](http://net.tutsplus.com/tutorials/ruby/ruby-for-newbies-testing-with-rspec/)
-1. [Build a Simple Website](http://teamtreehouse.com/library/websites/build-a-simple-website)
+1. [Build a Simple Website](https://teamtreehouse.com/library/build-a-simple-website/website-basics/introduction-to-the-project-2)
 1. [Learn HTML and CSS](http://teamtreehouse.com/learning-adventures/learn-html-and-css)
 1. [A Beginners Guide to HTML and CSS](http://learn.shayhowe.com/)
 1. [Designing With Class: Sinatra + PostgreSQL + Heroku](http://mherman.org/blog/2013/06/08/designing-with-class-sinatra-plus-postgresql-plus-heroku/)
