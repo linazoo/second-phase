@@ -59,6 +59,7 @@ Typesetting](../../../../layout-drill-proper-typesetting-challenge)
 #### Sinatra
 - [Singing With Sinatra, Parts 1-3](http://net.tutsplus.com/tutorials/ruby/singing-with-sinatra/)
 - [Sinatra readme on Github (Great step-by-step intro to Sinatra routing and methods)](https://github.com/sinatra/sinatra)
+- [Step by Step CRUD](../resources/step_by_step_crud.md)
 
 #### ActiveRecord
 * [Advanced Active Record Associations](http://www.theodinproject.com/ruby-on-rails/active-record-associations)
