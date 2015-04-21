@@ -6,12 +6,6 @@
 
 [To be completed](week-1/pre-work.md) the weekend between Phase 1 and Phase 2
 
-## Code Reviews
-
-Create a Pull Request for your challenge submissions, then tag both of your instructors for a code review. 
-
-Please also give some context for what you'd like feedback on ; e.g. "Is there a better way to do X in file.rb?", "I'm looking for feedback on my CRUD actions in controller.rb".
-
 ## Course Outline
 
 <table>
@@ -44,6 +38,11 @@ Please also give some context for what you'd like feedback on ; e.g. "Is there a
   </tr>
 </table>
 
+## Code Reviews
+
+Create a Pull Request for your challenge submissions, then tag both of your instructors for a code review. 
+
+Please also give some context for what you'd like feedback on ; e.g. "Is there a better way to do X in file.rb?", "I'm looking for feedback on my CRUD actions in controller.rb".
 
 ## Weekly Cadence
 
