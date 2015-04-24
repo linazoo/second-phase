@@ -1,15 +1,25 @@
 # Wednesday
 
-## Schedule
+## Core Challenges
+With your pair, complete the following challenges.
 
-#### AM
-- Cores
-- EE
+### Rspec
 
-#### PM
-- Lightning Talks
-- Surprise Code Bootcamp!
-- Cores
+- [Rspec Todos Drill](../../../../rspec-drill-simple-todo-challenge)
+:star:
+
+### ActiveRecord
+- [Active Record Design Your
+Own](../../../../activerecord-design-your-own-challenge) :star:
+:star: :star:
+
+### More Active Record
+- [Advanced Active Record](../../../../active-record-associations-drill-hotels-challenge) :star: :star:
+
+## Stretch Challenge
+
+- [More Advanced Hard Active Record](../../../../active-record-associations-drill-shirts-challenge)
+
 
 ## Core Challenges
 With your pair, complete the following challenges.
