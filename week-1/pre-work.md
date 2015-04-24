@@ -6,4 +6,4 @@ Sinatra](http://net.tutsplus.com/tutorials/ruby/singing-with-sinatra)
 :star: :star:
 * [HTTP Basics](http://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/http_basics.html)
 :star: :star:
-* [AR Exploration Challenge]()
+* [AR Design Your Own](../activerecord-design-your-own-challenge)
