@@ -9,10 +9,12 @@ browser](../../../../world-s-second-simplest-browser-challenge)
 :star: :star:
 
 ### Sinatra
-- [Sinatra Sandbox](../../../../sinatra-sandbox-challenge) :star: :star:
 - [Deaf
 Sinatra](../../../../deaf-sinatra-1-synchronous-forms-challenge)
 :star: :star:
+- [Anagrams 1](../../../../anagram-server-1-the-basics-challenge)
+:star: :star:
+- [Sinatra Sandbox](../../../../sinatra-sandbox-challenge) :star: :star:
 
 ## Prep for Tomorrow
 
