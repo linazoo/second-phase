@@ -46,19 +46,20 @@ Create a Pull Request for your challenge submissions, then tag both Tyler ([@twy
 ## Weekly Cadence
 
 - Yoga: Tuesday (mandatory)
-- Engineering Empathy: Wednesday, 10:30am
-- Assessments: Thursday from 8:15 - 11:15 a.m. (Weeks 2 and 3)
+- Engineering Empathy
+  * Week One: Micro Agressions & Sexism - Tuesday
+  * Week Two: Difficult Conversations - Wednesday
+  * Week Three: Team Dynamics - TBD
+- Assessment: Wednesday (Week 3)
 
 ## Daily Cadence
 
 - Check in with accountability buddies
 - Announcements
 - Yoga (Tuesday)
-- Drills
-- Morning Lecture (usually at 10:30am)
 - Challenges
 - Lunch
-- Afternoon Lecture or Recitations (usually at 3:30pm)
+- Afternoon Lecture or Recitations (usually at 1:15 pm)
 - Challenges
 - End of core hours
 - Challenges, Optimize your learning
