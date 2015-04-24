@@ -16,10 +16,6 @@ Sinatra](../../../../deaf-sinatra-1-synchronous-forms-challenge)
 :star: :star:
 - [Sinatra Sandbox](../../../../sinatra-sandbox-challenge) :star: :star:
 
-## Prep for Tomorrow
-
-- [HTML](../readings/html-css/html.md)
-
 ### Stretch: HTTP & APIs
 - [Recent Tweets at the Command
 Line](../../../../recent-tweets-command-line-challenge) :star:
