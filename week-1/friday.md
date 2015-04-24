@@ -1,15 +1,6 @@
 # Friday
 
-## Schedule
-
-#### AM
-- Lecture: Agile process
-- Lecture: Authentication
-- [Dummy Users](../../../../dummy-users-challenge) :star:
-:star:
-
-#### PM
-- Lightning Talks
+## Core Challenges
 - [Flashcards Group
 Project](../../../../web-flash-cards-1-multiple-decks-challenge)
 :star: :star: :star: :star: :star:
