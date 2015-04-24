@@ -24,7 +24,7 @@ Own](../../../../activerecord-design-your-own-challenge) :star:
 :star: :star:
 
 ### More Active Record
-- [Advanced Active Record](../../../../advanced-ar-dril) :star: :star:
+- [Advanced Active Record](../../../../active-record-associations-drill-hotels-challenge) :star: :star:
 
 ## Stretch Challenge
 
