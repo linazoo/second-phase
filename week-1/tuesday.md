@@ -31,6 +31,7 @@ Line](../../../../tweet-now-command-line-challenge) :star:
 
 ## Resources
 
+* [Sinatra readme on Github (Great step-by-step intro to Sinatra routing and methods)](https://github.com/sinatra/sinatra)
 * [REST Slides](../resources/rest.pdf?raw=true)
 * [CRUD with Sinatra and RESTful routing](https://talks.devbootcamp.com/crud-with-sinatra-and-restful-routing)
 * [CRUD with Sinatra and RESTful routing - Live Coding](https://talks.devbootcamp.com/crud-with-sinatra-and-restful-routing-live-coding)
