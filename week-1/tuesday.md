@@ -12,11 +12,9 @@
 With your pair, complete the following challenges.
 
 ### Sinatra
-- [Anonymous Blog](../../../../blog-1-anonymous-blog-challenge) :star:
-:star:
-- [Rest Controller](../../../../rest-controller-challenge) :star:
-- [Craig's List Jr.](../../../../craigslist-jr-challenge) :star:
-:star:
+- [Craig's List Jr.](../../../../craigslist-jr-challenge)
+- [Anonymous Blog](../../../../blog-1-anonymous-blog-challenge)
+- [Rest Controller](../../../../rest-controller-challenge)
 
 ## Prep for Tomorrow
 
