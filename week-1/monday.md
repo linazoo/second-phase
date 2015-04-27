@@ -31,5 +31,8 @@ Line](../../../../tweet-now-command-line-challenge)
 - [Intro to HTTP Video](https://talks.devbootcamp.com/intro-to-http) - watch the first 20 minutes
 - [HTTP Basics](http://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/http_basics.html)
 - [HTTP Request & Response Cycle (archive.org cache link)](https://web.archive.org/web/20130705214517/http://devhub.fm/http-requestresponse-basics)
+
+#### Sinatra
+- [Intro to Sinatra Video](https://talks.devbootcamp.com/intro-to-sinatra-1)
 - [Singing With Sinatra, Parts 1-3](http://net.tutsplus.com/tutorials/ruby/singing-with-sinatra/)
 - [Sinatra readme on Github (Great step-by-step intro to Sinatra routing and methods)](https://github.com/sinatra/sinatra)
