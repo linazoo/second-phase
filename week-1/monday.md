@@ -24,6 +24,7 @@ Line](../../../../tweet-now-command-line-challenge)
 
 - Complete the [self-assessment](https://gist.github.com/case-eee/8e455a04e69afde8bc00)
 - Read about [REST](https://gist.github.com/case-eee/72715407554996828e0c)
+- Read & Reflect on [article one](http://www.nytimes.com/2014/04/06/technology/technologys-man-problem.html?_r=0) and [article two](http://notapattern.net/2014/10/14/ways-men-in-tech-are-unintentionally-sexist/) to prep for tomorrow's EE session
 
 ## Resources
 
