@@ -22,7 +22,8 @@ Line](../../../../tweet-now-command-line-challenge)
 
 ### Prep for Tomorrow
 
-- Coming Soon
+- Complete the [self-assessment](https://gist.github.com/case-eee/8e455a04e69afde8bc00)
+- Read about [REST](https://gist.github.com/case-eee/72715407554996828e0c)
 
 ## Resources
 
