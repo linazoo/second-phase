@@ -17,7 +17,7 @@ With your pair, complete the following challenges.
 
 ## Prep for Tomorrow
 
-* [Self Assessment]()
+* [Self Assessment](https://gist.github.com/case-eee/d69204098ee3b7e2e970)
 * [What is BCrypt?](https://github.com/codahale/bcrypt-ruby)
 
 ##  Resources
