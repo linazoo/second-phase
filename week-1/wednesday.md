@@ -23,7 +23,9 @@ With your pair, complete the following challenges.
 ##  Resources
 
 #### Sinatra
+- [CRUD & REST Lecture Slides 4/29](../resources/crud-rest-pg)
 - [Sinatra readme on Github (Great step-by-step intro to Sinatra routing and methods)](https://github.com/sinatra/sinatra)
 
 #### ActiveRecord
+* [AR Lecture Slides 4/29](../resources/ar-associations-review.pdf)
 * [Advanced Active Record Associations](http://www.theodinproject.com/ruby-on-rails/active-record-associations)
