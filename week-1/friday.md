@@ -3,7 +3,6 @@
 ## Core Challenges
 - [Flashcards Group
 Project](../../../../web-flash-cards-1-multiple-decks-challenge)
-:star: :star: :star: :star: :star:
 
 ## Resources
 - [Sessions and User Authentication](https://talks.devbootcamp.com/sessions-and-user-authentication) 
