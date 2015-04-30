@@ -11,7 +11,7 @@ With your pair, complete the following challenges.
 
 
 ## Prep for Tomorrow
-- [Self-Assessment]()
+- [Self-Assessment](https://gist.github.com/case-eee/6b3912cd30fe13646dea)
 - [Manifesto for Agile Practices](http://agilemanifesto.org/)
 
 ## Resources
