@@ -1,5 +1,10 @@
 # Friday
 
+## Groups
+1. jim, candice, natty, george, huy
+2. logan, edwin, peter, nathan
+3. brant, shannon, christian, rose
+
 ## Core Challenges
 - [Flashcards Group
 Project](../../../../web-flash-cards-1-multiple-decks-challenge)
