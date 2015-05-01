@@ -1,14 +1,19 @@
 # Weekend
 
-Work on your group project.
-
-Review [learning competencies self-assessment for week
+- Work on your group project. We will present these first thing Monday morning.
+- Review [learning competencies self-assessment for week
 1](../self-assessments#week-1)
+- Complete Mock Assessment Part One (see below) in 3 hours (maximum!).
+- Complete JavaScript reading and drills below.
 
-## Challenges
-Complete the following challenges to get more cruddy practice!
+## Mock Assessment
+- Coming Soon! (by Saturday AM)
 
-- [Multi-author Blog](../../../../blog-2-multi-author-challenge)
-- [Craigslist, Jr.](../../../../craigslist-jr-challenge)
-- [Getting Started With
-Heroku](../../../../heroku-1-getting-started-challenge)
+## Intro to JavaScript
+
+### Required Reading
+Read [JavaScript Intro](../readings/javascript-intro.md).
+
+### Drills
+
+Work through the drills and read the material in [From Ruby to JavaScript](../../../../javascript-from-ruby-challenge). Complete all the drills. Pay extra close attention to the drills on Functions, Collections, and Objects and Classes.
