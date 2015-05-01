@@ -14,3 +14,5 @@
 Read [JavaScript Intro](../readings/javascript-intro.md).
 
 Work through the drills and read the material in [From Ruby to JavaScript](../../../../javascript-from-ruby-challenge). Complete all the drills. Pay extra close attention to the drills on Functions, Collections, and Objects and Classes.
+
+FYI - The specs for the Times Table drill are in the process of being updated (so they may not pass - we will try to update them at some point this weekend).
