@@ -7,7 +7,7 @@
 - Complete JavaScript reading and drills below.
 
 ## Mock Assessment
-- Coming Soon! (by Saturday AM)
+- [Self-Assessment Challenge](../../../../phase-2-self-assessment-challenge)
 
 ## Intro to JavaScript
 
