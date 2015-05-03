@@ -13,12 +13,12 @@ To be successful in this phase, you should answer 'Yes' to all of the
 - [Coder's Mindset](./coders-mindset.md)
 - [ActiveRecord](./activerecord.md)
 - [Debugging](./debugging.md)
-- [Ruby Web Apps](./ruby-webapps.md]
+- [Ruby Web Apps](./ruby-webapps.md)
 - [HTML & CSS](./html-and-css.md)
 
 ## Week 2 & 3
 
-- [Ruby Web Apps](./ruby-webapps.md]
+- [Ruby Web Apps](./ruby-webapps.md)
 - [HTML & CSS](./html-and-css.md)
 - [JavaScript](./javascript-the-language.md)
 - [JavaScript & jQuery](./javascript-for-web-applications.md)
