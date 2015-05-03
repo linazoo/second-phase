@@ -1,36 +1,21 @@
 # Tuesday
 
 ## Schedule
+- Yoga at 8 AM
 
-#### AM
-- Yoga
-- Drills (JavaScript)
-- Lecture: Javascript Review & Intro to Jasmine
-- Cores (Orange Tree)
-
-#### PM
-- Lightning Talks
-- Lecture: jQuery Intro
-- Cores (Orange Tree, JavaScript Racer)
-- [Required readings](#prep-for-tomorrow)
-
-## Drills
-
-Complete following [drills](../../../../javascript-drills) in [From Ruby to JavaScript](../../../../javascript-from-ruby-challenge) :
-- [Objects &
-Classes](../../../../javascript-drills#objects--classes) drill :star:
-
-### Core Challenges
+## Core Challenges
 With your pair, complete the following challenges.
 
-- [Orange Trees: TDD w/
-Jasmine](../../../../orange-jasmine-challenge) :star: :star:
 - [JavaScript Racer 1: Front-end](../../../../javascript-racer-1-front-end-challenge)
+- [JavaScript Racer 2: Back-end](../../../../javascript-racer-2-back-end-challenge)
+- [Lucky AJAX](../../../../lucky-ajax-challenge)
 
+## Stretch
+- [CRUD & AJAX](../../../../ajax-review-challenge)
+- [Orange Trees: TDD w/
+Jasmine](../../../../orange-jasmine-challenge)
 
 ## Prep for Tomorrow
-- Read [this in JS](http://www.2ality.com/2014/05/this.html)
-- Read [The Mystery Of The jQuery Object: A Basic Introduction](http://www.smashingmagazine.com/2014/05/29/mystery-jquery-object-syntax-basic-introduction)
 
 ## Resources
 - [Javascript Foundations](http://teamtreehouse.com/library/javascript-foundations)
