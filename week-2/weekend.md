@@ -2,12 +2,8 @@
 
 Review [learning competencies self-assessment](../self-assessments#week-2)
 
-## Survey Gorilla
-Complete this challenge with your group. I'd spend one day of the weekend wrapping up this challenge. It's a great chance to practice both CRUD/REST & AJAX.
-
-Make sure to:
-- follow and practice agile processes
-- work on things *you aren't the best at*
+## Core Challenges
+- [AJAXifying Hacker News](../../../../ajaxifying-hacker-news-challenge)
 
 ## Review or Advance
 **Review**: Use the remainder of the weekend to review the mock and solo challenges from the last week.  
