@@ -1,21 +1,9 @@
 # Monday
 
-## Schedule
 
-#### AM
-- [Code Review](#code-review) (40 min)
-- Lecture: Bcrypt Demo
-- Cores
+## Group Project Presentations
 
-#### PM
-- Lightning Talks
-- Cores
-- **Required** prep for tomorrow: [JavaScript reading and drills](#prep-for-tomorrow)
-
-## Code Review
-
-Pair with another group and review each other's Flash Cards apps from
-last week. Timebox each review to 15 minutes per group. Things to look for & share:
+Things to look for & share:
 
 * DB Schema
 * User authentication
@@ -27,67 +15,50 @@ last week. Timebox each review to 15 minutes per group. Things to look for & sha
 
 ## Core Challenges
 
-- [Multi User Url Shortener](#authentication)
-- [CRUD Adventure](#crud)
-- [Heroku and Sinatra](../../../../heroku-2-apps-ahoy-challenge)
+#### HTML/CSS
 
-<a name="authentication"></a>
-#### Multi User URL Shortener :star: :star: :star:
-Between your pair, pick the most complete URL shortener solution from last week. Review the code then add the following improvements:
+- [Layout Drill: Basic Form
+Styling](../../../../layout-drill-basic-form-styling-challenge)
+- [Learn CSS Layout](http://learnlayout.com) **very very important**
+- [Layout Drill: Left-hand
+Navigation](../../../../layout-drill-left-hand-navigation-challenge)
+- [Layout Drill: Right-hand
+Navigation](../../../../layout-drill-right-hand-navigation-challenge)
+- [Layout Drill: Proper
+Typesetting](../../../../layout-drill-proper-typesetting-challenge)
 
-* Users
-* Authentication (with BCrypt)
-* Ownership of URLs (using a foreign key named `creator_id`). Only allow the creator of a URL should be allowed to delete the URL and view click counts.
+## JavaScript/jQuery Drills
+- [Style Editor](../../../../behavior-drill-style-editor-challenge)
+- [Adding Comments](../../../../behavior-drill-add-comments-challenge)
+- [Tabbed Interface](../../../../behavior-drill-tabbed-interface-challenge)
+- [Collapsible Side-Menu](../../../../behavior-drill-collapsible-side-menu-challenge)
+- [Client-Side Form Validations](../../../../behavior-drill-form-validation-challenge)
 
-<a name="crud"></a>
-#### CRUD Adventure :star: :star: :star: :star:
-With your pair, spend the afternoon building a small CRUD app. Keep an eye on the time. Work quickly, timeboxing features. You could spend an entire week building anyone of these ideas, but you only have a few hours! Here are some ideas:
-
-**Craigslist**
-* Posts
-* Categories
-
-**Stack Overflow**
-* Questions
-* Answers
-* Votes
-
-**Online Store**
-* Products
-* Categories
-* Cart
-* Checkout
-* Orders
-
-**Animal Adoption**
-* Animals
-* Species
-* Breed
-* Posts
-* Location search (by state)
-
-**Museum Gallery**
-* Art
-* Collections
-* Events
-* RSVPs
-
-**Yelp**
-* Restaurants
-* Cities
-* Reviews
-* Average Rating
+## Stretch
+- [CRUD Adventure](https://gist.github.com/case-eee/c16d6ff037355a26b89e)
  
-## Prep for Tomorrow
+## Resources
 
-### Required Reading
-Read [JavaScript Intro](../readings/javascript-intro.md) as well as the reading linked within it.
+#### HTML/CSS
 
-### Drills
-Complete following [drills](../../../../javascript-drills) in [From Ruby to JavaScript](../../../../javascript-from-ruby-challenge) :
-* [Functions](../../../../javascript-drills#functions)
-:star:
-* [Collections](../../../../javascript-drills#collections)
-:star:
-* [Loops](../../../../javascript-drills#loops) :star:
+- [MDN position](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
+- [MDN display](https://developer.mozilla.org/en-US/docs/Web/CSS/display)
+- [MDN float](https://developer.mozilla.org/en-US/docs/Web/CSS/float)
+- [CSS Display Playground](http://quirksmode.org/css/css2/display.html#link9)
+- [Inline Elements: Width, Height, Padding & Margin](http://www.maxdesign.com.au/articles/inline/)
+- [CSS Floats](http://alistapart.com/article/css-floats-101)
+- [Clear Floats with `overflow: hidden;`](http://colinaarts.com/articles/the-magic-of-overflow-hidden/)
+- [CSS Positioning](http://alistapart.com/article/css-positioning-101)
+- [Typesetting a Short Article with CSS](https://medium.com/designed-thought/99033116fe92)
+- [Pesticide](http://pesticide.io/) A stylesheet and Chrome extension to help with CSS debugging
+- [HTML & CSS Resources](https://gist.github.com/jenmyers/a6bb9ea6233c6c5a9edb)
+- [Advanced CSS Talk](https://talks.devbootcamp.com/advanced-css-the-brain-bake)
+
+#### jQuery and JavaScript
+- [Intro to jQuery](https://talks.devbootcamp.com/2015-chicago-squirrels-jquery-basics)
+- [jQuery Docs](https://jquery.com/)
+- [Basic OOJS Notes](https://gist.github.com/alycit/e6f5f20ced9b42a64f5a)
+- [JavaScript Scoping and "This"](https://talks.devbootcamp.com/javascript-scoping-and-this)
+
+
 
