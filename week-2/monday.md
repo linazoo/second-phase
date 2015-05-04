@@ -33,11 +33,11 @@ Typesetting](../../../../layout-drill-proper-typesetting-challenge)
 - [Style Editor](../../../../behavior-drill-style-editor-challenge)
 - [Adding Comments](../../../../behavior-drill-add-comments-challenge)
 - [Tabbed Interface](../../../../behavior-drill-tabbed-interface-challenge)
-- [Collapsible Side-Menu](../../../../behavior-drill-collapsible-side-menu-challenge)
-- [Client-Side Form Validations](../../../../behavior-drill-form-validation-challenge)
 
 ## Stretch
 - [CRUD Adventure](https://gist.github.com/case-eee/c16d6ff037355a26b89e)
+- [Collapsible Side-Menu](../../../../behavior-drill-collapsible-side-menu-challenge)
+- [Client-Side Form Validations](../../../../behavior-drill-form-validation-challenge)
  
 ## Resources
 
