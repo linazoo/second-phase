@@ -26,6 +26,8 @@ Navigation](../../../../layout-drill-left-hand-navigation-challenge)
 Navigation](../../../../layout-drill-right-hand-navigation-challenge)
 - [Layout Drill: Proper
 Typesetting](../../../../layout-drill-proper-typesetting-challenge)
+- Before moving on to the jQuery drills, go back to one of your CRUD apps from last week and style it!
+- Read [this](http://www.smashingmagazine.com/2014/05/29/mystery-jquery-object-syntax-basic-introduction/) for some jQuery prep.
 
 ## JavaScript/jQuery Drills
 - [Style Editor](../../../../behavior-drill-style-editor-challenge)
