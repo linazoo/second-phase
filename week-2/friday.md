@@ -1,20 +1,10 @@
 # Friday
 
-## Schedule
-
-#### AM
-- Check-Ins
-- Feedback
-- Review Mock Assessment or wrap up JS Racer/AJAXifying Hacker News
-
-#### PM
-- Lightning Talks
-- Group Project
-- AMA
-
 ## Core Challenges
-With your team, complete the following challenges.
+With your pair, work on the following challenges.
 
-- [Survey Gorilla](../../../../survey-gorilla-challenge)
+- [OOJS Etsy](../../../../oo-js-etsy-challenge)
+- [JavaScript Racer 3: Refactor OOJS](../../../../javascript-racer-3-sane-javascript-challenge)
 
-You will present your group project Monday morning.
+## Self-Assessment Challenge (JavaScript & AJAX Style)
+- [Coming Soon]()
