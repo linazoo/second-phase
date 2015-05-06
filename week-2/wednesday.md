@@ -1,7 +1,7 @@
 # Wednesday
 
 ## Core Challenges
-With your pair, complete the following challenges.
+With your group, complete the following challenges.
 
 - [DBC Overflow](../../../../overflow-challenge)
 
