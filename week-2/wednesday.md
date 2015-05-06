@@ -3,13 +3,10 @@
 ## Core Challenges
 With your pair, complete the following challenges.
 
-- [OOJS Etsy](../../../../oo-js-etsy-challenge)
-- [JavaScript Racer 3: Refactor OOJS](../../../../javascript-racer-3-sane-javascript-challenge)
-
-## Self-Assessment Challenge (JavaScript & AJAX Style)
-- [Coming Soon]()
+- [DBC Overflow](../../../../overflow-challenge)
 
 ## Prep for Tomorrow
-
+- Keep working on your project.
 
 ## Resources
+- Check out everything from the past few days!
