@@ -48,8 +48,7 @@ Create a Pull Request for your challenge submissions, then tag both Tyler ([@twy
 - Yoga: Tuesday (mandatory)
 - Engineering Empathy
   * Week One: Micro Agressions & Sexism - Tuesday
-  * Week Two: Difficult Conversations - Wednesday
-  * Week Three: Team Dynamics - TBD
+  * Week Two: Difficult Conversations - Monday
 - Assessment: Wednesday (Week 3)
 
 ## Daily Cadence
