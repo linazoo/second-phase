@@ -1,7 +1,7 @@
 # Friday
 
 ## Mock Assessment
-- [CRUD Mock Assessment](../../../../phase-2-mock-assessment-challenge-echo)
+- [CRUD Mock Assessment](../../../../phase-2-mock-assessment-echo)
 
 ## Core Challenges
 With your pair (someone you have NOT paired with this week - or that you haven't paired much with), work on the following challenges.
