@@ -1,10 +1,11 @@
 # Friday
 
+## Mock Assessment
+- [CRUD Mock Assessment](../../../../phase-2-mock-assessment-challenge-echo)
+
 ## Core Challenges
-With your pair, work on the following challenges.
+With your pair (someone you have NOT paired with this week - or that you haven't paired much with), work on the following challenges.
 
-- [OOJS Etsy](../../../../oo-js-etsy-challenge)
-- [JavaScript Racer 3: Refactor OOJS](../../../../javascript-racer-3-sane-javascript-challenge)
-
-## Self-Assessment Challenge (JavaScript & AJAX Style)
-- [Coming Soon]()
+- [Simon Says](../../../../simon-says-challenge)
+- [Lucky AJAX](../../../../lucky-ajax-challenge)
+- [CRUD AJAX](../../../../ajax-review-challenge)
