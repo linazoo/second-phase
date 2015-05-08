@@ -24,11 +24,17 @@ Practicing CRUD is highly suggested this weekend. How you do that is completely 
 - [Hacker News Clone Part One](../../../../hacker-news-clone-part-1-challenge)
 - [Hacker News Clone Part Two](../../../../hacker-news-clone-part-2-challenge)
 
+### ActiveRecord Associations
+
+If you need more practice with AR Associations, complete the shirts challenge. It is definitely challenging, but it will help prepare you immensely for the assessment, phase three, and the rest of your career.
+- [Shirts](../../../../active-record-associations-drill-shirts-challenge)
+
 ### Stretch
 
-If you're feeling great about all the concepts we've covered so far (I know there's been a lot), feel free to dive deeper into and build the following game!
+If you're feeling great about all the concepts we've covered so far (I know there's been a lot), feel free to dive deeper into and build the following!
 
 - [Tic-Tac-Toe Challenge](../../../../tic-tac-toe-challenge)
+- [HR Sinatra Refactor Challenge](../../../../hr-sinatra-refactor-challenge)
 
 ## Resources
 
