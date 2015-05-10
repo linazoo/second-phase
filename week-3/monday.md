@@ -1,7 +1,5 @@
 # Monday
 
-## Schedule
-
 ## Core Challenges
 With your pair, complete the following challenges.
 
