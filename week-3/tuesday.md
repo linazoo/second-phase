@@ -1,44 +1,34 @@
 # Tuesday
 
-## Schedule
-
-#### AM
-- Yoga
-- Discussion: Choose your track
-- Cores
-
-#### PM
-- Lecture: Client-side JS Application
-- Cores
-
-
-### Choose your track
-**[Review & Sharpen](#review--sharpen)** will focus on practicing the
-fundamentals of CRUD, REST, OOJS, and AJAX.  This track is great for
-those who feel weak on certain areas or want to focus on improving
-what will be on the assessment.
-
-**[Client-side JS & APIs](#client-side-js--apis) will focus on OO JS,
- AJAX and APIs.  It is for those who feel comfortable with CRUD,
-REST, OOJS, and AJAX and want to continue to advance in those
-areas.
-
 ## Core Challenges
 
 With your pair, complete the following challenges.
 
-#### All
-- [OO JS Etsy](../../../../oo-js-etsy-challenge)
+#### CRUD & Sintatra
+- [Refactor HR App](../../../../hr-sinatra-refactor-challenge)
+- [Hacker News Clone Part One](../../../../hacker-news-clone-part-1-challenge)
+- [Hacker News Clone Part Two](../../../../hacker-news-clone-part-2-challenge)
 
-#### Review & Sharpen
-- [Refactor HR App](../../../../hr-sinatra-refactor-challenge) :star:
-:star: :star:
-- [Orange Trees: TDD w/ Jasmine](../../../../orange-jasmine-challenge)
-:star: :star: :star:
+#### AJAX
+- [AJAXifying Hacker News](../../../../ajaxifying-hacker-news-challenge)
+- [AJAX your CRUD apps](../../../../ajax-review-challenge)
 
-#### Client-side JS & APIs
-- [DBC Mail Challenge](../../../../dbc-mail-challenge) :star: :star:
-:star: :star: :star:
+#### JavaScript 
+- [Tic-Tac-Toe](../../../../tic-tac-toe-challenge)
 
+## Resources
 
+### Talks
+- [Intro to OOJS - Torey](https://talks.devbootcamp.com/oojs-for-coyotes)
+- [Live Code - OOJS - Kevin](https://talks.devbootcamp.com/oojs-zoo-example) - you should DEFINITELY watch this!
+- [OOJS Refactor of JS Racer - Alyssa](https://talks.devbootcamp.com/oojs-for-coyotes)
 
+### Object Literals and Constructor Functions
+
+- [Difference between Object Literals and Constructor Functions](http://blog.kevinchisholm.com/javascript/difference-between-object-literal-and-instance-object/)
+- [Object Literals vs Constructor Functions](http://stackoverflow.com/questions/4859800/should-i-be-using-object-literals-or-constructor-functions)
+- [OOJS Basics](http://code.tutsplus.com/tutorials/the-basics-of-object-oriented-javascript--net-7670)
+
+### JavaScript's Prototype
+- [JavaScript's Prototype](http://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/)
+- [Understanding Prototypes](https://javascriptweblog.wordpress.com/2010/06/07/understanding-javascript-prototypes/)
