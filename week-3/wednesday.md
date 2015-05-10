@@ -2,35 +2,6 @@
 
 ## Schedule
 
-### AM
-- Cores
-- EE
+Assessment will begin promptly at 8:15. The assessment will be emailed to you. You have until 5 PM to work on the assessment.
 
-### PM
-- Cores
-
-## Core Challenges
-With your pair, complete the following challenges.
-
-**Submit code for code review**
-
-#### Review & Sharpen
-- [Refactor HR App](../../../../hr-sinatra-refactor-challenge) :star:
-:star: :star:
-- [Orange Trees: TDD w/ Jasmine](../../../../orange-jasmine-challenge)
-:star: :star: :star:
-
-#### Client-side JS & APIs
-- [DBC Mail Challenge](../../../../dbc-mail-challenge) :star: :star:
-:star: :star: :star:
-
-## Prep for Tomorrow
-
-Review for assessment:
-- CRUD
-- REST
-- Sinatra
-- OO JS
-- AJAX
-
-Review [learning competencies self-assessment](../self-assessments#week-3)
+Code Reviews will take place Thursday morning, and the code review schedule will be posted below (coming soon).
