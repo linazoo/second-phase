@@ -2,33 +2,14 @@
 
 ## Schedule
 
-#### AM
-- Survey Gorilla Demos & Group code-review
-- Lecture: Git rebase, *optional*
-- Cores
-
-#### PM
-- Lecture: your choice, optional
-- Cores
-
 ## Core Challenges
 With your pair, complete the following challenges.
 
-#### Git
-- [Git with it](../../../../git-with-it-challenge) :star:
-
-#### Sinatra
-- [ActiveRecord Validations with
-Sinatra](../../../../ph2-p5-active-record-and-sinatra-propagating-validations-challenge)
-:star: :star:
-
-#### JavaScript
-- [Behavior Drill: Style
-Editor](../../../../behavior-drill-style-editor-challenge) :star:
-- [Behavior Drill: Add
-Comments](../../../../behavior-drill-add-comments-challenge) :star:
-- [OO JS Etsy](../../../../oo-js-etsy-challenge) :star: :star:
-
+#### Object Oriented JavaScript
+- [Orange Trees](../../../../orange-jasmine-challenge)
+- [New Challenge]()
+- [JS Racer 3](../../../../javascript-racer-3-sane-javascript-challenge)
+- [OO JS Etsy](../../../../oo-js-etsy-challenge)
 
 ## Stretch
 - [HR Sinatra Refactor Challenge!](../../../../hr-sinatra-refactor-challenge)
