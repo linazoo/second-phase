@@ -22,9 +22,10 @@ With your pair, complete the following challenges.
 ## Resources
 
 ### Talks
+- [OOJS Etsy Refactor - Maurice](https://talks.devbootcamp.com/refactoring-etsy-challenge)
+- [OOJS Refactor of JS Racer - Alyssa](https://talks.devbootcamp.com/mvc-oojs-racer-live-demo)
 - [Intro to OOJS - Torey](https://talks.devbootcamp.com/oojs-for-coyotes)
 - [Live Code - OOJS - Kevin](https://talks.devbootcamp.com/oojs-zoo-example) - you should DEFINITELY watch this!
-- [OOJS Refactor of JS Racer - Alyssa](https://talks.devbootcamp.com/oojs-for-coyotes)
 
 ### Object Literals and Constructor Functions
 
