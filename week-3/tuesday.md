@@ -21,7 +21,7 @@ With your pair, complete the following challenges.
 ### Talks
 - [Intro to OOJS - Torey](https://talks.devbootcamp.com/oojs-for-coyotes)
 - [Live Code - OOJS - Kevin](https://talks.devbootcamp.com/oojs-zoo-example) - you should DEFINITELY watch this!
-- [OOJS Refactor of JS Racer - Alyssa](https://talks.devbootcamp.com/oojs-for-coyotes)
+- [OOJS Refactor of JS Racer - Alyssa](https://talks.devbootcamp.com/mvc-oojs-racer-live-demo)
 
 ### Object Literals and Constructor Functions
 
