@@ -5,7 +5,7 @@ With your pair, complete the following challenges.
 
 #### Object Oriented JavaScript
 - [Orange Trees](../../../../orange-jasmine-challenge)
-- [New Challenge]()
+- [OOJS Bikes & Stations](../../../../oojs-bikes-drill-challenge)
 - [JS Racer 3](../../../../javascript-racer-3-sane-javascript-challenge)
 - [OO JS Etsy](../../../../oo-js-etsy-challenge)
 
