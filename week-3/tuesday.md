@@ -9,12 +9,23 @@ With your pair, complete the following challenges.
 - [Hacker News Clone Part One](../../../../hacker-news-clone-part-1-challenge)
 - [Hacker News Clone Part Two](../../../../hacker-news-clone-part-2-challenge)
 
+#### AR Validations
+- [Intro to AR Validations](../../../../active-record-intro-validations-challenge)
+- [Event App Validations](../../../../ph2-p5-active-record-and-sinatra-propagating-validations-challenge)
+
+#### AR Associations
+- [Teams & Leagues](../../../../ar-teams-and-leagues-challenge)
+- [Shirts!](../../../../active-record-associations-drill-shirts-challenge)
+- [At the Races](../../../../at-the-races-challenge)
+
 #### AJAX
 - [AJAXifying Hacker News](../../../../ajaxifying-hacker-news-challenge)
 - [AJAX your CRUD apps](../../../../ajax-review-challenge)
 
 #### JavaScript 
 - [Tic-Tac-Toe](../../../../tic-tac-toe-challenge)
+- [Roman Numerals](../../../../javascript-roman-numerals-challenge)
+- [OOJS Todo's](../../../../object-oriented-javascript-todos)
 
 ## Resources
 
