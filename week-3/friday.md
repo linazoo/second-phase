@@ -4,6 +4,6 @@
 
 - Check-Ins
 - Feedback
-- Best Challenge Yet (Cont'd)
+- Build Something Beautiful & Meaningful (Continued)
   * we will be presenting these THIS AFTERNOON so make them fancy.
 
