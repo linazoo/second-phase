@@ -6,7 +6,7 @@ Woooo it's Thursday!
 
 You can choose whomever you would like to work with for this challenge. You can work by yourself, with a pair, or with a small group (max 4 students). 
 
-### Build Something Beautiful
+### Build Something Beautiful & Meaningful
 
 #### Learning Competencies
 
@@ -22,7 +22,7 @@ For this challenge, your assignment is to build something. It can be as practica
 You can build anything you want, provided that it meets the following requirements:
 
 - It has a database
-- It uses an API
+- It uses an API (what does this mean?! explore!)
 - It is styled
 - It utilizes JavaScript
 
