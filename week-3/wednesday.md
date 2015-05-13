@@ -6,23 +6,26 @@ Code Reviews will take place Thursday morning, and the code review schedule will
 
 
 **Lucas**
-Brant
-Jim
-Natty
-Peter
-Shannon
+
+- Brant
+- Jim
+- Natty
+- Peter
+- Shannon
 
 
 **Duke**
-Candice
-Christian
-George
-Huy
-Nathan
-Sahil
+
+- Candice
+- Christian
+- George
+- Huy
+- Nathan
+- Sahil
 
 
 **Matt Baker**
-Rose
-Logan
-Edwin
+
+- Rose
+- Logan
+- Edwin
