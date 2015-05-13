@@ -2,6 +2,45 @@
 
 Woooo it's Thursday!
 
+## Code Review Schedule
+
+**Lucas**
+
+8:30 - Brant
+
+9:00 - Jim 
+
+9:30 - Natty 
+
+10:00 - Peter 
+
+10:30 - Shannon 
+
+
+**Duke**
+
+8:30 - Candice
+
+9:00 - Christian
+
+9:30 - George
+
+10:00 - Huy
+
+10:30 - Nathan
+
+11:00 - Sahil
+
+
+**Matt Baker**
+
+8:30 - Rose
+
+9:00 - Logan
+
+9:30 - Edwin
+
+
 ## Core Challenges
 
 You can choose whomever you would like to work with for this challenge. You can work by yourself, with a pair, or with a small group (max 4 students). 
