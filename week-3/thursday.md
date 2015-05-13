@@ -1,3 +1,31 @@
 # Thursday
 
 Woooo it's Thursday!
+
+## Core Challenges
+
+You can choose whomever you would like to work with for this challenge. You can work by yourself, with a pair, or with a small group (max 4 students). 
+
+### Build Something Beautiful
+
+#### Learning Competencies
+
+  * Building a web application from scratch
+  * Managing the development process
+
+#### Summary
+
+You've learned a lot in phase 2: Sinatra, Active Record, JavaScript, Agile, and much more. Each of these tools is useful in its own right, but together, they give you something much more powerful — the ability to build a web application from nothing.
+
+For this challenge, your assignment is to build something. It can be as practical or trivial as you would want, as long as it is a 100% functional, full-stack web application.
+
+You can build anything you want, provided that it meets the following requirements:
+
+- It has a database
+- It uses an API
+- It is styled
+- It utilizes JavaScript
+
+Once you've come up with an idea, get one of your teachers to approve it.
+
+You will have all day Thursday, and all of Friday to work on this challenge. We will present these projects Friday at 3:30 PM. 
