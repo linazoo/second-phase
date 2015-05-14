@@ -6,15 +6,15 @@ Woooo it's Thursday!
 
 **Lucas**
 
-8:30 - Brant
+8:45 - Brant
 
-9:00 - Jim 
+9:15 - Jim 
 
-9:30 - Natty 
+9:45 - Natty 
 
-10:00 - Peter 
+10:15 - Peter 
 
-10:30 - Shannon 
+10:45 - Shannon 
 
 
 **Duke**
@@ -34,11 +34,11 @@ Woooo it's Thursday!
 
 **Matt Baker**
 
-8:30 - Rose
+9:00 - Rose
 
-9:00 - Logan
+9:30 - Logan
 
-9:30 - Edwin
+10:00 - Edwin
 
 
 ## Core Challenges
