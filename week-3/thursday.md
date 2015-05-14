@@ -67,4 +67,10 @@ You can build anything you want, provided that it meets the following requiremen
 
 Once you've come up with an idea, get one of your teachers to approve it.
 
-You will have all day Thursday, and all of Friday to work on this challenge. We will present these projects Friday at 3:30 PM. 
+You will have all day Thursday, and all of Friday to work on this challenge. We will present these projects Friday at 3:00 PM. 
+
+### Resources
+- [List of Public API's](https://www.publicapis.com/)
+- [Mashape - List of API's](https://www.mashape.com/)
+- [Programmable Web](http://www.programmableweb.com/)
+- [Postman - REST Client](https://chrome.google.com/webstore/detail/postman-rest-client-packa/fhbjgbiflinjbdggehcddcbncdddomop?hl=en)
