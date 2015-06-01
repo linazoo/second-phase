@@ -4,41 +4,6 @@ Woooo it's Thursday!
 
 ## Code Review Schedule
 
-**Lucas**
-
-8:45 - Brant
-
-9:15 - Jim 
-
-9:45 - Natty 
-
-10:15 - Peter 
-
-10:45 - Shannon 
-
-
-**Duke**
-
-8:30 - Candice
-
-9:00 - Christian
-
-9:30 - George
-
-10:00 - Huy
-
-10:30 - Nathan
-
-11:00 - Sahil
-
-
-**Matt Baker**
-
-9:00 - Rose
-
-9:30 - Logan
-
-10:00 - Edwin
 
 
 ## Core Challenges

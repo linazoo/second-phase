@@ -14,7 +14,6 @@ With your pair, complete the following challenges.
 ### Sinatra
 - [Craig's List Jr.](../../../../craigslist-jr-challenge)
 - [Anonymous Blog](../../../../blog-1-anonymous-blog-challenge)
-- [Rest Controller](../../../../rest-controller-challenge)
 
 ## Prep for Tomorrow
 
@@ -22,6 +21,7 @@ With your pair, complete the following challenges.
 * [Advanced Active Record Associations](http://www.theodinproject.com/ruby-on-rails/active-record-associations)
 
 ### Stretch: HTTP & APIs
+- [Rest Controller](../../../../rest-controller-challenge)
 - [Recent Tweets at the Command
 Line](../../../../recent-tweets-command-line-challenge) :star:
 :star:

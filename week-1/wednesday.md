@@ -3,16 +3,15 @@
 ## Core Challenges
 With your pair, complete the following challenges.
 
-#### Sinatra
-- [Anonymous Blog](../../../../blog-1-anonymous-blog-challenge)
-
 ### ActiveRecord
 - [At The Races](../../../../at-the-races-challenge)
 - [Advanced Active Record](../../../../active-record-associations-drill-hotels-challenge)
+- [More Advanced Hard Active Record](../../../../active-record-associations-drill-shirts-challenge)
+
+#### Sinatra
+- [Anonymous Blog](../../../../blog-1-anonymous-blog-challenge)
 
 ## Stretch Challenge
-
-- [More Advanced Hard Active Record](../../../../active-record-associations-drill-shirts-challenge)
 - [URL Shortner](../../../../sinatra-url-shortener-challenge)
 
 ## Prep for Tomorrow

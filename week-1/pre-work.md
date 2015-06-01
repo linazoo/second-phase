@@ -2,11 +2,6 @@
 
 * [Introduction to
 Sinatra](http://net.tutsplus.com/tutorials/ruby/singing-with-sinatra)
-:star: :star:
 * [HTTP Basics](http://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/http_basics.html)
-:star: :star:
 * Watch [Intro to HTTP](https://talks.devbootcamp.com/http-basics) by the infamous Matt Jones!
-
-
-## Stretch
-* [AR Design Your Own](../../../../activerecord-design-your-own-challenge) :star: :star:
+* [AR Design Your Own](../../../../activerecord-design-your-own-challenge)
