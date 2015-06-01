@@ -8,7 +8,7 @@
 
 ## Code Reviews
 
-Create a Pull Request for your challenge submissions, then tag both Tyler ([@twymer](http://github.com/twymer)) and Casey ([@case-eee](http://github.com/case-eee)) for a Code Review. Please also give some context for what you'd like us to look at; e.g. "Is there a better way to do X in file.rb?", "I'm looking for feedback on my CRUD actions in controller.rb".
+Create a Pull Request for your challenge submissions, then tag both your instructors for a Code Review. Please also give some context for what you'd like us to look at; e.g. "Is there a better way to do X in file.rb?", "I'm looking for feedback on my CRUD actions in controller.rb".
 
 ## Course Outline
 
@@ -42,6 +42,11 @@ Create a Pull Request for your challenge submissions, then tag both Tyler ([@twy
   </tr>
 </table>
 
+## Code Reviews
+
+Create a Pull Request for your challenge submissions, then tag both of your instructors for a code review. 
+
+Please also give some context for what you'd like feedback on ; e.g. "Is there a better way to do X in file.rb?", "I'm looking for feedback on my CRUD actions in controller.rb".
 
 ## Weekly Cadence
 
