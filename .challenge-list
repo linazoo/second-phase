@@ -1,8 +1,11 @@
 active-record-associations-drill-shirts-challenge
 activerecord-design-your-own-challenge
+active-record-associations-drill-hotels-challenge
 advanced-ar-dril
+ajax-review-challenge
 ajaxifying-hacker-news-challenge
 ar-skeleton
+ar-teams-and-leagues-challenge
 at-the-races
 anagram-server-1-the-basics-challenge
 anagram-server-2-ludicrous-speed-challenge
@@ -66,6 +69,7 @@ recent-tweets-command-line-challenge
 recipes-frontend
 rest-controller-challenge
 rspec-drill-simple-todo-challenge
+sinatra-overflow-challenge
 sinatra-sandbox-challenge
 sinatra-skeleton-mvc-challenge
 sinatra-url-shortener-challenge
