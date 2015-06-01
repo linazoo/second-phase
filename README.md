@@ -44,7 +44,7 @@ Create a Pull Request for your challenge submissions, then tag both your instruc
 
 ## Code Reviews
 
-Create a Pull Request for your challenge submissions, then tag both of your instructors for a code review. 
+Create a Pull Request for your challenge submissions, then tag both of your instructors for a code review.
 
 Please also give some context for what you'd like feedback on ; e.g. "Is there a better way to do X in file.rb?", "I'm looking for feedback on my CRUD actions in controller.rb".
 
@@ -63,7 +63,6 @@ Please also give some context for what you'd like feedback on ; e.g. "Is there a
 - Yoga (Tuesday)
 - Challenges
 - Lunch
-- Afternoon Lecture or Recitations (usually at 1:15 pm)
 - Challenges
 - End of core hours
 - Challenges, Optimize your learning
@@ -73,5 +72,5 @@ Please also give some context for what you'd like feedback on ; e.g. "Is there a
 - [How to Submit a Challenge](resources/how-to-submit.md)
 - [Self Assessment](self-assessments/)
 - [Resource Links](resources/)
-- [Mentoring Signup](http://mentoring.devbootcamp.com/)  
+- [Mentoring Signup](http://mentoring.devbootcamp.com/)
 - [Counseling Signup](resources/counseling_instructions.md)
