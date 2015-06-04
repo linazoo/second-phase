@@ -1,12 +1,5 @@
 # Monday
 
-## Groups 
-- huy, natty, peter, candice
-- george, sahil, shannon
-- rose, jim, logan
-- edwin, brant, christian, nathan
-
-
 ## Core Challenges
 With your pair, complete the following challenges.
 
