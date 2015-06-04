@@ -4,6 +4,9 @@
 - [Flashcards Group
 Project](../../../../web-flash-cards-1-multiple-decks-challenge)
 
+## Prep for the Weekend
+- [Self-Assessment](../self-assessments/week-one/friday.md)
+
 ## Resources
 - [Git Workflow for Teams](https://gist.github.com/mikelikesbikes/ccbf4c7fd90e647138c6)
 - [Git: Rebase vs Merge](http://gitguru.com/2009/02/03/rebase-v-merge-in-git/)

@@ -13,7 +13,7 @@ Project](../../../../web-flash-cards-1-multiple-decks-challenge)
 - [AR Associations](../../../../ar-teams-and-leagues-challenge)
 
 ## Prep for Tomorrow
-- [Self-Assessment](https://gist.github.com/case-eee/6b3912cd30fe13646dea)
+- [Self-Assessment](../self-assessments/week-one/thursday.md)
 - [Manifesto for Agile Practices](http://agilemanifesto.org/)
 
 ## Resources

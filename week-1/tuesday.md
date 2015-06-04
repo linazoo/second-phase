@@ -17,7 +17,7 @@ With your pair, complete the following challenges.
 
 ## Prep for Tomorrow
 
-* [Self-Assessment](https://gist.github.com/case-eee/548cb222483e2c8097fc)
+* [Self-Assessment](../self-assessments/week-one/tuesday.md)
 * [Advanced Active Record Associations](http://www.theodinproject.com/ruby-on-rails/active-record-associations)
 
 ### Stretch: HTTP & APIs
