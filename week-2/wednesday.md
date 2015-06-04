@@ -3,7 +3,7 @@
 ## Core Challenges
 With your group, complete the following challenges.
 
-- [DBC Overflow](../../../../overflow-challenge)
+- [DBC Overflow](../../../../sinatra-overflow-challenge)
 
 ## Prep for Tomorrow
 - Keep working on your project.

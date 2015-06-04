@@ -1,18 +1,5 @@
 # Monday
 
-
-## Group Project Presentations
-
-Things to look for & share:
-
-* DB Schema
-* User authentication
-* How did you track progress through the deck? (e.g. sessions? DB column?)
-* What statistics are available?
-* Keep a look out for opportunities to refactor and improve your code.
-
-*Remember, feedback should be Kind, Actionable and Specific.*
-
 ## Core Challenges
 
 #### HTML/CSS
@@ -31,14 +18,13 @@ Typesetting](../../../../layout-drill-proper-typesetting-challenge)
 
 ## JavaScript/jQuery Drills
 - [Style Editor](../../../../behavior-drill-style-editor-challenge)
-- [Adding Comments](../../../../behavior-drill-add-comments-challenge)
 - [Tabbed Interface](../../../../behavior-drill-tabbed-interface-challenge)
+- [Lucky AJAX](../../../../lucky-ajax-challenge)
 
 ## Stretch
-- [CRUD Adventure](https://gist.github.com/case-eee/c16d6ff037355a26b89e)
 - [Collapsible Side-Menu](../../../../behavior-drill-collapsible-side-menu-challenge)
 - [Client-Side Form Validations](../../../../behavior-drill-form-validation-challenge)
- 
+
 ## Resources
 
 #### HTML/CSS

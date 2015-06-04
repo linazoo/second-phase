@@ -6,16 +6,16 @@
 ## Core Challenges
 With your pair, complete the following challenges.
 
-- [JavaScript Racer 1: Front-end](../../../../javascript-racer-1-front-end-challenge)
-- [JavaScript Racer 2: Back-end](../../../../javascript-racer-2-back-end-challenge)
-- [Lucky AJAX](../../../../lucky-ajax-challenge)
+- [Adding Comments](../../../../behavior-drill-add-comments-challenge)
+- [Simon Says](../../../../simon-says-challenge)
+- [AJAXifying Hacker News](../../../../ajaxifying-hacker-news-challenge)
 
 ## Stretch
 - [CRUD & AJAX](../../../../ajax-review-challenge)
-- [Orange Trees: TDD w/
-Jasmine](../../../../orange-jasmine-challenge)
 
-## Prep for Tomorrow
+## Prep for Tomorrow (Optional)
+- Explore [Polymorphic Associations](http://www.gotealeaf.com/blog/understanding-polymorphic-associations-in-rails)
+- Watch [Polymorphic Associations in Rails](http://railscasts.com/episodes/154-polymorphic-association)
 
 ## Resources
 - [Javascript Foundations](http://teamtreehouse.com/library/javascript-foundations)

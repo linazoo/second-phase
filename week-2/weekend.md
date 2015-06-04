@@ -9,7 +9,9 @@ We haven't talked about OOJS yet, but it's an important concept to start wrappin
 
 - Read [Intro to OOJS](https://gist.github.com/alycit/e6f5f20ced9b42a64f5a)
 - [OOJS with Gardens](../../../../oojs-garden-challenge)
+- Complete the "Objects and Classes" section of [this challenge](../../../../javascript-from-ruby-challenge)
 
+## Stretch Challenges
 ### AJAX
 
 Continue practicing and slowly working to demystify asynchronous requests and DOM manipulation. It's easy to want to copy and paste your setup from another challenge, but try first to pull from your memory. Try things in the console and don't resist using `console.log()` and `debugger` to help understand the state of your code.
