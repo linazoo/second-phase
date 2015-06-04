@@ -8,6 +8,7 @@ With your pair, complete the following challenges.
 
 - [Adding Comments](../../../../behavior-drill-add-comments-challenge)
 - [Simon Says](../../../../simon-says-challenge)
+- [Cheering Mascot Round Two](../../../../cheering-mascot-sinatra-2-asynchronous-forms-challenge)
 - [AJAXifying Hacker News](../../../../ajaxifying-hacker-news-challenge)
 
 ## Stretch

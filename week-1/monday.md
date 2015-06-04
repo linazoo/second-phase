@@ -8,8 +8,7 @@ With your pair, complete the following challenges.
 browser](../../../../world-s-second-simplest-browser-challenge)
 
 ### Sinatra
-- [Deaf
-Sinatra](../../../../deaf-sinatra-1-synchronous-forms-challenge)
+- [Cheering Mascot](../../../../cheering-mascot-sinatra-1-synchronous-forms-challenge)
 - [Anagrams 1](../../../../anagram-server-1-the-basics-challenge)
 - [Anagrams 2](../../../../anagram-server-2-ludicrous-speed-challenge)
 - [Sinatra Sandbox](../../../../sinatra-sandbox-challenge)
