@@ -1,17 +1,18 @@
 # Weekend
 
-Work on your group project.
-
-Choose your [lightning talk topic](../lightning-talks/README.md#week-2) for
-week 2.
-
-Review [learning competencies self-assessment for week
+- Work on your group project. We will present these first thing Monday morning.
+- Review [learning competencies self-assessment for week
 1](../self-assessments#week-1)
+- Complete Mock Assessment Part One (see below) in 3 hours (maximum!).
+- Complete JavaScript reading and drills below.
 
-## Challenges
-Complete the following challenges to get more cruddy practice!
+## Mock Assessment
+- [Self-Assessment Challenge](../../../../phase-2-self-assessment-challenge)
 
-- [Multi-author Blog](../../../../blog-2-multi-author-challenge)
-- [Craigslist, Jr.](../../../../craigslist-jr-challenge)
-- [Getting Started With
-Heroku](../../../../heroku-1-getting-started-challenge)
+## Intro to JavaScript
+
+Read [JavaScript Intro](../readings/javascript-intro.md).
+
+Work through the drills and read the material in [From Ruby to JavaScript](../../../../javascript-from-ruby-challenge). Complete all the drills. Pay extra close attention to the drills on Functions, Collections, and Objects and Classes.
+
+FYI - The specs for the Times Table drill are in the process of being updated (so they may not pass - we will try to update them at some point this weekend).

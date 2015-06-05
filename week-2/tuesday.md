@@ -1,38 +1,25 @@
 # Tuesday
 
 ## Schedule
+- Yoga at 8 AM
 
-#### AM
-- Yoga
-- Drills (JavaScript)
-- Lecture: Javascript Review & Intro to Jasmine
-- Cores (Orange Tree)
-
-#### PM
-- Lightning Talks
-- Lecture: jQuery Intro
-- Cores (Orange Tree, JavaScript Racer)
-- [Required readings](#prep-for-tomorrow)
-
-## Drills
-
-Complete following [drills](../../../../javascript-drills) in [From Ruby to JavaScript](../../../../javascript-from-ruby-challenge) :
-- [Objects &
-Classes](../../../../javascript-drills#objects--classes) drill :star:
-
-### Core Challenges
+## Core Challenges
 With your pair, complete the following challenges.
 
-- [Orange Trees: TDD w/
-Jasmine](../../../../orange-jasmine-challenge) :star: :star:
-- [JavaScript Racer 1: Front-end](../../../../javascript-racer-1-front-end-challenge)
+- [Adding Comments](../../../../behavior-drill-add-comments-challenge)
+- [Simon Says](../../../../simon-says-challenge)
+- [Cheering Mascot Round Two](../../../../cheering-mascot-sinatra-2-asynchronous-forms-challenge)
+- [AJAXifying Hacker News](../../../../ajaxifying-hacker-news-challenge)
 
+## Stretch
+- [CRUD & AJAX](../../../../ajax-review-challenge)
 
-## Prep for Tomorrow
-- Read [this in JS](http://www.2ality.com/2014/05/this.html)
-- Read [The Mystery Of The jQuery Object: A Basic Introduction](http://www.smashingmagazine.com/2014/05/29/mystery-jquery-object-syntax-basic-introduction)
+## Prep for Tomorrow (Optional)
+- Explore [Polymorphic Associations](http://www.gotealeaf.com/blog/understanding-polymorphic-associations-in-rails)
+- Watch [Polymorphic Associations in Rails](http://railscasts.com/episodes/154-polymorphic-association)
 
 ## Resources
 - [Javascript Foundations](http://teamtreehouse.com/library/javascript-foundations)
 - [Javascript Cheatsheet](http://wps.aw.com/wps/media/objects/2234/2287950/javascript_refererence.pdf)
 - [A Re-introduction to Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript), especially the section on [Custom Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript#Custom_objects)
+- [Live coding from lecture](https://github.com/chi-pocket-gophers-2015/intro-to-ajax)

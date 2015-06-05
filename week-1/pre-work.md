@@ -1,9 +1,7 @@
 ## Weekend (before the phase starts)
 
-* Choose your [lightning talk topic](../lightning-talks/README.md) for week
-1.
-* Complete the ActiveRecord challenge [At the
-Races](../../../../at-the-races) :star: :star:
 * [Introduction to
 Sinatra](http://net.tutsplus.com/tutorials/ruby/singing-with-sinatra)
-:star: :star:
+* [HTTP Basics](http://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/http_basics.html)
+* Watch [Intro to HTTP](https://talks.devbootcamp.com/http-basics) by the infamous Matt Jones!
+* [AR Design Your Own](../../../../activerecord-design-your-own-challenge)

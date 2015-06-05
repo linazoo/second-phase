@@ -6,6 +6,10 @@
 
 [To be completed](week-1/pre-work.md) the weekend between Phase 1 and Phase 2
 
+## Code Reviews
+
+Create a Pull Request for your challenge submissions, then tag both your instructors for a Code Review. Please also give some context for what you'd like us to look at; e.g. "Is there a better way to do X in file.rb?", "I'm looking for feedback on my CRUD actions in controller.rb".
+
 ## Course Outline
 
 <table>
@@ -40,26 +44,25 @@
 
 ## Code Reviews
 
-Create a Pull Request for your challenge submissions, then tag both of your instructors for a code review. 
+Create a Pull Request for your challenge submissions, then tag both of your instructors for a code review.
 
 Please also give some context for what you'd like feedback on ; e.g. "Is there a better way to do X in file.rb?", "I'm looking for feedback on my CRUD actions in controller.rb".
 
 ## Weekly Cadence
 
 - Yoga: Tuesday (mandatory)
-- Engineering Empathy: Wednesday, 10:30am
-- Assessments: Thursday from 8:15 - 11:15 a.m. (Weeks 2 and 3)
+- Engineering Empathy
+  * Week One: Micro Agressions & Sexism - Tuesday
+  * Week Two: Difficult Conversations - Monday
+- Assessment: Wednesday (Week 3)
 
 ## Daily Cadence
 
 - Check in with accountability buddies
 - Announcements
 - Yoga (Tuesday)
-- Drills
-- Morning Lecture (usually at 10:30am)
 - Challenges
 - Lunch
-- Afternoon Lecture or Recitations (usually at 3:30pm)
 - Challenges
 - End of core hours
 - Challenges, Optimize your learning
@@ -69,5 +72,5 @@ Please also give some context for what you'd like feedback on ; e.g. "Is there a
 - [How to Submit a Challenge](resources/how-to-submit.md)
 - [Self Assessment](self-assessments/)
 - [Resource Links](resources/)
-- [Mentoring Signup](http://mentoring.devbootcamp.com/)  
+- [Mentoring Signup](http://mentoring.devbootcamp.com/)
 - [Counseling Signup](resources/counseling_instructions.md)

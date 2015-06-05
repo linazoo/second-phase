@@ -1,37 +1,32 @@
 # Monday
 
-## Schedule
-
-#### AM
-- Survey Gorilla Demos & Group code-review
-- Lecture: Git rebase, *optional*
-- Cores
-
-#### PM
-- Lecture: your choice, optional
-- Cores
-
 ## Core Challenges
 With your pair, complete the following challenges.
 
-#### Git
-- [Git with it](../../../../git-with-it-challenge) :star:
-
-#### Sinatra
-- [ActiveRecord Validations with
-Sinatra](../../../../ph2-p5-active-record-and-sinatra-propagating-validations-challenge)
-:star: :star:
-
-#### JavaScript
-- [Behavior Drill: Style
-Editor](../../../../behavior-drill-style-editor-challenge) :star:
-- [Behavior Drill: Add
-Comments](../../../../behavior-drill-add-comments-challenge) :star:
-- [OO JS Etsy](../../../../oo-js-etsy-challenge) :star: :star:
-
+#### Object Oriented JavaScript
+- [Orange Trees](../../../../orange-jasmine-challenge)
+- [OOJS Bikes & Stations](../../../../oojs-drill-challenge)
+- [JS Racer 3](../../../../javascript-racer-3-sane-javascript-challenge)
+- [OO JS Etsy](../../../../oo-js-etsy-challenge)
 
 ## Stretch
 - [HR Sinatra Refactor Challenge!](../../../../hr-sinatra-refactor-challenge)
 
+## Resources
 
+### Talks
+- [OOJS Etsy Refactor - Maurice](https://talks.devbootcamp.com/refactoring-etsy-challenge)
+- [OOJS Refactor of JS Racer - Alyssa](https://talks.devbootcamp.com/mvc-oojs-racer-live-demo)
+- [Intro to OOJS - Torey](https://talks.devbootcamp.com/oojs-for-coyotes)
+- [Live Code - OOJS - Kevin](https://talks.devbootcamp.com/oojs-zoo-example) - you should DEFINITELY watch this!
+
+### Object Literals and Constructor Functions
+
+- [Difference between Object Literals and Constructor Functions](http://blog.kevinchisholm.com/javascript/difference-between-object-literal-and-instance-object/)
+- [Object Literals vs Constructor Functions](http://stackoverflow.com/questions/4859800/should-i-be-using-object-literals-or-constructor-functions)
+- [OOJS Basics](http://code.tutsplus.com/tutorials/the-basics-of-object-oriented-javascript--net-7670)
+
+### JavaScript's Prototype
+- [JavaScript's Prototype](http://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/)
+- [Understanding Prototypes](https://javascriptweblog.wordpress.com/2010/06/07/understanding-javascript-prototypes/)
 

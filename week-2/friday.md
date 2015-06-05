@@ -1,20 +1,11 @@
 # Friday
 
-## Schedule
-
-#### AM
-- Check-Ins
-- Feedback
-- Review Mock Assessment or wrap up JS Racer/AJAXifying Hacker News
-
-#### PM
-- Lightning Talks
-- Group Project
-- AMA
+## Mock Assessment
+- [CRUD Mock Assessment](../../../../phase-2-mock-assessment-echo)
 
 ## Core Challenges
-With your team, complete the following challenges.
+With your pair (someone you have NOT paired with this week - or that you haven't paired much with), work on the following challenges.
 
-- [Survey Gorilla](../../../../survey-gorilla-challenge)
+- [JavaScript Racer 1: Front-end](../../../../javascript-racer-1-front-end-challenge)
+- [JavaScript Racer 2: Back-end](../../../../javascript-racer-2-back-end-challenge)
 
-You will present your group project Monday morning.

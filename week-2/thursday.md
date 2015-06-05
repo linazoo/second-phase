@@ -1,18 +1,12 @@
 # Thursday
 
-## Schedule
-
-### AM
-- Mock Assessment Challenge
-
-### PM
-- Mock Assessment Reviews
-- Cores
-
 ## Core Challenges
-With your pair or solo, complete the following challenges.
+With your group, complete the following challenges.
 
-#### JQuery & Ajax
-- [AJAXifying Hacker News](../../../../ajaxifying-hacker-news-challenge)
-- [Heroku and Sinatra](../../../../heroku-2-apps-ahoy-challenge) if you didn't get to it
-- [JavaScript Racer 3: Sane JavaScript](../../../../javascript-racer-3-sane-javascript-challenge)
+- [DBC Overflow](../../../../sinatra-overflow-challenge)
+
+## Prep for Tomorrow
+- Keep working on your project.
+
+## Resources
+- Check out everything from the past few days!

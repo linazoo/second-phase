@@ -1,36 +1,12 @@
 # Wednesday
 
-## Schedule
-
-#### AM
-- Drills (jQuery)
-- Lecture: Intro to AJAX
-- Cores
-- EE
-
-#### PM
-- pitch day
-- Lightning Talks
-- Lecture: Debugging AJAX
-- Cores
-
-## Drills
-
-- [Behavior Drill: Tabbed Interface](../../../../behavior-drill-tabbed-interface-challenge) :star:
-
 ## Core Challenges
-With your pair, complete the following challenges.
+With your group, complete the following challenges.
 
-- [Adding in
-AJAX](https://github.com/Devbootcamp/exploring-asynchrony-challenge)
-- [JavaScript Racer 2: Back-end](../../../../javascript-racer-2-back-end-challenge)
+- [DBC Overflow](../../../../sinatra-overflow-challenge)
 
 ## Prep for Tomorrow
+- Keep working on your project.
 
-Review for mock assessment:
-- CRUD in Sinatra
-- RESTful routes
-- OOJS
-- AJAX
-
-Review [learning competencies self-assessment](../self-assessments#week-2)
+## Resources
+- Check out everything from the past few days!

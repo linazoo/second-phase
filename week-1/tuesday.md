@@ -3,34 +3,25 @@
 ## Schedule
 
 #### AM
-- Yoga
-- Lecture: HTTP Basics
-- Cores (HTTP)
+- Yoga at 8 AM
 
 #### PM
-- Lightning Talks
-- Lecture: Sinatra
-- Cores (Sinatra)
+- EE at 3:30 PM
 
 ## Core Challenges
 With your pair, complete the following challenges.
 
-### HTTP
-- [World's second simplest
-browser](../../../../world-s-second-simplest-browser-challenge)
-:star: :star:
-
 ### Sinatra
-- [Sinatra Sandbox](../../../../sinatra-sandbox-challenge) :star: :star:
-- [Deaf
-Sinatra](../../../../deaf-sinatra-1-synchronous-forms-challenge)
-:star: :star:
+- [Craig's List Jr.](../../../../craigslist-jr-challenge)
+- [Anonymous Blog](../../../../blog-1-anonymous-blog-challenge)
 
 ## Prep for Tomorrow
 
-- [HTML](../readings/html-css/html.md)
+* [Self-Assessment](../self-assessments/week-one/tuesday.md)
+* [Advanced Active Record Associations](http://www.theodinproject.com/ruby-on-rails/active-record-associations)
 
 ### Stretch: HTTP & APIs
+- [Rest Controller](../../../../rest-controller-challenge)
 - [Recent Tweets at the Command
 Line](../../../../recent-tweets-command-line-challenge) :star:
 :star:
@@ -39,7 +30,10 @@ Line](../../../../tweet-now-command-line-challenge) :star:
 
 ## Resources
 
-#### HTTP
-- [HTTP Basics](http://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/http_basics.html)
-- [HTTP Request & Response Cycle (archive.org cache link)](https://web.archive.org/web/20130705214517/http://devhub.fm/http-requestresponse-basics)
-- [Singing With Sinatra, Parts 1-3](http://net.tutsplus.com/tutorials/ruby/singing-with-sinatra/)
+* [Sinatra readme on Github (Great step-by-step intro to Sinatra routing and methods)](https://github.com/sinatra/sinatra)
+* [REST Slides](../resources/crud-restful-routes.pdf?raw=true)
+* [RESTful Routes + CRUD Example](../resources/REST_routes_sample_where_my_dogs_at.rb)
+
+### Good Talks
+* [CRUD with Sinatra and RESTful routing](https://talks.devbootcamp.com/crud-with-sinatra-and-restful-routing)
+* [CRUD with Sinatra and RESTful routing - Live Coding](https://talks.devbootcamp.com/crud-with-sinatra-and-restful-routing-live-coding)

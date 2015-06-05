@@ -8,7 +8,7 @@ You'll be using Javascript to manipulate the DOM (i.e. the webpage in your brows
 * In-browser gameplay
 * Annoying popup advertisments
 
-Javascript is a powerful language that while most commonly run inside a web browser is finding its way into other places as well. For example you can write applications for the [Audrino using Javscript](https://github.com/rwaldron/johnny-five) or write web apps on the server using [Node](http://nodejs.org/). You can also automate applications like [Adobe Illustrator with Javascript](http://www.adobe.com/devnet/illustrator/scripting.html).
+Javascript is a powerful language that while most commonly run inside a web browser is finding its way into other places as well. For example you can write applications for the [Arduino using Javascript](https://github.com/rwaldron/johnny-five) or write web apps on the server using [Node](http://nodejs.org/). You can also automate applications like [Adobe Illustrator with Javascript](http://www.adobe.com/devnet/illustrator/scripting.html).
 
 ## Additional Reading
 
