@@ -34,7 +34,7 @@ No lecture.
 
 **Prep for Tomorrow**
 
-Continue with [weekend review](week-4/README.md#weekend).
+Continue with [weekend review](../week-4/README.md#weekend).
 
 ### Stretch
 
@@ -44,7 +44,7 @@ Continue with [weekend review](week-4/README.md#weekend).
 
 ## Additional Resources
 
-See the [weekend review and resource sections](week-4/README.md#weekend).
+See the [weekend review and resource sections](../week-4/README.md#weekend).
 
 ---
 
@@ -89,7 +89,7 @@ Continue with review.
 
 ## Additional Resources
 
-See the [weekend review and resource sections](week-4/README.md#weekend).
+See the [weekend review and resource sections](../week-4/README.md#weekend).
 
 ---
 
