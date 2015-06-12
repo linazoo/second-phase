@@ -145,7 +145,7 @@ No lecture.
 
 **Sinatra**
 
-- [CRUD & REST Lecture Slides 4/29](../resources/crud-rest-pg)
+- [CRUD & REST Lecture Slides 4/29](../resources/crud-rest-pg.pdf)
 - [Sinatra readme on Github (Great step-by-step intro to Sinatra routing and methods)](https://github.com/sinatra/sinatra)
 - [Step by Step CRUD](../resources/step_by_step_crud.md)
 
