@@ -90,7 +90,7 @@ Intro to AJAX / AJAX Workshop
 **Challenges**
 
 - [Adding Comments](../../../../behavior-drill-add-comments-challenge)
-- [Simon Says](../../../../simon-says-challenge)
+- [Simon Says](../../../../ph2-p7-javascript-ajax-and-jquery-challenge)
 - [Cheering Mascot Round Two](../../../../cheering-mascot-sinatra-2-asynchronous-forms-challenge)
 - [AJAXifying Hacker News](../../../../ajaxifying-hacker-news-challenge)
 
