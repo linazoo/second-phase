@@ -14,7 +14,7 @@
 
 ## Code Reviews
 
-Create a Pull Request for your challenge submissions, then tag both of your instructors for a code review.
+Create a Pull Request for your challenge submissions, then tag both of your instructors (@dukegreene and @mikelikesbikes) for a code review. 
 
 Please also give some context for what you'd like feedback on ; e.g. "Is there a better way to do X in file.rb?", "I'm looking for feedback on my CRUD actions in controller.rb".
 
