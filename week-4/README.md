@@ -20,7 +20,7 @@
 
 ## Weekend (before the phase starts)
 
-* [Introduction to Sinatra](http://net.tutsplus.com/tutorials/ruby/singing-with-sinatra)
+* [Introduction to Sinatra](http://net.tutsplus.com/tutorials/ruby/singing-with-sinatra) - Don't just read it, CODE ALONG THROUGH IT! It's the fastest way to truly learn this stuff.
 * [HTTP Basics](http://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/http_basics.html)
 * Watch [Intro to HTTP](https://talks.devbootcamp.com/http-basics) by the infamous Matt Jones!
 * [ActiveRecord: Design Your Own](../../../../activerecord-design-your-own-challenge)
