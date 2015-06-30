@@ -107,7 +107,7 @@
 
 * [Sinatra README on Github](https://github.com/sinatra/sinatra) - Great step-by-step intro to Sinatra routing and methods
 * [REST Slides](../resources/crud-restful-routes.pdf?raw=true)
-* [RESTful Routes + CRUD Example](../resources/REST_routes_sample_where_my_dogs_at.rb)
+* [Basic RESTful Routes, annotated for CRUD context](../resources/annotated_REST_routes_sample.rb)
 
 ---
 
