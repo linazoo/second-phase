@@ -15,7 +15,7 @@
   </tr>
 
   <tr>
-    <td>[Week 4 - Introduction to the Web](week-4/)</td>
+    <td><a href="./week-4/">Week 4 - Introduction to the Web</a></td>
     <td><a href="./week-4#monday">Monday</a></a></td>
     <td><a href="./week-4#tuesday">Tuesday</a></td>
     <td><a href="./week-4#wednesday">Wednesday</a></td>
@@ -25,7 +25,7 @@
   </tr>
 
   <tr>
-    <td>[Week 5 - JavaScript](week-5/)</td>
+    <td><a href="./week-5">Week 5 - JavaScript</a></td>
     <td><a href="./week-5#monday">Monday</a></a></td>
     <td><a href="./week-5#tuesday">Tuesday</a></td>
     <td><a href="./week-5#wednesday">Wednesday</a></td>
@@ -35,7 +35,7 @@
   </tr>
 
   <tr>
-    <td>[Week 6 - Advanced Web Development](week-6/)</td>
+    <td><a href="./week-6">Week 6 - Advanced Web Development</a></td>
     <td><a href="./week-6#monday">Monday</a></a></td>
     <td><a href="./week-6#tuesday">Tuesday</a></td>
     <td><a href="./week-6#wednesday">Wednesday</a></td>
