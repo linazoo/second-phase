@@ -139,7 +139,7 @@ No lecture.
 
 **Challenges**
 
-- [URL Shortner](../../../../sinatra-url-shortener-challenge)
+- [URL Shortener](../../../../sinatra-url-shortener-challenge)
 
 ### Additional Resources
 
@@ -181,7 +181,7 @@ No lecture.
 **Challenges**
 
 - Refactor your Craiglist/Blog challenge to incorporate code review feedback OR new concepts you've learned over the past few days
-- [Url Shortner with Users](../../../../sinatra-url-shortener-with-users-challenge)
+- [Url Shortener with Users](../../../../sinatra-url-shortener-with-users-challenge)
 - [AR Associations](../../../../ar-teams-and-leagues-challenge)
 
 ### Additional Resources
