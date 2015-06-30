@@ -15,7 +15,7 @@
   </tr>
 
   <tr>
-    <td><a href="./week-4/">Week 4 - Introduction to the Web</a></td>
+    <td><a href="./week-4/">Week 4 - Intro to the Web</a></td>
     <td><a href="./week-4#monday">Monday</a></a></td>
     <td><a href="./week-4#tuesday">Tuesday</a></td>
     <td><a href="./week-4#wednesday">Wednesday</a></td>
