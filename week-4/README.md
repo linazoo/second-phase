@@ -169,7 +169,6 @@ No lecture.
 
 - [Dummy Users](../../../../dummy-users-challenge)
 - [Multi-author Blog](../../../../blog-2-multi-author-challenge)
-- [Flashcards Group Project](../../../../web-flash-cards-1-multiple-decks-challenge)
 
 **Prep for Tomorrow**
 
