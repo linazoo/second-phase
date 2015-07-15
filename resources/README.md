@@ -155,3 +155,7 @@
 1. [Testing Web Apps with Capybara and Sinatra](http://net.tutsplus.com/tutorials/ruby/ruby-for-newbies-testing-web-apps-with-capybara-and-cucumber/)
 1. [exercism.io JavaScript](http://help.exercism.io/getting-started-with-javascript.html)
 1. [An Advanced Guide to HTML and CSS](http://learn.shayhowe.com/)
+
+### Isaac lectures!
+[BCrypt and Sessions](http://slides.com/chemisaac/deck-4)
+[AJAX](http://slides.com/chemisaac/deck-7)
