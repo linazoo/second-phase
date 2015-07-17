@@ -141,13 +141,13 @@ Present your DBC Overflow project in the afternoon.
 ---
 
 ## Friday
-### Mock Assessment & JavaScript Racer
+### Self Assessment & JavaScript Racer
 
 ### Core
 
-**Mock Assessment**
+**Self Assessment**
 
-- [CRUD Mock Assessment](../../../../phase-2-mock-assessment-echo)
+- [Sinatra AJAX Self-Assessment](../../../../ajax-sinatra-self-assessment-challenge)
 
 **Challenges**
 
