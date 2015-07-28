@@ -8,13 +8,46 @@
 
 ## Course Outline
 
-- [Week 4 - Introduction to the Web](week-4/)
-- [Week 5 - JavaScript](week-5/)
-- [Week 6 - Advanced Web Development](week-6/)
+<table>
+  <tr>
+    <th></th>
+    <th colspan="6">Quick Reference</th>
+  </tr>
+
+  <tr>
+    <td><a href="./week-4/">Week 4 - Intro to Web Programming</a></td>
+    <td><a href="./week-4#monday">Monday</a></a></td>
+    <td><a href="./week-4#tuesday">Tuesday</a></td>
+    <td><a href="./week-4#wednesday">Wednesday</a></td>
+    <td><a href="./week-4#thursday">Thursday</a></td>
+    <td><a href="./week-4#friday">Friday</a></td>
+    <td><a href="./week-4#weekend">Weekend</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="./week-5">Week 5 - JavaScript</a></td>
+    <td><a href="./week-5#monday">Monday</a></a></td>
+    <td><a href="./week-5#tuesday">Tuesday</a></td>
+    <td><a href="./week-5#wednesday">Wednesday</a></td>
+    <td><a href="./week-5#thursday">Thursday</a></td>
+    <td><a href="./week-5#friday">Friday</a></td>
+    <td><a href="./week-5#weekend">Weekend</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="./week-6">Week 6 - Advanced Web Development</a></td>
+    <td><a href="./week-6#monday">Monday</a></a></td>
+    <td><a href="./week-6#tuesday">Tuesday</a></td>
+    <td><a href="./week-6#wednesday">Wednesday</a></td>
+    <td><a href="./week-6#thursday">Thursday</a></td>
+    <td><a href="./week-6#friday">Friday</a></td>
+    <td><a href="./week-6#weekend">Weekend</a></td>
+  </tr>
+</table>
 
 ## Code Reviews
 
-Create a Pull Request for your challenge submissions, then tag both of your instructors for a code review.
+Create a Pull Request for your challenge submissions, then tag both of your instructors (@dukegreene and @mikelikesbikes) for a code review. 
 
 Please also give some context for what you'd like feedback on ; e.g. "Is there a better way to do X in file.rb?", "I'm looking for feedback on my CRUD actions in controller.rb".
 

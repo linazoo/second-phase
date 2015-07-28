@@ -3,12 +3,12 @@
 ## Understand the Domain
 1. [ ] Discuss the domain (with others or yourself).
 1. [ ] Write down the user stories (features that you plan to support).
-1. [ ] Develop an understand of how each noun (model/table) will relate to each other.
+1. [ ] Develop an understanding of how each noun (model/table) will relate to each other.
 
 ## Schema
-1. [ ] Draw the schema. Don't name any join tables as the combination of two other tables, find a unique noun.
+1. [ ] Draw the schema. _Don't name any join tables as the combination of two other tables, find a unique noun._
 1. [ ] Double check your schema for any columns that don't follow convention (e.g. foreign keys should end in `_id`).
-1. [ ] Ensure you've chosen the most appropriate type (integer, string, boolean, etc) for each column.
+1. [ ] Ensure you've chosen the most appropriate data type (integer, string, boolean, etc) for each column.
 
 ## Migrations
 1. [ ] Create the migrations for each table.
@@ -22,7 +22,7 @@
 ## Associations
 1. [ ] Add one or two associations to your models at a time. _Don't do them all at once._
 1. [ ] As you add each association, update your `seeds.rb` to make use of the association. Be sure to use the bang versions (`create!` and `save!`) so any errors are printed when you run `rake db:seed`. Consider `seeds.rb` your scratch pad as you develop & test your associations.
-1. [ ] Review your `seeds.rb` and make sure you aren't manually setting any `_id` attributes. Set the association instead (`president` instead of `president_id`). Also, don't "guess" any values for an foreign key. If you need a random `User`, pick a random one with `User.all.sample`.
+1. [ ] Review your `seeds.rb` and make sure you aren't manually setting any `_id` attributes. Set the association instead (`president` instead of `president_id`). Also, _don't "guess" any values for a foreign key!_ If you need a random `User`, pick a random one with `User.all.sample` instead of just entering an id that may disappear as you make changes to your database.
 1. [ ] Jump back and forth between dropping, migrating, seeding and the console to verify everything. Keep a checklist so you can be sure you've tested & verified each association is working like you expect.
 
 ## Seeding

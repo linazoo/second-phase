@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-  <th colspan="6">Quick Reference</th>
+  <th colspan="7">Quick Reference</th>
   </tr>
 
   <tr>
@@ -20,7 +20,7 @@
 
 ## Weekend (before the phase starts)
 
-* [Introduction to Sinatra](http://net.tutsplus.com/tutorials/ruby/singing-with-sinatra)
+* [Introduction to Sinatra](http://net.tutsplus.com/tutorials/ruby/singing-with-sinatra) - Don't just read it, CODE ALONG THROUGH IT! It's the fastest way to truly learn this stuff.
 * [HTTP Basics](http://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/http_basics.html)
 * Watch [Intro to HTTP](https://talks.devbootcamp.com/http-basics) by the infamous Matt Jones!
 * [ActiveRecord: Design Your Own](../../../../activerecord-design-your-own-challenge)
@@ -107,7 +107,7 @@
 
 * [Sinatra README on Github](https://github.com/sinatra/sinatra) - Great step-by-step intro to Sinatra routing and methods
 * [REST Slides](../resources/crud-restful-routes.pdf?raw=true)
-* [RESTful Routes + CRUD Example](../resources/REST_routes_sample_where_my_dogs_at.rb)
+* [Basic RESTful Routes, annotated for CRUD context](../resources/annotated_REST_routes_sample.rb)
 
 ---
 
@@ -139,7 +139,7 @@ No lecture.
 
 **Challenges**
 
-- [URL Shortner](../../../../sinatra-url-shortener-challenge)
+- [URL Shortener](../../../../sinatra-url-shortener-challenge)
 
 ### Additional Resources
 
@@ -163,13 +163,12 @@ No lecture.
 
 **Lecture**
 
-No lecture.
+- [Sessions and User Authentication](https://talks.devbootcamp.com/sessions-and-user-authentication)
 
 **Challenges**
 
 - [Dummy Users](../../../../dummy-users-challenge)
 - [Multi-author Blog](../../../../blog-2-multi-author-challenge)
-- [Flashcards Group Project](../../../../web-flash-cards-1-multiple-decks-challenge)
 
 **Prep for Tomorrow**
 
@@ -181,7 +180,7 @@ No lecture.
 **Challenges**
 
 - Refactor your Craiglist/Blog challenge to incorporate code review feedback OR new concepts you've learned over the past few days
-- [Url Shortner with Users](../../../../sinatra-url-shortener-with-users-challenge)
+- [Url Shortener with Users](../../../../sinatra-url-shortener-with-users-challenge)
 - [AR Associations](../../../../ar-teams-and-leagues-challenge)
 
 ### Additional Resources
@@ -206,9 +205,8 @@ No lecture.
 ### Additional Resources
 
 - [Git Workflow for Teams](https://gist.github.com/mikelikesbikes/ccbf4c7fd90e647138c6)
-- [Git: Rebase vs Merge](http://gitguru.com/2009/02/03/rebase-v-merge-in-git/)
+- [Git: Merging vs. Rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing/conceptual-overview)
 - [Git Resources](http://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
-- [Sessions and User Authentication](https://talks.devbootcamp.com/sessions-and-user-authentication)
 - [Manifesto for Agile Practices](http://agilemanifesto.org/)
 - [Sample Scrum Board](http://amareshv.files.wordpress.com/2011/03/fairydustboard_20110324.jpg)
 - [Trello](https://trello.com/) - great resource to organize workflow within a group project

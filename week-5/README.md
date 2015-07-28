@@ -141,13 +141,13 @@ Present your DBC Overflow project in the afternoon.
 ---
 
 ## Friday
-### Mock Assessment & JavaScript Racer
+### Self Assessment & JavaScript Racer
 
 ### Core
 
-**Mock Assessment**
+**Self Assessment**
 
-- [CRUD Mock Assessment](../../../../phase-2-mock-assessment-echo)
+- [Sinatra AJAX Self-Assessment](../../../../ajax-sinatra-self-assessment-challenge)
 
 **Challenges**
 
@@ -203,7 +203,7 @@ If you're feeling great about all the concepts we've covered so far (I know ther
 **OOJS**
 
 - [Intro to OOJS - Torey](https://talks.devbootcamp.com/oojs-for-coyotes)
-- [OOJS Refactor of JS Racer - Alyssa](https://talks.devbootcamp.com/mvc-oojs-racer-live-demo)
+- [OOJS Refactor of JS Racer - Alyssa](https://talks.devbootcamp.com/mvc-oojs-racer-live-code)
 
 **Object Literals and Constructor Functions**
 
