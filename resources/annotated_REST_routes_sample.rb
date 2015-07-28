@@ -13,7 +13,7 @@ get "/dogs" do
   erb :"dogs/index"
 end
 
-get "/dogs/new"
+get "/dogs/new" do
   @dog = Dog.new
   # By convention, this should take us to a view that holds a form 
   # with input fields for setting a new dog's attributes. 
@@ -23,7 +23,7 @@ end
 # Sumbitting the 'dogs/new' form sends us to the POST route. 
 # Our params are assigned based on the form field names, 
 # e.g. "dog[name]" and "dog[weight]".
-post "/dogs"
+post "/dogs" do
 
   # When Rack sees fields called "dog[name]" and "dog[weight]",
   # it automatically adds a key called :dog to our params hash.
@@ -37,19 +37,21 @@ post "/dogs"
   if new_dog.save
     # If we've succeeded in saving a dog, we'll take the user 
     # back to the list of all the dogs.
-    redirect '/dogs'
+    redirect "/dogs"
   else
     # If we fail, we'll render the same form again, and pass along 
     # any error messages that pop up so we can list all the errors 
     # in the :"dogs/new" view.
-    @errors = @dog.errors.messages
+    @errors = @dog.errors.full_messages
 
     erb :"dogs/index"
   end
 end
 
 get "/dogs/:id" do
-  # We want to look at a specific dog, so let's go get it. 
+  # We want to look at a specific dog, so let's go get it,
+  # using whatever follows "/dogs/" in the URL. 
+  # (Let's hope it's a number! How will line 57 break if someone visits "/dogs/dog"?)
   # And we'll want our erb file to do stuff with it,
   # so let's set it to an instance variable.
   @dog = Dog.find(params[:id])
@@ -103,9 +105,3 @@ delete "/dogs/:id" do
   # There's no more dog at @dog.id to redirect to. Back to the list then.
   redirect "/dogs"
 end
-
-
-
-
-
-  
