@@ -77,11 +77,6 @@ No lecture.
 - [Basic OOJS Notes](https://gist.github.com/alycit/e6f5f20ced9b42a64f5a)
 - [JavaScript Scoping and "This"](https://talks.devbootcamp.com/javascript-scoping-and-this)
 
-** AJAX **
-- [Talk - Intro to AJAX (Kevin)](https://talks.devbootcamp.com/intro-to-ajax-1)
-- [Talk - Debugging AJAX (Nate)](https://talks.devbootcamp.com/debugging-ajax)
-- [Talk - AJAX Intro (Mike)](https://talks.devbootcamp.com/dragonflies-2014-aeu-intro-to-ajax)
-
 ---
 
 ## Tuesday
