@@ -13,7 +13,7 @@ Below is a set of expected capabilities:
 ## :+1:
 1. I can create a single model CRUD sinatra application
 1. I can draw the [request/response
-   cycle](http://devhub.fm/http-requestresponse-basics/), and fill in more
+   cycle](https://web.archive.org/web/20140220042342/http://devhub.fm/http-requestresponse-basics), and fill in more
    information when prompted
 1. I've handled form input with post routes
 1. I've used the route string to define params
