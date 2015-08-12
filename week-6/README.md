@@ -81,7 +81,7 @@ No lecture.
 
 - [Tic-Tac-Toe](../../../../tic-tac-toe-challenge)
 - [Roman Numerals](../../../../javascript-roman-numerals-challenge)
-- [OOJS Todo's](../../../../object-oriented-javascript-todos)
+- [JS Todo's](../../../../javascript-todos-1-0-core-features-challenge-1)
 
 **Prep for Tomorrow**
 

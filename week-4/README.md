@@ -34,18 +34,21 @@
 
 **Lecture**
 
-[Intro to HTTP Video](https://talks.devbootcamp.com/intro-to-http) - watch the first 20 minutes
+- What is the internet?
 
-**Challenges - HTTP**
+**Challenges - TCP, HTTP**
 
-- [World's second simplest browser](../../../../world-s-second-simplest-browser-challenge)
+- [TCP Challenge](../../../../tcp-challenge)
+- [HTTP Challenge](../../../../http-challenge)
+
+**Interlude**
+- [Intro to HTTP Video](https://talks.devbootcamp.com/intro-to-http) - watch the first 20 minutes
 
 **Challenges - Sinatra**
 
 - [Cheering Mascot](../../../../cheering-mascot-sinatra-1-synchronous-forms-challenge)
 - [Anagrams 1](../../../../anagram-server-1-the-basics-challenge)
 - [Anagrams 2](../../../../anagram-server-2-ludicrous-speed-challenge)
-- [Sinatra Sandbox](../../../../sinatra-sandbox-challenge)
 
 **Prep for Tomorrow**
 
@@ -57,8 +60,11 @@
 
 **Challenges**
 
+- [Github API Challenge](../../../../github-api-challenge)
+- Expand your HTTP Server (routes, POST, Cookies? whatever you desire)
 - [Recent Tweets at the Command Line](../../../../recent-tweets-command-line-challenge)
 - [Tweet Now at the Command Line](../../../../tweet-now-command-line-challenge)
+- [Sinatra Sandbox](../../../../sinatra-sandbox-challenge)
 
 ### Additional Resources
 
@@ -87,8 +93,9 @@
 
 **Challenges**
 
+- [Rest Controller](../../../../rest-controller-challenge)
 - [Craig's List Jr.](../../../../craigslist-jr-challenge)
-- [Anonymous Blog](../../../../blog-1-anonymous-blog-challenge)
+- Today's first stretch is tomorrow's first core. You're encouraged to start the anonymous blog tonight _if_ you have the time.
 
 **Prep for Tomorrow**
 
@@ -97,9 +104,9 @@
 
 ### Stretch
 
-**Challenges - HTTP & APIs**
+**Challenges - Sinatra, HTTP, APIs**
 
-- [Rest Controller](../../../../rest-controller-challenge)
+- [Anonymous Blog](../../../../blog-1-anonymous-blog-challenge)
 - [Recent Tweets at the Command Line](../../../../recent-tweets-command-line-challenge)
 - [Tweet Now at the Command Line](../../../../tweet-now-command-line-challenge)
 
@@ -108,6 +115,8 @@
 * [Sinatra README on Github](https://github.com/sinatra/sinatra) - Great step-by-step intro to Sinatra routing and methods
 * [REST Slides](../resources/crud-restful-routes.pdf?raw=true)
 * [Basic RESTful Routes, annotated for CRUD context](../resources/annotated_REST_routes_sample.rb)
+* [Talk - CRUD with Sinatra and RESTful routing](https://talks.devbootcamp.com/crud-with-sinatra-and-restful-routing)
+* [Talk - CRUD with Sinatra and RESTful routing - Live Coding](https://talks.devbootcamp.com/crud-with-sinatra-and-restful-routing-live-coding)
 
 ---
 
@@ -122,7 +131,7 @@ No lecture.
 
 **Challenges - ActiveRecord**
 
-- [At The Races](../../../../at-the-races-challenge)
+- [At The Races](../../../../active-record-associations-drill-at-the-races-challenge)
 - [Advanced Active Record](../../../../active-record-associations-drill-hotels-challenge)
 - [More Advanced Hard Active Record](../../../../active-record-associations-drill-shirts-challenge)
 
@@ -184,8 +193,11 @@ No lecture.
 - [AR Associations](../../../../ar-teams-and-leagues-challenge)
 
 ### Additional Resources
-* [Sessions and User Authentication](https://talks.devbootcamp.com/sessions-and-user-authentication)
 * [BCrypt Documentation](https://github.com/codahale/bcrypt-ruby)
+* [Talk - What are Sessions & Cookies?](https://talks.devbootcamp.com/sessions-and-cookies-1)
+* [Talk - Password Security with BCrypt](https://talks.devbootcamp.com/2014-bluegills-aeu-a-password-security-with-bcrypt)
+* [Talk - Sessions and User Authentication](https://talks.devbootcamp.com/sessions-and-user-authentication)
+
 
 ---
 

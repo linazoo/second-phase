@@ -39,7 +39,7 @@ No lecture.
 
 - [Style Editor](../../../../behavior-drill-style-editor-challenge)
 - [Tabbed Interface](../../../../behavior-drill-tabbed-interface-challenge)
-- [Lucky AJAX](../../../../lucky-ajax-challenge)
+- [Cheering Mascot Round Two](../../../../cheering-mascot-sinatra-2-asynchronous-forms-challenge)
 
 **Prep for Tomorrow**
 
@@ -71,10 +71,16 @@ No lecture.
 
 **jQuery / JavaScript**
 
-- [Intro to jQuery](https://talks.devbootcamp.com/2015-chicago-squirrels-jquery-basics)
+- [Talk - jQuery Basics (Mike)](https://talks.devbootcamp.com/2015-chicago-squirrels-jquery-basics)
+- [Talk - Intro to jQuery (Jared)](https://talks.devbootcamp.com/intro-into-jquery)
 - [jQuery Docs](https://jquery.com/)
 - [Basic OOJS Notes](https://gist.github.com/alycit/e6f5f20ced9b42a64f5a)
 - [JavaScript Scoping and "This"](https://talks.devbootcamp.com/javascript-scoping-and-this)
+
+** AJAX **
+- [Talk - Intro to AJAX (Kevin)](https://talks.devbootcamp.com/intro-to-ajax-1)
+- [Talk - Debugging AJAX (Nate)](https://talks.devbootcamp.com/debugging-ajax)
+- [Talk - AJAX Intro (Mike)](https://talks.devbootcamp.com/dragonflies-2014-aeu-intro-to-ajax)
 
 ---
 
@@ -90,8 +96,8 @@ Intro to AJAX / AJAX Workshop
 **Challenges**
 
 - [Adding Comments](../../../../behavior-drill-add-comments-challenge)
+- [Lucky AJAX](../../../../lucky-ajax-challenge)
 - [Simon Says](../../../../ph2-p7-javascript-ajax-and-jquery-challenge)
-- [Cheering Mascot Round Two](../../../../cheering-mascot-sinatra-2-asynchronous-forms-challenge)
 - [AJAXifying Hacker News](../../../../ajaxifying-hacker-news-challenge)
 
 **Prep for Tomorrow**
@@ -111,6 +117,9 @@ Intro to AJAX / AJAX Workshop
 - [Javascript Cheatsheet](http://wps.aw.com/wps/media/objects/2234/2287950/javascript_refererence.pdf)
 - [A Re-introduction to Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript), especially the section on [Custom Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript#Custom_objects)
 - [Live coding from lecture](https://github.com/chi-pocket-gophers-2015/intro-to-ajax)
+- [Talk - Intro to AJAX (Kevin)](https://talks.devbootcamp.com/intro-to-ajax-1)
+- [Talk - Debugging AJAX (Nate)](https://talks.devbootcamp.com/debugging-ajax)
+- [Talk - AJAX Intro (Mike)](https://talks.devbootcamp.com/dragonflies-2014-aeu-intro-to-ajax)
 
 ---
 
