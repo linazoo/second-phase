@@ -57,7 +57,10 @@ Please also give some context for what you'd like feedback on ; e.g. "Is there a
 - Engineering Empathy
   * Week One: Micro Agressions & Sexism - Tuesday
   * Week Two: Difficult Conversations - Wednesday
-- Assessment: Wednesday (Week 3)
+- Assessment:
+  * Week 3
+  * Challenge (Wednesday, all day)
+  * Code Reviews (Thursday morning)
 
 ## Daily Cadence
 
