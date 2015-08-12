@@ -56,7 +56,7 @@ Please also give some context for what you'd like feedback on ; e.g. "Is there a
 - Yoga: Tuesday (mandatory)
 - Engineering Empathy
   * Week One: Micro Agressions & Sexism - Tuesday
-  * Week Two: Difficult Conversations - Monday
+  * Week Two: Difficult Conversations - Wednesday
 - Assessment: Wednesday (Week 3)
 
 ## Daily Cadence
