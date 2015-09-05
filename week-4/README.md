@@ -37,25 +37,18 @@
 
 - What is the internet?
 
-**Challenges - TCP, HTTP**
+**Challenges**
 
+- [At The Races](../../../../active-record-associations-drill-at-the-races-challenge)
 - [TCP Challenge](../../../../tcp-challenge)
 - [HTTP Challenge](../../../../http-challenge)
-
-**Interlude**
-
-
-**Challenges - Sinatra**
-
 - [Cheering Mascot](../../../../cheering-mascot-sinatra-1-synchronous-forms-challenge)
-- [Anagrams 1](../../../../anagram-server-1-the-basics-challenge)
-- [Anagrams 2](../../../../anagram-server-2-ludicrous-speed-challenge)
 
 **Prep for Tomorrow**
 
 - Complete the [self-assessment](../self-assessments/week-one/monday.md)
 - Read about [REST](https://gist.github.com/case-eee/72715407554996828e0c)
-- Read & Reflect on [this article](http://www.nytimes.com/2014/04/06/technology/technologys-man-problem.html?_r=0) and [this other article](http://notapattern.net/2014/10/14/ways-men-in-tech-are-unintentionally-sexist/) to prep for tomorrow's EE session
+- EE Prep: Read & Reflect on [this article](http://www.nytimes.com/2014/04/06/technology/technologys-man-problem.html?_r=0) and [this other article](http://notapattern.net/2014/10/14/ways-men-in-tech-are-unintentionally-sexist/)
 
 ### Stretch
 
@@ -71,8 +64,7 @@
 
 **HTTP**
 
-- [HTTP Basics](http://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/http_basics.html)
-- [HTTP Request & Response Cycle (archive.org cache link)](https://web.archive.org/web/20130705214517/http://devhub.fm/http-requestresponse-basics)
+- [HTTP Basics – The Web](http://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/http_basics.html)
 
 **Sinatra**
 
@@ -83,46 +75,8 @@
 ---
 
 ## Tuesday
-### CRUD and REST
 
-### Core
-
-**Lecture**
-
-* [CRUD with Sinatra and RESTful routing](https://talks.devbootcamp.com/crud-with-sinatra-and-restful-routing)
-* [CRUD with Sinatra and RESTful routing - Live Coding](https://talks.devbootcamp.com/crud-with-sinatra-and-restful-routing-live-coding)
-
-**Challenges**
-
-- [Rest Controller](../../../../rest-controller-challenge)
-- [Craig's List Jr.](../../../../craigslist-jr-challenge)
-- Today's first stretch is tomorrow's first core. You're encouraged to start the anonymous blog tonight _if_ you have the time.
-
-**Prep for Tomorrow**
-
-* [Self-Assessment](../self-assessments/week-one/tuesday.md)
-* [Advanced Active Record Associations](http://www.theodinproject.com/ruby-on-rails/active-record-associations)
-
-### Stretch
-
-**Challenges - Sinatra, HTTP, APIs**
-
-- [Anonymous Blog](../../../../blog-1-anonymous-blog-challenge)
-- [Recent Tweets at the Command Line](../../../../recent-tweets-command-line-challenge)
-- [Tweet Now at the Command Line](../../../../tweet-now-command-line-challenge)
-
-### Additional Resources
-
-* [Sinatra README on Github](https://github.com/sinatra/sinatra) - Great step-by-step intro to Sinatra routing and methods
-* [REST Slides](../resources/crud-restful-routes.pdf?raw=true)
-* [Basic RESTful Routes, annotated for CRUD context](../resources/annotated_REST_routes_sample.rb)
-* [Talk - CRUD with Sinatra and RESTful routing](https://talks.devbootcamp.com/crud-with-sinatra-and-restful-routing)
-* [Talk - CRUD with Sinatra and RESTful routing - Live Coding](https://talks.devbootcamp.com/crud-with-sinatra-and-restful-routing-live-coding)
-
----
-
-## Wednesday
-### Advanced ActiveRecord & Sinatra
+### ActiveRecord & Sinatra
 
 ### Core
 
@@ -130,14 +84,11 @@
 
 No lecture.
 
-**Challenges - ActiveRecord**
+**Challenges**
 
-- [At The Races](../../../../active-record-associations-drill-at-the-races-challenge)
 - [Advanced Active Record](../../../../active-record-associations-drill-hotels-challenge)
-- [More Advanced Hard Active Record](../../../../active-record-associations-drill-shirts-challenge)
-
-**Challenges - Sinatra**
-
+- [Anagrams 1](../../../../anagram-server-1-the-basics-challenge)
+- [URL Shortener](../../../../sinatra-url-shortener-challenge)
 - [Anonymous Blog](../../../../blog-1-anonymous-blog-challenge)
 
 **Prep for Tomorrow**
@@ -149,7 +100,7 @@ No lecture.
 
 **Challenges**
 
-- [URL Shortener](../../../../sinatra-url-shortener-challenge)
+- [Anagrams 2](../../../../anagram-server-2-ludicrous-speed-challenge)
 
 ### Additional Resources
 
@@ -161,8 +112,44 @@ No lecture.
 
 **ActiveRecord**
 
-* [AR Lecture Slides 4/29](../resources/ar-associations-review.pdf)
+- [AR Lecture Slides 4/29](../resources/ar-associations-review.pdf)
+- [Advanced Active Record Associations](http://www.theodinproject.com/ruby-on-rails/active-record-associations)
+
+---
+
+## Wednesday
+
+### CRUD and REST
+
+### Core
+
+**Lecture**
+
+- [CRUD with Sinatra and RESTful routing](https://talks.devbootcamp.com/crud-with-sinatra-and-restful-routing)
+- [CRUD with Sinatra and RESTful routing - Live Coding](https://talks.devbootcamp.com/crud-with-sinatra-and-restful-routing-live-coding)
+
+**Challenges**
+
+- [More Advanced Hard Active Record](../../../../active-record-associations-drill-shirts-challenge)
+- [Rest Controller](../../../../rest-controller-challenge)
+- [Craig's List Jr.](../../../../craigslist-jr-challenge)
+
+**Prep for Tomorrow**
+
+* [Self-Assessment](../self-assessments/week-one/tuesday.md)
 * [Advanced Active Record Associations](http://www.theodinproject.com/ruby-on-rails/active-record-associations)
+
+### Stretch
+
+**Challenges**
+
+### Additional Resources
+
+* [Sinatra README on Github](https://github.com/sinatra/sinatra) - Great step-by-step intro to Sinatra routing and methods
+* [REST Slides](../resources/crud-restful-routes.pdf?raw=true)
+* [Basic RESTful Routes, annotated for CRUD context](../resources/annotated_REST_routes_sample.rb)
+* [Talk - CRUD with Sinatra and RESTful routing](https://talks.devbootcamp.com/crud-with-sinatra-and-restful-routing)
+* [Talk - CRUD with Sinatra and RESTful routing - Live Coding](https://talks.devbootcamp.com/crud-with-sinatra-and-restful-routing-live-coding)
 
 ---
 
