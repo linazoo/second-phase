@@ -40,8 +40,8 @@
 **Challenges**
 
 - [At The Races](../../../../active-record-associations-drill-at-the-races-challenge)
-- [TCP Challenge](../../../../tcp-challenge)
-- [HTTP Challenge](../../../../http-challenge)
+- [TCP Challenge](../../../../raw-tcp-challenge)
+- [HTTP Challenge](../../../../raw-http-challenge)
 - [Cheering Mascot](../../../../cheering-mascot-sinatra-1-synchronous-forms-challenge)
 
 **Prep for Tomorrow**
