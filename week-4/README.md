@@ -20,10 +20,11 @@
 
 ## Weekend (before the phase starts)
 
-* [Introduction to Sinatra](http://net.tutsplus.com/tutorials/ruby/singing-with-sinatra) - Don't just read it, CODE ALONG THROUGH IT! It's the fastest way to truly learn this stuff.
-* [HTTP Basics](http://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/http_basics.html)
-* Watch [Intro to HTTP](https://talks.devbootcamp.com/http-basics) by the infamous Matt Jones!
-* [ActiveRecord: Design Your Own](../../../../activerecord-design-your-own-challenge)
+* [Intro to HTTP Video](https://talks.devbootcamp.com/intro-to-http)
+* [HTTP: The Protocol Every Web Developer Must Know](http://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
+* [Intro to Sinatra Video](https://talks.devbootcamp.com/intro-to-sinatra-1)
+* [Tutorial: Singing With Sinatra](http://net.tutsplus.com/tutorials/ruby/singing-with-sinatra) - Don't just read it, CODE ALONG THROUGH IT! It's the fastest way to truly learn this stuff.
+* [ActiveRecord: Design Your Own Challenge](../../../../activerecord-design-your-own-challenge)
 
 ---
 
@@ -42,7 +43,7 @@
 - [HTTP Challenge](../../../../http-challenge)
 
 **Interlude**
-- [Intro to HTTP Video](https://talks.devbootcamp.com/intro-to-http) - watch the first 20 minutes
+
 
 **Challenges - Sinatra**
 
