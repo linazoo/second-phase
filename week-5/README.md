@@ -81,10 +81,6 @@
 
 ### Core
 
-**Lecture**
-
-Intro to AJAX / AJAX Workshop
-
 **Challenges**
 
 - [Adding Comments](../../../../behavior-drill-add-comments-challenge)
