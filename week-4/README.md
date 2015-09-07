@@ -76,10 +76,6 @@
 
 ### Core
 
-**Lecture**
-
-No lecture.
-
 **Challenges**
 
 - [Advanced Active Record](../../../../active-record-associations-drill-hotels-challenge)
@@ -90,7 +86,8 @@ No lecture.
 **Prep for Tomorrow**
 
 * [Self Assessment](../self-assessments/week-one/wednesday.md)
-* [What is BCrypt?](https://github.com/codahale/bcrypt-ruby)
+* [CRUD with Sinatra and RESTful routing](https://talks.devbootcamp.com/crud-with-sinatra-and-restful-routing)
+* [CRUD with Sinatra and RESTful routing - Live Coding](https://talks.devbootcamp.com/crud-with-sinatra-and-restful-routing-live-coding)
 
 ### Stretch
 
@@ -119,11 +116,6 @@ No lecture.
 
 ### Core
 
-**Lecture**
-
-- [CRUD with Sinatra and RESTful routing](https://talks.devbootcamp.com/crud-with-sinatra-and-restful-routing)
-- [CRUD with Sinatra and RESTful routing - Live Coding](https://talks.devbootcamp.com/crud-with-sinatra-and-restful-routing-live-coding)
-
 **Challenges**
 
 - [More Advanced Hard Active Record](../../../../active-record-associations-drill-shirts-challenge)
@@ -133,7 +125,8 @@ No lecture.
 **Prep for Tomorrow**
 
 * [Self-Assessment](../self-assessments/week-one/tuesday.md)
-* [Advanced Active Record Associations](http://www.theodinproject.com/ruby-on-rails/active-record-associations)
+* [What is BCrypt?](https://github.com/codahale/bcrypt-ruby)
+* [Sessions and User Authentication](https://talks.devbootcamp.com/sessions-and-user-authentication)
 
 ### Stretch
 
@@ -154,10 +147,6 @@ No lecture.
 
 ### Core
 
-**Lecture**
-
-- [Sessions and User Authentication](https://talks.devbootcamp.com/sessions-and-user-authentication)
-
 **Challenges**
 
 - [Dummy Users](../../../../dummy-users-challenge)
@@ -167,6 +156,7 @@ No lecture.
 
 - [Self-Assessment](../self-assessments/week-one/thursday.md)
 - [Manifesto for Agile Practices](http://agilemanifesto.org/)
+- [Advanced Active Record Associations](http://www.theodinproject.com/ruby-on-rails/active-record-associations)
 
 ### Stretch
 
