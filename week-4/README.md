@@ -33,10 +33,6 @@
 
 ### Core
 
-**Lecture**
-
-- What is the internet?
-
 **Challenges**
 
 - [At The Races](../../../../active-record-associations-drill-at-the-races-challenge)
