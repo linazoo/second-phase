@@ -22,10 +22,6 @@
 
 ### Core
 
-**Lecture**
-
-No lecture.
-
 **Challenges - HTML / CSS**
 
 - [Layout Drill: Basic Form Styling](../../../../layout-drill-basic-form-styling-challenge)
@@ -44,6 +40,7 @@ No lecture.
 **Prep for Tomorrow**
 
 - Go back to one of your CRUD apps from last week and style it!
+- [Talk - AJAX Intro (Mike)](https://talks.devbootcamp.com/dragonflies-2014-aeu-intro-to-ajax)
 
 ### Stretch
 
