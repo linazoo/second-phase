@@ -55,8 +55,11 @@ Please also give some context for what you'd like feedback on ; e.g. "Is there a
 
 - Yoga: Tuesday (mandatory)
 - Engineering Empathy
-  * Week One: Micro Agressions & Sexism - Tuesday
-  * Week Two: Difficult Conversations - Wednesday
+  - Week One 
+    * Monday - Allyship Lunch
+    * Tuesday - Micro Agressions & Sexism
+  - Week Two
+    * Wednesday - Difficult Conversations
 - Assessment:
   * Week 3
   * Challenge (Wednesday, all day)
