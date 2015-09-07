@@ -1,7 +1,6 @@
 active-record-associations-drill-shirts-challenge
 activerecord-design-your-own-challenge
 active-record-associations-drill-hotels-challenge
-advanced-ar-dril
 ajax-review-challenge
 ajax-sinatra-self-assessment-challenge
 ajaxifying-hacker-news-challenge
@@ -28,8 +27,6 @@ cheering-mascot-sinatra-2-asynchronous-forms-challenge
 craigslist-jr-challenge
 dbc-mail-challenge
 dbc-mail-frontend-skeleton
-deaf-sinatra-1-synchronous-forms-challenge
-deaf-sinatra-2-asynchronous-forms-challenge
 dummy-users-challenge
 dynamic-todos-challenge
 exploring-asynchrony-challenge
@@ -97,6 +94,6 @@ tweet-later-challenge
 tweet-now-1-single-user-challenge
 tweet-now-2-multi-user-challenge
 tweet-now-command-line-challenge
-web-flash-cards-1-multiple-decks-challenge
+web-flashcards-challenge
 web-flash-cards-2-ajax-guessing-challenge
 world-s-second-simplest-browser-challenge
