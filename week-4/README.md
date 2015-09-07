@@ -43,7 +43,6 @@
 **Prep for Tomorrow**
 
 - Complete the [self-assessment](../self-assessments/week-one/monday.md)
-- Read about [REST](https://gist.github.com/case-eee/72715407554996828e0c)
 - EE Prep: Read & Reflect on [this article](http://www.nytimes.com/2014/04/06/technology/technologys-man-problem.html?_r=0) and [this other article](http://notapattern.net/2014/10/14/ways-men-in-tech-are-unintentionally-sexist/)
 
 ### Stretch
@@ -86,6 +85,7 @@
 **Prep for Tomorrow**
 
 * [Self Assessment](../self-assessments/week-one/wednesday.md)
+* Read about [REST](https://gist.github.com/case-eee/72715407554996828e0c)
 * [CRUD with Sinatra and RESTful routing](https://talks.devbootcamp.com/crud-with-sinatra-and-restful-routing)
 * [CRUD with Sinatra and RESTful routing - Live Coding](https://talks.devbootcamp.com/crud-with-sinatra-and-restful-routing-live-coding)
 
