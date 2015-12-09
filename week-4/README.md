@@ -23,7 +23,7 @@
 * [Intro to HTTP Video](https://talks.devbootcamp.com/intro-to-http)
 * [HTTP: The Protocol Every Web Developer Must Know](http://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
 * [Intro to Sinatra Video](https://talks.devbootcamp.com/intro-to-sinatra-1)
-* [Tutorial: Singing With Sinatra](http://net.tutsplus.com/tutorials/ruby/singing-with-sinatra) - Don't just read it, CODE ALONG THROUGH IT! It's the fastest way to truly learn this stuff.
+* [Tutorial: Snitching On Sinatra](../../../../snitching-on-sinatra) - Don't just read it, CODE ALONG THROUGH IT! It's the fastest way to truly learn this stuff.
 * [ActiveRecord: Design Your Own Challenge](../../../../activerecord-design-your-own-challenge)
 
 ---
