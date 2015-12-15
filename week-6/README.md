@@ -70,7 +70,7 @@ No lecture.
 
 - [Teams & Leagues](../../../../ar-teams-and-leagues-challenge)
 - [Shirts!](../../../../active-record-associations-drill-shirts-challenge)
-- [At the Races](../../../../at-the-races-challenge)
+- [At the Races](../../../../active-record-associations-drill-at-the-races-challenge)
 
 **Challenges - AJAX**
 
