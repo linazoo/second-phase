@@ -22,7 +22,6 @@
 
 [Week 4 groups](../../wiki/groups.md#week-4)
 
-
 ---
 
 ## Weekend (before the phase starts)
