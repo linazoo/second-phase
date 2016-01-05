@@ -55,11 +55,11 @@ Please also give some context for what you'd like feedback on ; e.g. "Is there a
 - Engineering Empathy: Tuesdays at 3:30pm
   - Week One
     - Monday - Sexism Awareness
-    - Tuesday - Micro Agressions & Sexism
+    - Tuesday - Sexism in Tech & Micro Agressions
   - Week Two
-    - Wednesday - Difficult Conversations
+    - TBD - Difficult Conversations
 - Assessment: Third Wednesday starting at 8:15am
-  - "The Challenge" - Wednesday from 8:15am - 11:30am, 1:10pm - 4:45pm
+  - "The Challenge" - 8:15am - 4:45pm (break for lunch from 11:30 - 1:00)
   - "Code Review" - 30 minute blocks starting Thursday at 8:15am
 
 ## Daily Cadence
