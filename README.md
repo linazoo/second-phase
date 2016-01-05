@@ -4,14 +4,17 @@
 
 ## Pre-work
 
-[To be completed](week-4/README.md#pre-work) the weekend between Phase 1 and Phase 2
 
 ## Course Outline
 
 <table>
   <tr>
-    <th></th>
-    <th colspan="6">Quick Reference</th>
+    <th colspan="7">Quick Reference</th>
+  </tr>
+
+  <tr>
+    <th>[Pre work](week-4/README.md#pre-work)</th>
+    <td colspan="6">must complete before beginning P2</td>
   </tr>
 
   <tr>
