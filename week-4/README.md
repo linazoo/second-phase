@@ -18,6 +18,13 @@
 
 ---
 
+## Groups ##
+
+[Week 4 groups](../../wiki/groups.md#week-4)
+
+
+---
+
 ## Weekend (before the phase starts)
 
 * [Intro to HTTP Video](https://talks.devbootcamp.com/intro-to-http)

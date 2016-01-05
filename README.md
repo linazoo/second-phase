@@ -1,7 +1,5 @@
 # Phase 2 Guide
 
-**[Groups](../../wiki/groups.md)**
-
 ## Pre-work
 
 
