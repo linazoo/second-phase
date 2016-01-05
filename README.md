@@ -53,28 +53,30 @@ Please also give some context for what you'd like feedback on ; e.g. "Is there a
 
 ## Weekly Cadence
 
-- Yoga: Tuesday (mandatory)
-- Engineering Empathy
-  - Week One 
-    * Monday - Allyship Lunch
-    * Tuesday - Micro Agressions & Sexism
+- Yoga: Tuesday
+- Engineering Empathy: Tuesdays at 3:30pm
+  - Week One
+    - Monday - Sexism Awareness
+    - Tuesday - Micro Agressions & Sexism
   - Week Two
-    * Wednesday - Difficult Conversations
-- Assessment:
-  * Week 3
-  * Challenge (Wednesday, all day)
-  * Code Reviews (Thursday morning)
+    - Wednesday - Difficult Conversations
+- Assessment: Third Wednesday starting at 8:15am
+  - "The Challenge" - Wednesday from 8:15am - 11:30am, 1:10pm - 4:45pm
+  - "Code Review" - 30 minute blocks starting Thursday at 8:15am
 
 ## Daily Cadence
 
-- Check in with accountability buddies
-- Announcements
-- Yoga (Tuesday)
-- Challenges
-- Lunch
-- Challenges
-- End of core hours
-- Challenges, Optimize your learning
+Time    | Activity
+---     | ---
+7:45am  | Check in with accountability buddies
+8:00am  | Morning Announcements
+8:05am  | Daily Progress Checkin (or following yoga at 9:10am)
+8:25am  | Challenges/Breakouts
+11:30am | Lunch
+1:00pm  | Afternoon Announcements
+1:05pm  | Challenges/Breakouts
+5:00pm  | End of core hours
+5:00pm  | After hours learning/mentoring/solo time
 
 ## Additional Resources
 
