@@ -1,8 +1,5 @@
 # Phase 2 Guide
 
-## Pre-work
-
-
 ## Course Outline
 
 <table>
