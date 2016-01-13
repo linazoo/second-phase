@@ -17,6 +17,12 @@
 
 ---
 
+## Groups ##
+
+[Week 5 groups](../../wiki/groups.md#week-5)
+
+---
+
 ## Monday
 ### HTML, CSS, JavaScript and jQuery
 

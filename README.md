@@ -1,17 +1,15 @@
 # Phase 2 Guide
 
-**[Groups](../../wiki/groups.md)**
-
-## Pre-work
-
-[To be completed](week-4/README.md#pre-work) the weekend between Phase 1 and Phase 2
-
 ## Course Outline
 
 <table>
   <tr>
-    <th></th>
-    <th colspan="6">Quick Reference</th>
+    <th colspan="7">Quick Reference</th>
+  </tr>
+
+  <tr>
+    <th><a href="./week-4#pre-work">Pre work</a></th>
+    <td colspan="6">must complete before beginning P2</td>
   </tr>
 
   <tr>
@@ -53,28 +51,30 @@ Please also give some context for what you'd like feedback on ; e.g. "Is there a
 
 ## Weekly Cadence
 
-- Yoga: Tuesday (mandatory)
-- Engineering Empathy
-  - Week One 
-    * Monday - Allyship Lunch
-    * Tuesday - Micro Agressions & Sexism
+- Yoga: Tuesday
+- Engineering Empathy: Tuesdays at 3:30pm
+  - Week One
+    - Monday - Sexism Awareness
+    - Tuesday - Sexism in Tech & Micro Agressions
   - Week Two
-    * Wednesday - Difficult Conversations
-- Assessment:
-  * Week 3
-  * Challenge (Wednesday, all day)
-  * Code Reviews (Thursday morning)
+    - TBD - Difficult Conversations
+- Assessment: Third Wednesday starting at 8:15am
+  - "The Challenge" - 8:15am - 4:45pm (break for lunch from 11:30 - 1:00)
+  - "Code Review" - 30 minute blocks starting Thursday at 8:15am
 
 ## Daily Cadence
 
-- Check in with accountability buddies
-- Announcements
-- Yoga (Tuesday)
-- Challenges
-- Lunch
-- Challenges
-- End of core hours
-- Challenges, Optimize your learning
+Time    | Activity
+---     | ---
+7:45am  | Check in with accountability buddies
+8:00am  | Morning Announcements
+8:05am  | Daily Progress Checkin (or following yoga at 9:10am)
+8:25am  | Challenges/Breakouts
+11:30am | Lunch
+1:00pm  | Afternoon Announcements
+1:05pm  | Challenges/Breakouts
+5:00pm  | End of core hours
+5:00pm  | After hours learning/mentoring/solo time
 
 ## Additional Resources
 

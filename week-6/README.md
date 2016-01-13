@@ -17,6 +17,12 @@
 
 ---
 
+## Groups ##
+
+[Week 6 groups](../../wiki/groups.md#week-6)
+
+---
+
 ## Monday
 
 ### Core
