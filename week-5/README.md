@@ -137,9 +137,9 @@
 
 - [DBC Overflow](../../../../sinatra-overflow-challenge)
 
-**Presentations**
+**Presentations Tomorrow**
 
-Present your DBC Overflow project in the afternoon.
+You will present your DBC Overflow project tomorrow afternoon.
 
 ---
 
@@ -147,6 +147,8 @@ Present your DBC Overflow project in the afternoon.
 ### Self Assessment & JavaScript Racer
 
 ### Core
+
+You will present your DBC Overflow projects today.
 
 **Self Assessment**
 
