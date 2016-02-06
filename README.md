@@ -51,7 +51,7 @@ Please also give some context for what you'd like feedback on ; e.g. "Is there a
 
 ## Weekly Cadence
 
-- Yoga: Tuesday
+- Yoga: mandatory once per week, classes available 11:45am - 12:30pm Tuesday through Wednesday
 - Engineering Empathy: Tuesdays at 3:30pm
   - Week One
     - Monday - Sexism Awareness
