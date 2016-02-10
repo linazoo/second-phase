@@ -98,10 +98,6 @@ What's wrong with that? A high percentage of waterfall projects fail for various
 
 Agile cadence is the rhythm in which you do your work as a team. It's not meant to be prescriptive, merely a suggestion on how you can organize the practices we describe later. If it doesn't work for you, adapt and try something else!
 
-Example Cadence:
-
-![cadence](./agile_images/cadence.png)
-
 In the workplace, 2 weeks 'sprints' are common.  The sprint is you working on stories and then showing deliverable work at the end of that time period.
 
 Basic sprint overview:
@@ -112,6 +108,7 @@ Basic sprint overview:
 - Once that is complete, you have a retrospective to improve on how to work better together in the next sprint.    
 
 Here at DBC, you can break your sprints down into a day, or even a half day depending on how you and your team decide to work.
+
 <a id="vertical_slices"></a>
 ## Vertical Slices
 
