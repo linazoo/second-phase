@@ -1,10 +1,10 @@
 # Agile & Team Workflow
 
-Up to this point we've had smaller group projects.  In phase 2 the scope of these projects start to get bigger.  More files, more features, more commits, more CODE.  This resource is a **must read** before you go into your first Phase 2 group project.
+Up to this point we've had smaller group projects.  In phase 2 the scope of these projects starts to get bigger.  More files, more features, more commits, more CODE.  This resource is a **must read** before you go into your first Phase 2 group project.
 
 ## Overview
 
-The things we will cover in this resource are:
+This resource covers these topics:
 
 - [Agile Overview](#agile_overview)
 - [Agile Cadence](#cadence)
@@ -21,17 +21,9 @@ The things we will cover in this resource are:
 <a id="agile_overview"></a>
 ## Agile Overview
 
-### Agile's Basic Values
+### Agile's Basic Principles
 
-Agile is a high level software development methodology that follows these basic 4 values:
-
-
-- Individuals and interactions _**over**_ processes and tools
-- Working software _**over**_ comprehensive documentation
-- Customer collaboration _**over**_ contract negotiation
-- Responding to change _**over**_ following a plan
-
-Those values are broken down into 12 principles:
+Agile Software development consists of 12 basic principles :
 
 - Our highest priority is to satisfy the customer
 through early and continuous delivery
@@ -64,55 +56,46 @@ emerge from self-organizing teams.
 to become more effective, then tunes and adjusts
 its behavior accordingly.
 
-Taken from the [Agile Manifesto](http://www.agilemanifesto.org/)
-### Huh?
-That may sound like a lot of business speak, but let's boil that down into things that make sense for our needs week.
+The 4 core Agile values that sum these up can be found here: [Agile Manifesto](http://www.agilemanifesto.org/)
 
-- Let's communicate often as a team preferably by being located in the same physical location.
-- Let's show our work to the people we are building it for (stakeholder/client) often so that we are all on the same page. (every 2 weeks is the norm in industry).
+These might not make sense to you if you haven't already had a career in programming.  The overall goal of this resource is to help you understand how they might inform your work.
+
+### Huh?
+That may sound like a lot of business speak, but let's boil that down into things that make sense for our needs.
+
+- Let's show our work to the people we are building it for the stakeholder/client often so that we are all on the same page.
 - Let's value high quality code.
-- If things go wrong, let's react and change quickly before we get too far.
 - Let's work in a way that we can sustain this pace for a long time and not burn out.
+- Let's communicate often as a team preferably by being located in the same physical location.
+- If things go wrong, let's react and change quickly before we get too far.
 - Let's talk about what's going well and improve often so we can be a high performing team.  
 
-Sound like common sense?  Well...that's because it is.  It's really just a set of reminders to keep the things that matter at the forefront of your development process so that your project can be successful.
+It's really just a set of reminders to keep the things that matter at the forefront of your development process so that your project can be successful.  These things help you move toward a high performing, self-organizing team that trusts each other to get their work done.
 
-### What came before
-Before agile came along, most of us were doing waterfall development.
+### How we got here
 
-What was that?
-
-- All requirements done up front with the stakeholder/client
-- All high level system/architectural design done next.
-- Devs take the design and write all the code.
-- The testing team finds bugs / devs fix them.
-- Stakeholder/client may not be involved in day to day.
-- Stakeholder sees the project at the end of development. (When that's 6 months later, that's too late!)
-
-What's wrong with that? A high percentage of waterfall projects fail for various reasons. Often that the thing delivered wasn't the thing that was desired by the client is the biggest one.  
-
-![agile waterfall failure rates](./agile_images/Agile-Waterfall-Success-Failure-Rates.jpg)
+Agile was born from the tensions teams encountered when planning out huge projects, start to finish, in the face of uncertainty; if you're two months deep into a six-month plan, and the market changes, it's too late to turn back. [Here's a brief history](https://www.blossom.co/blog/agile-software-history) of tech's slow shift from the old "Waterfall" model to Agile methods.
 
 <a id="cadence"></a>
 ## Agile Cadence
 
 Agile cadence is the rhythm in which you do your work as a team. It's not meant to be prescriptive, merely a suggestion on how you can organize the practices we describe later. If it doesn't work for you, adapt and try something else!
 
-In the workplace, 2 weeks 'sprints' are common.  The sprint is you working on stories and then showing deliverable work at the end of that time period.
+In the workplace, 2 weeks 'sprints' are common.  The sprint is you working on a set of stories for a fixed time period and then showing deliverable work at the end of that time.
 
-Basic sprint overview:
+Here's a basic sprint overview.  We'll dive into what each of these bold terms mean in a moment:
 
-- Decide what will be worked on during that sprint from the backlog.  Do that at the beginning of the sprint period.  
-- Daily you will have standups (scrum meetings in the pic).  You do this until you reach the end of the sprint.  
+- Decide what will be worked on during that sprint from the **backlog**.  Do that at the beginning of the sprint period.  
+- Daily you will have **standups**.  You do this at a regular frequency until you reach the end of the sprint.  
 - At the end of the sprint, you demo your completed work for the client.  
-- Once that is complete, you have a retrospective to improve on how to work better together in the next sprint.    
+- Once that is complete, you have a **retrospective** to improve on how to work better together in the next sprint.    
 
 Here at DBC, you can break your sprints down into a day, or even a half day depending on how you and your team decide to work.
 
 <a id="vertical_slices"></a>
 ## Vertical Slices
 
-Vertical slices aren't really a practice, but a way to break down your work.  Knowing this concept is helpful when defining your story cards in a later section.  It also helps with assigning work in your team.  **We really want you to practice this as horizontal slicing doesn't really work for teams.**
+Vertical slices aren't really a practice, but a way to break down your work.  Knowing this concept is helpful when defining your story cards in a later section.  It also helps with assigning work in your team.  **We really want you to practice this.   Horizontal slicing doesn't really work for good team workflow.**
 
 Horizontal Slicing vs Vertical Slicing
 
@@ -125,7 +108,7 @@ Horizontal Slicing vs Vertical Slicing
 
 Each vertical slice is deliverable to the client!  If someone does all the controllers, what will you have to show them?
 
-Let's break that first vertical slice into finite tasks for that pair to complete:
+Let's break that first vertical slice ("Pair 1 does Sign-up story") into finite tasks for that pair to complete:
 
 - Make a link somehwere to get to the sign-up page
 - JS needed for sign-up page (if any)
@@ -144,18 +127,29 @@ If the team breaks up work in horizontal slices, nothing is 'done' until everyth
 <a id="how"></a>
 # How to Agile
 
-We could tell you to do all the following things in order to 'be agile' and demand you follow a 'process', but that's not what it's all about.  There are many frameworks which adhere to the agile principles that teams can adopt.  Scrum, Kanban, XP, and Lean are just a few. We are not prescribing any of those.  What we are proposing is looking at the basic principles and starting with some suggested practices to try them on for size.   
+It's far more important for a team to be agile than to do "Agile". There are many branded frameworks (Scrum, Kanban, XP, Lean) that promise to improve teams' Agile processes... but remember, agile development is about valuing individuals and interactions over processes and tools!
 
-The practices we are going to look at are: team norms, standups, story cards, big visual board, wireframing, and feedback.  All but feedback should be part of starting a project.  _**Once you get these things squared away, you will be ready to start coding related work.**_
+That said, it's helpful to know what's already worked well for many high performing agile teams. Let's talk about some suggested practices you can try as you develop your team workflow:
+
+- team norms
+- standups
+- story cards
+- big visual board
+- wireframing
+- how and when to do feedback
+
+__*Once you get these things squared away, you will be ready to start coding related work.*__
 
 <a id="team_norms"></a>
 ## Team Norms
 
-Team norms are basically a set of values/rules the team will adhere to in order to get work done.  It's how you all agree to work together.  Students often find that sometimes these team norms fly out the window as their 'due date' gets near, but it's important to hold each other accountable to what you have agreed to do.  If the norms need to change, you can adapt, but do so as a group.
+Team norms are basically a set of values/rules the team will adhere to in order to get work done.  It's how you all agree to work together.  
 
-When starting a project at DBC, this is the first thing that might be good to get out of the way.
+Students often find that sometimes these team norms fly out the window as their 'due date' gets near, but it's important to hold each other accountable to what you have agreed to do.  When team norms breakdown, inefficiencies crop up. People may get out of sync on what's important, or may duplicate their efforts. Progress quickly slows to a halt.  If the norms need to change, you can adapt, but do so as a group.
 
-Some examples are:
+When starting a project at DBC, team norms are a good thing to decide on first.
+
+Some examples of team norms are:
 - Standups at 8:15, 1:10, and 4:30.
 - A different person will code review and merge your PR.
 - Have Fun!
@@ -170,7 +164,7 @@ Additional Resource: [Creating Team Norms](http://www.agileconnection.com/articl
 <a id="standups"></a>
 ## Team Standups
 
-Team standups are basically a way for the team to communicate often on the work being done by the group.  Typcially the client, devs, testers, leads will be a part of that standup.  It's important to have all the major participants in the day to day involved so that if there are any roadblocks, they can be escalated quickly.
+Team standups are a way for the team to communicate often on the work being done by the group.  Typcially the client, devs, testers, leads will be a part of that standup.  It's important to have all the major participants in the day to day involved so that if there are any roadblocks, they can be escalated quickly.
 
 Typically each team member will quickly state:
 
@@ -178,7 +172,7 @@ Typically each team member will quickly state:
 - What will you do today?
 - Are there any impediments in your way?
 
-For our needs we could make this:
+With our compressed DBC timeline, we could say:
 - What did I do since the last standup?
 - What work will I tackle before the next standup?
 - Am I stuck on anything?
@@ -229,8 +223,10 @@ Example story cards *may* contain any of the following info:
 
 ### Basic Story Card Examples
 
-![basic card front](./agile_images/user_story_front.jpg)
-![basic card back](./agile_images/user_story_back.jpg)
+Basic Note Card example with acceptance criteria.
+
+![basic paper card](./agile_images/basic_card.png)
+
 Sample Trello Story Card with Description and Acceptance Criteria.
 
 ![basic trello card](./agile_images/trello_story.png)
@@ -259,7 +255,7 @@ One thing to note.  Try to limit the work in the 'In Progress' column.  If you h
 
 [Trello example](https://trello.com/b/TYsWqRFg) - This is an  example of a project that I put together to demonstrate a _**really complete**_ board.  It shows cards in each status, with acceptance criteria, dev tasks, and each type (tech, spike, etc by using labeling).  Take a look around here.  
 
-White Board Example
+White Board Example (each post-it is a card)
 
 ![White board BVB](./agile_images/bvb.png)
 
@@ -283,13 +279,12 @@ Additional Resource: [Wireframes - A Great Way to Start Development Projects](ht
 
 Retrospectives or 'Retros' are a time at the end of your sprint where you reflect on the work done so that you can work better during the next one.  
 
-Easy ways to do this is give everyone a stack of post it notes and have them write things for each of the following categories.  
-
+Easy ways to do this is give everyone a stack of post-it notes and have them write things for each of the following categories.  
 - Continue doing
 - Stop doing
 - Start doing
 
-Everybody will then vote on their top three or X number of items as defined by the team and the ones with the top number of votes will be the things the team tries to work on for the sprint!
+Everybody will then vote on their top three or X number of items as defined by the team. The ones with the top number of votes will be the things the team tries to work on for the sprint!
 
 ![retro example 1](./agile_images/sprint_retrospective1.png)
 
