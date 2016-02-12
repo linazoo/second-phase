@@ -15,7 +15,7 @@ mindset.
 ## :+1:
 1. I submit my code for review from my peers
 1. I review and merge other peoples code
-1. I can explain why I wrote each line of code in plain English
+1. I can explain why I wrote each line of code in basic terms
 1. I can find and use gems to solve problems
 1. I proactively organize my code
 1. I follow my programming languages formatting standards
