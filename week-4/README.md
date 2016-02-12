@@ -190,7 +190,7 @@
 
 **Challenges**
 
-- [Flashcards Group Project](../../../../web-flash-cards-1-multiple-decks-challenge)
+- [Flashcards Group Project](../../../../web-flashcards-challenge)
 
 **Prep for the Weekend**
 
