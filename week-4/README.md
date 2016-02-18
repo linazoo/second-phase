@@ -50,7 +50,7 @@
 
 - Complete the [self-assessment](../self-assessments/week-one/monday.md)
 - EE Prep: Read & Reflect on following articles
-  - [If you think women in tech is just a pipeline problem, you haven’t been paying attention](https://medium.com/@racheltho/if-you-think-women-in-tech-is-just-a-pipeline-problem-you-haven-t-been-paying-attention-cb7a2073b996) 
+  - [If you think women in tech is just a pipeline problem, you haven’t been paying attention](https://medium.com/@racheltho/if-you-think-women-in-tech-is-just-a-pipeline-problem-you-haven-t-been-paying-attention-cb7a2073b996)
   - [Stop Acting So Surprised: How Microaggressions Enforce Stereotypes in Tech](https://modelviewculture.com/pieces/stop-acting-so-surprised-how-microaggressions-enforce-stereotypes-in-tech)
 
 ### Stretch
@@ -163,7 +163,7 @@
 **Prep for Tomorrow**
 
 - [Self-Assessment](../self-assessments/week-one/thursday.md)
-- [Manifesto for Agile Practices](http://agilemanifesto.org/)
+- [Agile & Team Workflow](../resources/agile.md)
 - [Advanced Active Record Associations](http://www.theodinproject.com/ruby-on-rails/active-record-associations)
 
 ### Stretch
