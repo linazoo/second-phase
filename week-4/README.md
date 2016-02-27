@@ -114,6 +114,7 @@
 **ActiveRecord**
 
 - [AR Lecture Slides 4/29](../resources/ar-associations-review.pdf)
+- [Assumptions Active Record Makes for Associations](../resources/association-assumptions.pdf)
 - [Advanced Active Record Associations](http://www.theodinproject.com/ruby-on-rails/active-record-associations)
 
 ---
