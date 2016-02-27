@@ -158,7 +158,7 @@
 
 **Challenges**
 
-- [Dummy Users](../../../../dummy-users-challenge)
+- [User Registration and Authentication](../../../../user-registration-and-authentication-challenge)
 - [Multi-author Blog](../../../../blog-2-multi-author-challenge)
 
 **Prep for Tomorrow**
