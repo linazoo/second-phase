@@ -27,7 +27,6 @@ cheering-mascot-sinatra-2-asynchronous-forms-challenge
 craigslist-jr-challenge
 dbc-mail-challenge
 dbc-mail-frontend-skeleton
-dummy-users-challenge
 dynamic-todos-challenge
 exploring-asynchrony-challenge
 flickr-jr-challenge
@@ -94,6 +93,7 @@ tweet-later-challenge
 tweet-now-1-single-user-challenge
 tweet-now-2-multi-user-challenge
 tweet-now-command-line-challenge
+user-registration-and-authentication-challenge
 web-flashcards-challenge
 web-flash-cards-2-ajax-guessing-challenge
 world-s-second-simplest-browser-challenge
