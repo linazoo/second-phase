@@ -20,7 +20,7 @@
 
 ## Groups ##
 
-[Week 4 groups](../../wiki/Groups#week-4)
+[Week 4 groups](../../../wiki/Groups#week-4)
 
 ---
 
