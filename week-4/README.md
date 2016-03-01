@@ -45,6 +45,7 @@
 - [TCP Challenge](../../../../raw-tcp-challenge)
 - [HTTP Challenge](../../../../raw-http-challenge)
 - [Cheering Mascot](../../../../cheering-mascot-sinatra-1-synchronous-forms-challenge)
+- [Advanced Active Record](../../../../active-record-associations-drill-hotels-challenge)
 
 **Prep for Tomorrow**
 
@@ -85,7 +86,6 @@
 
 **Challenges**
 
-- [Advanced Active Record](../../../../active-record-associations-drill-hotels-challenge)
 - [Anagrams 1](../../../../anagram-server-1-the-basics-challenge)
 - [URL Shortener](../../../../sinatra-url-shortener-challenge)
 - [Anonymous Blog](../../../../blog-1-anonymous-blog-challenge)
