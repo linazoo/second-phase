@@ -28,6 +28,12 @@
 
 ### Core
 
+**Challenges - JavaScript**
+
+- [Style Editor](../../../../behavior-drill-style-editor-challenge)
+- [Tabbed Interface](../../../../behavior-drill-tabbed-interface-challenge)
+- [Cheering Mascot Round Two](../../../../cheering-mascot-sinatra-2-asynchronous-forms-challenge)
+
 **Challenges - HTML / CSS**
 
 - [Layout Drill: Basic Form Styling](../../../../layout-drill-basic-form-styling-challenge)
@@ -36,12 +42,6 @@
 - [Layout Drill: Right-hand Navigation](../../../../layout-drill-right-hand-navigation-challenge)
 - [Layout Drill: Proper Typesetting](../../../../layout-drill-proper-typesetting-challenge)
 - Read [this](http://www.smashingmagazine.com/2014/05/29/mystery-jquery-object-syntax-basic-introduction/) for some jQuery prep.
-
-**Challenges - JavaScript**
-
-- [Style Editor](../../../../behavior-drill-style-editor-challenge)
-- [Tabbed Interface](../../../../behavior-drill-tabbed-interface-challenge)
-- [Cheering Mascot Round Two](../../../../cheering-mascot-sinatra-2-asynchronous-forms-challenge)
 
 **Prep for Tomorrow**
 
