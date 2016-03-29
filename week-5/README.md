@@ -92,7 +92,7 @@
 - [Adding Comments](../../../../behavior-drill-add-comments-challenge)
 - [Lucky AJAX](../../../../lucky-ajax-challenge)
 - [AJAXifying Hacker News](../../../../ajaxifying-hacker-news-challenge)
-- [Simon Says](../../../../ph2-p7-javascript-ajax-and-jquery-challenge)
+- [Simon Says](../../../../sinatra-json-challenge)
 
 **Prep for Tomorrow**
 
