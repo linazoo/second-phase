@@ -128,7 +128,7 @@
 **Challenges**
 
 - [More Advanced Hard Active Record](../../../../active-record-associations-drill-shirts-challenge)
-- [Rest Controller](../../../../rest-controller-challenge)
+- [Rest Controller](../../../../rest-controller-karaoke-challenge)
 - [Craig's List Jr.](../../../../craigslist-jr-challenge)
 
 **Prep for Tomorrow**
