@@ -33,8 +33,8 @@ No lecture.
 
 **Challenges**
 
-- [Orange Trees](../../../../orange-jasmine-challenge)
-- [OOJS Bikes & Stations](../../../../oojs-drill-challenge)
+- [Orange Trees](../../../../oojs-orange-tree-challenge)
+- [OOJS Bikes & Stations](../../../../oojs-bikes-and-stations-challenge)
 - [JS Racer 3](../../../../javascript-racer-3-sane-javascript-challenge)
 - [OO JS Etsy](../../../../oo-js-etsy-challenge)
 
