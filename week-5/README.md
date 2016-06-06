@@ -154,7 +154,7 @@ You will present your DBC Overflow projects today.
 
 **Self Assessment**
 
-- [Sinatra AJAX Self-Assessment](../../../../ajax-sinatra-self-assessment-challenge)
+- [Sinatra AJAX Self-Assessment](../../../../ajax-checkpoint-challenge)
 
 **Challenges**
 
