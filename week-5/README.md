@@ -131,8 +131,6 @@
 ## Thursday
 ### Group Project - 2/2
 
-## Careers Talk after 1pm standup
-
 ### Core
 
 **Group Project**
