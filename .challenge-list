@@ -1,14 +1,14 @@
+active-record-associations-drill-at-the-races-challenge
+active-record-associations-drill-hotels-challenge
 active-record-associations-drill-shirts-challenge
 activerecord-design-your-own-challenge
-active-record-associations-drill-hotels-challenge
-ajax-review-challenge
 ajax-checkpoint-challenge
+ajax-review-challenge
 ajaxifying-hacker-news-challenge
-ar-skeleton
-ar-teams-and-leagues-challenge
-active-record-associations-drill-at-the-races-challenge
 anagram-server-1-the-basics-challenge
 anagram-server-2-ludicrous-speed-challenge
+ar-skeleton
+ar-teams-and-leagues-challenge
 behavior-drill-add-comments-challenge
 behavior-drill-collapsible-side-menu-challenge
 behavior-drill-drop-down-menu-challenge
@@ -25,6 +25,7 @@ cheering-mascot-challenge
 cheering-mascot-sinatra-1-synchronous-forms-challenge
 cheering-mascot-sinatra-2-asynchronous-forms-challenge
 craigslist-jr-challenge
+crud-and-rest-checkpoint-challenge
 dbc-mail-challenge
 dbc-mail-frontend-skeleton
 dynamic-todos-challenge
@@ -70,7 +71,6 @@ ph2-p3-sinatra-authentication-and-authorization-challenge
 ph2-p4-css-layout-simple-marketing-page-challenge
 ph2-p5-active-record-and-sinatra-propagating-validations-challenge
 phase-2-mock-assessment-echo
-crud-and-rest-checkpoint-challenge
 raw-http-challenge
 raw-tcp-challenge
 recent-tweets-1-challenge
@@ -94,6 +94,6 @@ tweet-now-1-single-user-challenge
 tweet-now-2-multi-user-challenge
 tweet-now-command-line-challenge
 user-registration-and-authentication-challenge
-web-flashcards-challenge
 web-flash-cards-2-ajax-guessing-challenge
+web-flashcards-challenge
 world-s-second-simplest-browser-challenge
