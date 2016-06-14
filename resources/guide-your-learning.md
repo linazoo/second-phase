@@ -35,10 +35,7 @@ The skill of accurate self assessment is hugely important at DBC to ensure you a
 
 
 ###5) Review the Weekly Learning Competencies
-Every couple days, review the overall and weekly learning compentencies to get a bigger picture view on how you are progressing.
-
-[overall learning competencies](https://github.com/golden-bears-2014/phase-1-guide/blob/master/learning-competencies.md) | [week 1](https://gist.github.com/dbc-challenges/3e4ea14543cde43d89ca) | [week 2](https://gist.github.com/dbc-challenges/3c983819a8604593791b) | [week 3](https://gist.github.com/dbc-challenges/1da8d51de6229fedd73a)
-
+Every couple days, review the overall and weekly learning compentencies in the self-assessment check to get a feel for how you are doing.
 
 *  **Remember:** Know when to push past your limits and when to take care of yourself.  DBC is a marathon, not a sprint.  Eat good food, get good rest, take breaks, and hold your bar high!
 
