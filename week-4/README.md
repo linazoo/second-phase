@@ -154,8 +154,6 @@
 ## Thursday
 ### Users & Authentication
 
-## Careers Talk after 1pm standup
-
 ### Core
 
 **Challenges**
