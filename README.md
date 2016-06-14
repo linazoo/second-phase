@@ -58,7 +58,7 @@ Please also give some context for what you'd like feedback on ; e.g. "Is there a
     - Tuesday - Sexism in Tech & Micro Agressions
   - Week Two
     - TBD - Difficult Conversations
-- Careers Checkins: Thursdays at 1:15pm
+- Careers Checkin: Week 3, thursday at 1:15pm
 - Assessment: Third Wednesday starting at 8:15am
   - "The Challenge" - 8:15am - 4:45pm (break for lunch from 11:30 - 1:00)
   - "Code Review" - 30 minute blocks starting Thursday at 8:15am
