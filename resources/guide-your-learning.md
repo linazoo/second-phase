@@ -10,7 +10,7 @@ Spend the next 15 minutes (until 6:15) reflecting on the day:
 
 ###2) Ask Yourself Some Reflection Questions
 Spend another 5 minutes expoloring these questions to help decide next steps:
-- Are you confident with the learning competencies for all the day's challenges?
+- Are you confident with the day's challenges?
 - Are you learning with your pair?
 - What is the best way for you to learn and retain most?
 
@@ -32,12 +32,6 @@ Additional ways to distill your knowledge:
 - Before you go to sleep, ask yourself: Did you assess yourself accurately?  Was your evening time spent wisely?  How could you have made your time more effective?
 
 The skill of accurate self assessment is hugely important at DBC to ensure you are staying in your optimal learning zone.  This skill is absolutely mandatory to effectively work on a team, do contract work, or work on any sizeable software problem.
-
-
-###5) Review the Weekly Learning Competencies
-Every couple days, review the overall and weekly learning compentencies to get a bigger picture view on how you are progressing.
-
-[overall learning competencies](https://github.com/golden-bears-2014/phase-1-guide/blob/master/learning-competencies.md) | [week 1](https://gist.github.com/dbc-challenges/3e4ea14543cde43d89ca) | [week 2](https://gist.github.com/dbc-challenges/3c983819a8604593791b) | [week 3](https://gist.github.com/dbc-challenges/1da8d51de6229fedd73a)
 
 
 *  **Remember:** Know when to push past your limits and when to take care of yourself.  DBC is a marathon, not a sprint.  Eat good food, get good rest, take breaks, and hold your bar high!
