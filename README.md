@@ -83,4 +83,4 @@ Time    | Activity
 - [Self Assessments](self-assessments/)
 - [Resource Links](resources/)
 - [Mentoring Signup](http://mentoring.devbootcamp.com/)
-- [Counseling Signup](resources/counseling_instructions.md)
+- [Counseling Signup](https://calendar.google.com/calendar/selfsched?sstoken=UU8yRmkwNldCa09LfGRlZmF1bHR8Y2Y3NmM2YTM4ZDM2NmVlMTZkNDVhZWU2M2NkMGZlYTI)
