@@ -95,7 +95,7 @@ See you Monday!
 
 **Prep for Tomorrow**
 
-- Complete the [self-assessment](../self-assessments/week-one/monday.md
+- Complete the [self-assessment](../self-assessments/week-one/monday.md)
 
 ### Stretch
 
