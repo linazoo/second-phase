@@ -59,7 +59,7 @@ See [the wiki](../../wiki/Groups) for your weekly groups.
 - Engineering Empathy: Tuesdays at 3:30pm
   - Week One
     - Monday - Sexism Awareness
-    - Tuesday - Sexism in Tech & Micro Agressions
+    - Tuesday - Sexism in Tech &amp; Micro Agressions
   - Week Two
     - TBD - Difficult Conversations
 - Careers Checkin: Week 3, thursday at 1:15pm
