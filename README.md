@@ -13,33 +13,33 @@
   </tr>
 
   <tr>
-    <td><a href="./week-4/">Week 4 - Intro to Web Programming</a></td>
-    <td><a href="./week-4#monday">Monday</a></a></td>
-    <td><a href="./week-4#tuesday">Tuesday</a></td>
-    <td><a href="./week-4#wednesday">Wednesday</a></td>
-    <td><a href="./week-4#thursday">Thursday</a></td>
-    <td><a href="./week-4#friday">Friday</a></td>
-    <td><a href="./week-4#weekend">Weekend</a></td>
+    <td>Week 4 - Intro to Web Programming</td>
+    <td><a href="./week-4/monday.md">Monday</a></a></td>
+    <td><a href="./week-4/tuesday.md">Tuesday</a></td>
+    <td><a href="./week-4/wednesday.md">Wednesday</a></td>
+    <td><a href="./week-4/thursday.md">Thursday</a></td>
+    <td><a href="./week-4/friday.md">Friday</a></td>
+    <td><a href="./week-4/weekend.md">Weekend</a></td>
   </tr>
 
   <tr>
-    <td><a href="./week-5">Week 5 - JavaScript</a></td>
-    <td><a href="./week-5#monday">Monday</a></a></td>
-    <td><a href="./week-5#tuesday">Tuesday</a></td>
-    <td><a href="./week-5#wednesday">Wednesday</a></td>
-    <td><a href="./week-5#thursday">Thursday</a></td>
-    <td><a href="./week-5#friday">Friday</a></td>
-    <td><a href="./week-5#weekend">Weekend</a></td>
+    <td>Week 5 - JavaScript</td>
+    <td><a href="./week-5/monday.md">Monday</a></a></td>
+    <td><a href="./week-5/tuesday.md">Tuesday</a></td>
+    <td><a href="./week-5/wednesday.md">Wednesday</a></td>
+    <td><a href="./week-5/thursday.md">Thursday</a></td>
+    <td><a href="./week-5/friday.md">Friday</a></td>
+    <td><a href="./week-5/weekend.md">Weekend</a></td>
   </tr>
 
   <tr>
-    <td><a href="./week-6">Week 6 - Advanced Web Development</a></td>
-    <td><a href="./week-6#monday">Monday</a></a></td>
-    <td><a href="./week-6#tuesday">Tuesday</a></td>
-    <td><a href="./week-6#wednesday">Wednesday</a></td>
-    <td><a href="./week-6#thursday">Thursday</a></td>
-    <td><a href="./week-6#friday">Friday</a></td>
-    <td><a href="./week-6#weekend">Weekend</a></td>
+    <td>Week 6 - Advanced Web Development</td>
+    <td><a href="./week-6/monday.md">Monday</a></a></td>
+    <td><a href="./week-6/tuesday.md">Tuesday</a></td>
+    <td><a href="./week-6/wednesday.md">Wednesday</a></td>
+    <td><a href="./week-6/thursday.md">Thursday</a></td>
+    <td><a href="./week-6/friday.md">Friday</a></td>
+    <td><a href="./week-6/weekend.md">Weekend</a></td>
   </tr>
 </table>
 
