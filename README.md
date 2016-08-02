@@ -49,6 +49,10 @@ Create a Pull Request for your challenge submissions, then tag both of your inst
 
 Please also give some context for what you'd like feedback on ; e.g. "Is there a better way to do X in file.rb?", "I'm looking for feedback on my CRUD actions in controller.rb".
 
+## Weekly Groups
+
+See [the wiki](../../wiki/Groups) for your weekly groups.
+
 ## Weekly Cadence
 
 - Yoga: mandatory once per week, classes available 11:45am - 12:30pm Tuesday through Thursday
