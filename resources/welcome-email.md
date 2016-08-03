@@ -18,8 +18,8 @@ THIS WEEKEND:
 
 Complete the Prep work in the Phase 2 Guide
 
-<github cohort org>/phase-2-guide/blob/chicago/week-4/README.md#pre-work
+<github cohort org>/phase-2-guide/blob/chicago/week-4/pre-work.md
 
 We're going to cover introductions to HTTP and Sinatra, as well as touching on a harder ActiveRecord challenge. Sinatra is the web framework we'll be using throughout the phase. Read the tutorial and follow the examples -- you should create a small Sinatra app if you're actually following along. Don't just read. Get your hands dirty.
 
-See you Monday! 
+See you Monday!
