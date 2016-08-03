@@ -2,7 +2,6 @@
 
 ### Review
 
-Review [learning competencies self-assessment](../self-assessments/week-2)
 
 **Challenges - OOJS** (Object Oriented JavaScript)
 

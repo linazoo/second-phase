@@ -86,6 +86,5 @@ Time    | Activity
 
 ## Additional Resources
 
-- [Self Assessments](self-assessments/)
 - [Resource Links](resources/)
 - [Counseling Signup](https://calendar.google.com/calendar/selfsched?sstoken=UU8yRmkwNldCa09LfGRlZmF1bHR8Y2Y3NmM2YTM4ZDM2NmVlMTZkNDVhZWU2M2NkMGZlYTI)

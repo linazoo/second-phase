@@ -9,7 +9,6 @@
 
 **Prep for the Weekend**
 
-- [Self-Assessment](../self-assessments/week-one/friday.md)
 
 ### Additional Resources
 

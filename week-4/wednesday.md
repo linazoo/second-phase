@@ -12,7 +12,6 @@
 
 **Prep for Tomorrow**
 
-* [Self-Assessment](../self-assessments/week-one/tuesday.md)
 * [What is BCrypt?](https://github.com/codahale/bcrypt-ruby)
 * [Sessions and User Authentication](https://talks.devbootcamp.com/sessions-and-user-authentication)
 

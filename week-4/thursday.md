@@ -10,7 +10,6 @@
 
 **Prep for Tomorrow**
 
-- [Self-Assessment](../self-assessments/week-one/thursday.md)
 - [Agile & Team Workflow](../resources/agile.md)
 - [Advanced Active Record Associations](http://www.theodinproject.com/ruby-on-rails/active-record-associations)
 

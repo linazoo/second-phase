@@ -13,7 +13,6 @@
 
 **Prep for Tomorrow**
 
-- Complete the [self-assessment](../self-assessments/week-one/monday.md)
 
 ### Stretch
 

@@ -12,7 +12,6 @@
 
 **Prep for Tomorrow**
 
-* [Self Assessment](../self-assessments/week-one/wednesday.md)
 * Read about [REST](https://gist.github.com/case-eee/72715407554996828e0c)
 * [CRUD with Sinatra and RESTful routing](https://talks.devbootcamp.com/crud-with-sinatra-and-restful-routing)
 * [CRUD with Sinatra and RESTful routing - Live Coding](https://talks.devbootcamp.com/crud-with-sinatra-and-restful-routing-live-coding)
