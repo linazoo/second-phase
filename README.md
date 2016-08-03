@@ -66,9 +66,9 @@ See [the wiki](../../wiki/Groups) for your weekly groups.
   - Week Two
     - TBD - Difficult Conversations
 - Careers Checkin: Week 3, thursday at 1:15pm
-- Assessment: Third Wednesday starting at Start of Day
-  - "The Challenge" - Start of Day to End of Day (break for lunch at the customary time)
-  - "Code Review" - 30 minute blocks starting Thursday at Start of Day
+- Assessment: Third Wednesday starting in the morning
+  - "The Challenge" - All day (break for lunch, as usual)
+  - "Code Review" - 30 minute blocks starting Thursday morning
 
 ## Daily Cadence
 
