@@ -32,6 +32,9 @@
     "weekend": [
       "crud-and-rest-checkpoint-challenge",
       "javascript-from-ruby-challenge"
+    ],
+    "pre-work": [
+      "activerecord-design-your-own-challenge"
     ]
   },
   "week-5": {
