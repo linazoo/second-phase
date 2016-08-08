@@ -78,4 +78,5 @@ Time    | Activity
 ## Additional Resources
 
 - [Resource Links](resources/)
+- [Mentoring Signup](http://mentoring.devbootcamp.com/)
 - [Counseling Signup](https://calendar.google.com/calendar/selfsched?sstoken=UU8yRmkwNldCa09LfGRlZmF1bHR8Y2Y3NmM2YTM4ZDM2NmVlMTZkNDVhZWU2M2NkMGZlYTI)
