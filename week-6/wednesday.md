@@ -4,7 +4,7 @@
 
 **Assessment**
 
-Assessment will begin promptly at the usual beginning of our school day. The assessment will be emailed to you. You have until 5 PM to work on the assessment.
+Assessment will begin promptly at the usual beginning of our school day. The assessment will be available [here](../../../../phase-2-assessment). You have until 4:45PM to work on the assessment.
 
 Code Reviews will take place Thursday morning, and the code review schedule will be posted below (coming soon).
 
