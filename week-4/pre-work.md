@@ -22,11 +22,11 @@ JavaScript (the language)
 jQuery (JavaScript library for manipulating web pages)
 AJAX - (Make HTTP requests in a browser without loading a new page)
 
-That's a lot. It's a whole lot. Get ready to drink from an information fire hose. 
+That's a lot. It's a whole lot. Get ready to drink from an information fire hose.
 
 Phase 2 moves quickly because we've got so much ground to cover. And by the end of the phase, you'll be building your own web apps, which is every bit as amazing as it sounds.
 
-Given the pace of next phase, prep this weekend is crucial. I recommend leaving comments at places in your code where you get a little stuck or can't grok why something you wrote ended up working. 
+Given the pace of next phase, prep this weekend is crucial. I recommend leaving comments at places in your code where you get a little stuck or can't grok why something you wrote ended up working.
 
 Because you'll want those notes the next time you build a web app, and this is a phase where you'll want to build practice apps over and over again, outside of core hours, to develop the muscle memory you need to wrangle all these moving parts into a well-designed whole.
 
@@ -50,7 +50,7 @@ To prepare for that EE, the men of the phase will have a Sexism 101 EE on Monday
 
 It's a beautiful weekend to code. And there's so much to learn! If you're not active on a Slack together, now's a great time to start sharing posts, cheat sheets, videos, or other resources that helped you understand something better. And if you've neglected to leave feedback for any of your pairs this past phase, you should hop on feedback.devbootcamp.com and make sure they get that actionable, specific, and kind gift.
 
-See you Monday! 
+See you Monday!
 
 ---
 
