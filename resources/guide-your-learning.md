@@ -5,7 +5,7 @@
 ###1) **STOP**
 Spend the next 15 minutes (until 6:15) reflecting on the day:
 - Share with your pair how the day was for you, emotionall, physically or mentally.
-- Review the [challenge list](https://github.com/fiery-skippers-2014/phase-1-guide/tree/master/week-1) and remind yourself of the challenges and the learning competencies.
+- Review the [challenge list](../../../../phase-1-guide/tree/master/week-1/README.md) and remind yourself of the challenges and the learning competencies.
 - Share some "aha!" moments with your pair and take notes of them (making quick notes of them is important!).
 
 ###2) Ask Yourself Some Reflection Questions
