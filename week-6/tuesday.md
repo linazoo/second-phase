@@ -27,7 +27,7 @@
 
 - [Tic-Tac-Toe](../../../../tic-tac-toe-challenge)
 - [Roman Numerals](../../../../javascript-roman-numerals-challenge)
-- [JS Todo's](../../../../javascript-todos-1-0-core-features-challenge-1)
+- [JS Todo's](../../../../javascript-todos-1-0-core-features-challenge)
 
 **Prep for Tomorrow**
 
