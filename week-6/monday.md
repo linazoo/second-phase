@@ -2,10 +2,6 @@
 
 ### Core
 
-**Lecture**
-
-No lecture.
-
 **Challenges**
 
 - [Orange Trees](../../../../oojs-orange-tree-challenge)

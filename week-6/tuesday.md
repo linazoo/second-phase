@@ -2,10 +2,6 @@
 
 ### Core
 
-**Lecture**
-
-No lecture.
-
 **Challenges - CRUD & Sintatra**
 - [Refactor HR App](../../../../hr-sinatra-refactor-challenge)
 - [Hacker News Clone Part One](../../../../hacker-news-clone-part-1-challenge)
