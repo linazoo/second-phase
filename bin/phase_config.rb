@@ -20,8 +20,7 @@ module PhaseConfig
 
   def challenges_as_list(path)
     list = find_challenges(path).map{|challenge| challenge[2]}.flatten
-    list << "student-handbook" #temporary
-    list << "ar-skeleton" #temporary
+    list << "sinatra-skeleton-mvc-challenge" #temporary
     list.sort
   end
 

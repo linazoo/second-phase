@@ -8,7 +8,6 @@ ajax-review-challenge
 ajaxifying-hacker-news-challenge
 anagram-server-1-the-basics-challenge
 anagram-server-2-ludicrous-speed-challenge
-ar-skeleton
 ar-teams-and-leagues-challenge
 behavior-drill-add-comments-challenge
 behavior-drill-collapsible-side-menu-challenge
@@ -49,10 +48,10 @@ rest-controller-karaoke-challenge
 sinatra-json-challenge
 sinatra-overflow-challenge
 sinatra-sandbox-challenge
+sinatra-skeleton-mvc-challenge
 sinatra-url-shortener-challenge
 sinatra-url-shortener-with-users-challenge
 snitching-on-sinatra-challenge
-student-handbook
 tic-tac-toe-challenge
 tweet-now-command-line-challenge
 user-registration-and-authentication-challenge
