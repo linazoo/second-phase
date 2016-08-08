@@ -55,7 +55,9 @@ See [the wiki](../../wiki/Groups) for your weekly groups.
     - Monday - Sexism Awareness
     - Tuesday - Sexism in Tech &amp; Micro Agressions
   - Week Two
-    - TBD - Difficult Conversations
+    - Tuesday - Crucial Conversations
+  - Week Three
+    - Friday - Teams and Temperaments
 - Careers Checkin: Week 3, thursday at 1:15pm
 - Assessment: Third Wednesday starting in the morning
   - "The Challenge" - All day (break for lunch, as usual)
