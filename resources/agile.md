@@ -150,7 +150,7 @@ Students often find that sometimes these team norms fly out the window as their 
 When starting a project at DBC, team norms are a good thing to decide on first.
 
 Some examples of team norms are:
-- Standups at 8:15, 1:10, and 4:30.
+- Standups at Morning, Midday, Day's End
 - A different person will code review and merge your PR.
 - Have Fun!
 - Resolve team dissonance when it's happening.

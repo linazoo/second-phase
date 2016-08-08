@@ -8,46 +8,44 @@
   </tr>
 
   <tr>
-    <th><a href="./week-4#pre-work">Pre work</a></th>
+    <th><a href="./week-4/pre-work.md">Pre work</a></th>
     <td colspan="6">must complete before beginning P2</td>
   </tr>
 
   <tr>
-    <td><a href="./week-4/">Week 4 - Intro to Web Programming</a></td>
-    <td><a href="./week-4#monday">Monday</a></a></td>
-    <td><a href="./week-4#tuesday">Tuesday</a></td>
-    <td><a href="./week-4#wednesday">Wednesday</a></td>
-    <td><a href="./week-4#thursday">Thursday</a></td>
-    <td><a href="./week-4#friday">Friday</a></td>
-    <td><a href="./week-4#weekend">Weekend</a></td>
+    <td>Week 4 - Intro to Web Programming</td>
+    <td><a href="./week-4/monday.md">Monday</a></a></td>
+    <td><a href="./week-4/tuesday.md">Tuesday</a></td>
+    <td><a href="./week-4/wednesday.md">Wednesday</a></td>
+    <td><a href="./week-4/thursday.md">Thursday</a></td>
+    <td><a href="./week-4/friday.md">Friday</a></td>
+    <td><a href="./week-4/weekend.md">Weekend</a></td>
   </tr>
 
   <tr>
-    <td><a href="./week-5">Week 5 - JavaScript</a></td>
-    <td><a href="./week-5#monday">Monday</a></a></td>
-    <td><a href="./week-5#tuesday">Tuesday</a></td>
-    <td><a href="./week-5#wednesday">Wednesday</a></td>
-    <td><a href="./week-5#thursday">Thursday</a></td>
-    <td><a href="./week-5#friday">Friday</a></td>
-    <td><a href="./week-5#weekend">Weekend</a></td>
+    <td>Week 5 - JavaScript</td>
+    <td><a href="./week-5/monday.md">Monday</a></a></td>
+    <td><a href="./week-5/tuesday.md">Tuesday</a></td>
+    <td><a href="./week-5/wednesday.md">Wednesday</a></td>
+    <td><a href="./week-5/thursday.md">Thursday</a></td>
+    <td><a href="./week-5/friday.md">Friday</a></td>
+    <td><a href="./week-5/weekend.md">Weekend</a></td>
   </tr>
 
   <tr>
-    <td><a href="./week-6">Week 6 - Advanced Web Development</a></td>
-    <td><a href="./week-6#monday">Monday</a></a></td>
-    <td><a href="./week-6#tuesday">Tuesday</a></td>
-    <td><a href="./week-6#wednesday">Wednesday</a></td>
-    <td><a href="./week-6#thursday">Thursday</a></td>
-    <td><a href="./week-6#friday">Friday</a></td>
-    <td><a href="./week-6#weekend">Weekend</a></td>
+    <td>Week 6 - Advanced Web Development</td>
+    <td><a href="./week-6/monday.md">Monday</a></a></td>
+    <td><a href="./week-6/tuesday.md">Tuesday</a></td>
+    <td><a href="./week-6/wednesday.md">Wednesday</a></td>
+    <td><a href="./week-6/thursday.md">Thursday</a></td>
+    <td><a href="./week-6/friday.md">Friday</a></td>
+    <td><a href="./week-6/weekend.md">Weekend</a></td>
   </tr>
 </table>
 
-## Code Reviews
+## Weekly Groups
 
-Create a Pull Request for your challenge submissions, then tag both of your instructors for a code review.
-
-Please also give some context for what you'd like feedback on ; e.g. "Is there a better way to do X in file.rb?", "I'm looking for feedback on my CRUD actions in controller.rb".
+See [the wiki](../../wiki/Groups) for your weekly groups.
 
 ## Weekly Cadence
 
@@ -55,13 +53,15 @@ Please also give some context for what you'd like feedback on ; e.g. "Is there a
 - Engineering Empathy: Tuesdays at 3:30pm
   - Week One
     - Monday - Sexism Awareness
-    - Tuesday - Sexism in Tech & Micro Agressions
+    - Tuesday - Sexism in Tech &amp; Micro Agressions
   - Week Two
-    - TBD - Difficult Conversations
+    - Tuesday - Crucial Conversations
+  - Week Three
+    - Friday - Teams and Temperaments
 - Careers Checkin: Week 3, thursday at 1:15pm
-- Assessment: Third Wednesday starting at 8:15am
-  - "The Challenge" - 8:15am - 4:45pm (break for lunch from 11:30 - 1:00)
-  - "Code Review" - 30 minute blocks starting Thursday at 8:15am
+- Assessment: Third Wednesday starting in the morning
+  - "The Challenge" - All day (break for lunch, as usual)
+  - "Code Review" - 30 minute blocks starting Thursday morning
 
 ## Daily Cadence
 
@@ -79,8 +79,6 @@ Time    | Activity
 
 ## Additional Resources
 
-- [How to Submit a Challenge](resources/how-to-submit.md)
-- [Self Assessments](self-assessments/)
 - [Resource Links](resources/)
 - [Mentoring Signup](http://mentoring.devbootcamp.com/)
 - [Counseling Signup](https://calendar.google.com/calendar/selfsched?sstoken=UU8yRmkwNldCa09LfGRlZmF1bHR8Y2Y3NmM2YTM4ZDM2NmVlMTZkNDVhZWU2M2NkMGZlYTI)

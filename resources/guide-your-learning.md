@@ -1,12 +1,12 @@
 
 
-##WHAT TO DO AT 6PM 
+##WHAT TO DO AT 6PM
 
-###1) **STOP**  
+###1) **STOP**
 Spend the next 15 minutes (until 6:15) reflecting on the day:
 - Share with your pair how the day was for you, emotionall, physically or mentally.
-- Review the [challenge list](https://github.com/fiery-skippers-2014/phase-1-guide/tree/master/week-1) and remind yourself of the challenges and the learning competencies.  
-- Share some "aha!" moments with your pair and take notes of them (making quick notes of them is important!).  
+- Review the [challenge list](../../../../phase-1-guide/tree/master/week-1/README.md) and remind yourself of the challenges and the learning competencies.
+- Share some "aha!" moments with your pair and take notes of them (making quick notes of them is important!).
 
 ###2) Ask Yourself Some Reflection Questions
 Spend another 5 minutes expoloring these questions to help decide next steps:
@@ -28,10 +28,10 @@ Additional ways to distill your knowledge:
 - Write down your insights and learning, whether in a blog or in a personal journal.  Writing is an amazing way to reflect and distill knowledge.
 
 
-###4) Late Night Reflection 
-- Before you go to sleep, ask yourself: Did you assess yourself accurately?  Was your evening time spent wisely?  How could you have made your time more effective?
+###4) Late Night Reflection
+- Before you go to sleep, ask yourself: Was your evening time spent wisely?  How could you have made your time more effective? In what areas do you feel confident? In what areas do you feel weak?
 
-The skill of accurate self assessment is hugely important at DBC to ensure you are staying in your optimal learning zone.  This skill is absolutely mandatory to effectively work on a team, do contract work, or work on any sizeable software problem.
+Self reflection is hugely important at DBC to ensure you are staying in your optimal learning zone.  This skill is absolutely mandatory to effectively work on a team, do contract work, or work on any sizeable software problem.
 
 
 *  **Remember:** Know when to push past your limits and when to take care of yourself.  DBC is a marathon, not a sprint.  Eat good food, get good rest, take breaks, and hold your bar high!
