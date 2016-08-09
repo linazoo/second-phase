@@ -1,8 +1,6 @@
 ## Thursday
 ### Beautiful & Meaningful - Day 1/2
 
-## Careers Talk after 1pm standup
-
 ### Core
 
 **Challenges**
