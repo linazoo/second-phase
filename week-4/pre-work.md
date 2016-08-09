@@ -8,6 +8,9 @@
   - [If you think women in tech is just a pipeline problem, you haven’t been paying attention](https://medium.com/@racheltho/if-you-think-women-in-tech-is-just-a-pipeline-problem-you-haven-t-been-paying-attention-cb7a2073b996)
   - [Stop Acting So Surprised: How Microaggressions Enforce Stereotypes in Tech](https://modelviewculture.com/pieces/stop-acting-so-surprised-how-microaggressions-enforce-stereotypes-in-tech)
 * [ActiveRecord: Design Your Own Challenge](../../../../activerecord-design-your-own-challenge)
+* Resource: Getting Postgres installed on your computer
+    * [OS X](../resources/installing-postgres-mac.md)
+    * [Ubuntu](../resources/installing-postgres-ubuntu.md)
 
 Welcome to Phase 2!
 
