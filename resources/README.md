@@ -26,7 +26,6 @@
 1. [Deploying Sinatra Apps to Heroku](http://cloud.dzone.com/articles/deploying-sinatra-app-heroku-0),:level_2, :tutorial
 1. [Creating the basic User model: a strollthrough](https://github.com/labe/sinatra_user_accounts)
 1. [ERB](http://ruby-doc.org/stdlib-1.9.3/libdoc/erb/rdoc/ERB.html), :level_1, :documentation
-1. [request/response cycle](http://devhub.fm/http-requestresponse-basics/), :level_1, :tutorial
 1. [URI](https://en.wikipedia.org/wiki/URI_scheme#Examples), :level_1, :tutorial
 1. [bcrypt](http://bcrypt-ruby.rubyforge.org/) , :level_2, :documentation
 1. [Socket](http://www.ruby-doc.org/stdlib-2.0.0/libdoc/socket/rdoc/Socket.html), :level_2
@@ -40,7 +39,7 @@
 
 #### Environment
 1. [Environment Variables in Ruby](http://ruby.about.com/od/rubyfeatures/a/envvar.htm), :level_2, :tutorial
-1. [$LOAD_PATH](http://selfless-singleton.rickwinfrey.com/2012/12/20/-rubys-load-path/), :documentation, :level_2
+1. [$LOAD_PATH](http://rickwinfrey.com/apprenticeship/2012/12/20/-rubys-load-path.html), :documentation, :level_2
 1. [Gemfiles](http://bundler.io/v1.3/gemfile.html) , :level_1
 1. [Managing Secret Data in Open Source Projects](https://gist.github.com/ndelage/7026164)
 1. [Open a gem in a browser](http://blog.thejls.com/post/19789574673/opening-a-gem-source-with-sublime-text-2)
@@ -81,7 +80,7 @@
 1. [A Beginners Guide to HTML and CSS](http://learn.shayhowe.com/), :level_1, :tutorial
 1. [An Advanced Guide to HTML and CSS](http://learn.shayhowe.com/),:level_2, :tutorial
 1. [semantic markup](http://www.webstyleguide.com/wsg3/5-site-structure/2-semantic-markup.html), :level_1
-1. [CSS Tricks]([pseudo-selectors](http://css-tricks.com), :level_2, :tutorial
+1. [CSS Tricks](https://css-tricks.com/pseudo-class-selectors), :level_2, :tutorial
 1. [CSS3 transitions](http://code.tutsplus.com/tutorials/css-fundamentals-css3-transitions--pre-10922), :level_2, :tutorial
 1. [List of CSS Resources](https://gist.github.com/jenmyers/a6bb9ea6233c6c5a9edb)
 
@@ -98,9 +97,9 @@
 1. [MDN Javascript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) - in particular: 'Working With Objects'
 1. [MDN JavaScript Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 1. Team Treehouses: [Javascript Foundations](http://teamtreehouse.com/library/websites/javascript-foundations)
-1. Understanding [this](http://trephine.org/t/index.php?title=Understanding_JavaScript%27s_this_keyword) and [call and apply](http://trephine.org/t/index.php?title=JavaScript_call_and_apply)
+1. Understanding [this](http://jimbojw.com/t/index.php?title=Understanding_JavaScript%27s_this_keyword) and [call and apply](http://jimbojw.com/t/index.php?title=JavaScript_call_and_apply)
 1. Justin Searls video : [javascript testing tactics](https://speakerdeck.com/searls/javascript-testing-tactics)
-1. [exercism.io JavaScript](http://help.exercism.io/getting-started-with-javascript.html),:level_2, :tutorial
+1. [exercism.io JavaScript](http://exercism.io/languages/javascript),:level_2, :tutorial
 1. [Javascript Cheat Sheet](http://wps.aw.com/wps/media/objects/2234/2287950/javascript_refererence.pdf)
 1. [Good Habits](http://appendto.com/2010/10/how-good-c-habits-can-encourage-bad-javascript-habits-part-1/), :level_2?, from Matt
 1. [Maurice's Function invocation guide](overview-of-function-invocation.pdf)
