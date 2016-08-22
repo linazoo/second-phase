@@ -55,7 +55,7 @@ Content is between the opening and closing tags.
 ### Element
 
 All of this together creates an *element*. The letters that follow the &lt; in the *opening tag* (and between the &lt;/ and &gt; in the *closing tag*) tell us what *kind* of element it is.
- 
+
 ![Element](./el-full.png)
 
 
@@ -100,21 +100,21 @@ Take this html:
 ```html
 <div>A cupcake story.</div>
 <div>My favorite cupcakes are from Sugar Sweet Sunshine in New York City.  Their pistachio cupcake is a mint-colored goddess bringing heavenly, dreamy deliciousness to your mouth.</div>
-<div>&copy; @rmw</div> 
+<div>&copy; @rmw</div>
 ```
 
 We are only using `div` elements for this.  This doesn't tell us the relative importance of the different blocks of text or the structure of this document.  Is this html the whole body? Is it a snippet on the side of the page? We can't tell.
 
 Web browsers and search engines create an *outline* of the HTML document using the tags.  This HTML is like someone speaking in monotone the whole time.  It's awkward and annoying and if it goes on and on, you will be driven insane. For realz.
 
-#### The true best cupcake story evar 
+#### The true best cupcake story evar
 
 Let's refactor that crap HTML into:
 
 ```html
 <h1>A cupcake story.</h1>
 <p>My favorite cupcakes are from Sugar Sweet Sunshine in New York City.  Their pistachio cupcake is a <strong>mint-colored goddess</strong> bringing <em>heavenly, dreamy deliciousness to your mouth</em>.</p>
-<small>&copy; @rmw</small> 
+<small>&copy; @rmw</small>
 ```
 
 Ahhh. Doesn't it sound so nice now? The excitement of the header! The shout of "mint-colored goddess" and the smooth baratone of "heavenly, dreamy deliciousness."
@@ -135,9 +135,9 @@ HTML5 introduced a number of new tags and apis.
 
 ### Semantic tags
 
-The semantic tags of HTML5 are some of the most important developments as they give clearer *structure* to a page.  
+The semantic tags of HTML5 are some of the most important developments as they give clearer *structure* to a page.
 
-In fact, browsers consider HTML5 semantic tags before standard tags when creating the HTML document outline.  In other words, the `header` tag is more important than `h1`.  
+In fact, browsers consider HTML5 semantic tags before standard tags when creating the HTML document outline.  In other words, the `header` tag is more important than `h1`.
 
 Historically, the best practice (and sometimes browser enforced practice) was to only ever have a single `h1` on a page. With HTML5 semantic tags, each section can have its own `h1`.
 
@@ -153,7 +153,7 @@ Let's take the HTML from [The best cupcake story ever](#the-true-best-cupcake-st
   </p>
 </section>
 <footer>
-	<small>&copy; @rmw</small> 
+	<small>&copy; @rmw</small>
 </footer>
 ```
 
