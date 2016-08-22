@@ -105,7 +105,9 @@ Take this html:
 
 We are only using `div` elements for this.  This doesn't tell us the relative importance of the different blocks of text or the structure of this document.  Is this html the whole body? Is it a snippet on the side of the page? We can't tell.
 
-Web browsers and search engines create an *outline* of the HTML document using the tags.  This HTML is like someone speaking in monotone the whole time.  It's awkward and annoying and if it goes on and on, you will be driven insane. For realz.
+Web browsers and search engines create an *outline* of the HTML document using
+the tags.  This HTML is like someone speaking in monotone the whole time.  It's
+awkward and annoying.
 
 #### The true best cupcake story evar 
 

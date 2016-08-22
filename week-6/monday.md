@@ -6,7 +6,7 @@
 
 - [Orange Trees](../../../../oojs-orange-tree-challenge)
 - [OOJS Bikes & Stations](../../../../oojs-bikes-and-stations-challenge)
-- [JS Racer 3](../../../../javascript-racer-3-sane-javascript-challenge)
+- [JS Racer 3](../../../../javascript-racer-3-oojs-style-challenge)
 - [OO JS Etsy](../../../../oo-js-etsy-challenge)
 
 **Prep for Tomorrow**
