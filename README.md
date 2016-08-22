@@ -45,20 +45,16 @@
 
 ## Weekly Groups
 
-See [the wiki](../../wiki/Groups) for your weekly groups.
+<- FILL IN DETAILS HERE ->
 
 ## Weekly Cadence
 
-- Yoga: mandatory once per week, classes available 11:45am - 12:30pm Tuesday through Thursday
-- Engineering Empathy: Tuesdays at 3:30pm
-  - Week One
-    - Monday - Sexism Awareness
-    - Tuesday - Sexism in Tech &amp; Micro Agressions
-  - Week Two
-    - Tuesday - Crucial Conversations
-  - Week Three
-    - Friday - Teams and Temperaments
-- Careers Checkin: Week 3, thursday at 1:15pm
+- Yoga: <- FILL IN DETAILS HERE ->
+- Engineering Empathy: Tuesdays at <- FILL IN DETAILS HERE ->
+  - Week One <- FILL IN DETAILS HERE ->
+  - Week Two <- FILL IN DETAILS HERE ->
+  - Week Three <- FILL IN DETAILS HERE ->
+- Careers Checkin: <- FILL IN DETAILS HERE ->
 - Assessment: Third Wednesday starting in the morning
   - "The Challenge" - All day (break for lunch, as usual)
   - "Code Review" - 30 minute blocks starting Thursday morning
@@ -67,18 +63,18 @@ See [the wiki](../../wiki/Groups) for your weekly groups.
 
 Time    | Activity
 ---     | ---
-7:45am  | Check in with accountability buddies
-8:00am  | Morning Announcements
-8:05am  | Daily Progress Checkin
-8:25am  | Challenges/Breakouts
-11:30am | Lunch
-1:00pm  | Afternoon Announcements
-1:05pm  | Challenges/Breakouts
-5:00pm  | End of core hours
-5:00pm  | After hours learning/mentoring/solo time
+<- FILL IN DETAILS HERE -> | Check in with accountability buddies
+<- FILL IN DETAILS HERE -> | Morning Announcements
+<- FILL IN DETAILS HERE -> | Daily Progress Checkin
+<- FILL IN DETAILS HERE -> | Challenges/Breakouts
+<- FILL IN DETAILS HERE -> | Lunch
+<- FILL IN DETAILS HERE -> | Afternoon Announcements
+<- FILL IN DETAILS HERE -> | Challenges/Breakouts
+<- FILL IN DETAILS HERE -> | End of core hours
+<- FILL IN DETAILS HERE -> | After hours learning/mentoring/solo time
 
 ## Additional Resources
 
 - [Resource Links](resources/)
 - [Mentoring Signup](http://mentoring.devbootcamp.com/)
-- [Counseling Signup](https://calendar.google.com/calendar/selfsched?sstoken=UU8yRmkwNldCa09LfGRlZmF1bHR8Y2Y3NmM2YTM4ZDM2NmVlMTZkNDVhZWU2M2NkMGZlYTI)
+- Counseling Signup <- FILL IN DETAILS HERE ->
