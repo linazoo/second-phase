@@ -49,7 +49,7 @@
 
 **jQuery / JavaScript**
 
-- [Talk - jQuery Basics (Mike)](https://talks.devbootcamp.com/2015-chicago-squirrels-jquery-basics)
+- [Talk - jQuery Basics (Mike)](https://talks.devbootcamp.com/2015-chicago-squirrels-aeu-a-jquery-basics)
 - [Talk - Intro to jQuery (Jared)](https://talks.devbootcamp.com/intro-into-jquery)
 - [jQuery Docs](https://jquery.com/)
 - [Basic OOJS Notes](https://gist.github.com/alycit/e6f5f20ced9b42a64f5a)
