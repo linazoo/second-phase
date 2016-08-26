@@ -4,7 +4,8 @@
 
 **Challenges**
 
-- Complete [Self-Assessment Challenge](../../../../crud-and-rest-checkpoint-challenge) in 3 hours (maximum!). When you've completed the challenge, submit a pull request and tag your advisor.
+- Complete [Self-Assessment - Challenge](../../../../crud-and-rest-checkpoint-challenge) in 3 hours
+(maximum!). When you've completed the challenge, submit a pull request.
 
 **Prep for Monday**
 
