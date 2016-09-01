@@ -12,7 +12,7 @@
 
 **Prep for Tomorrow**
 
-* Read about [REST](https://gist.github.com/case-eee/72715407554996828e0c)
+* Read about [REST](../resources/case-eee_72715407554996828e0c.md)
 * [CRUD with Sinatra and RESTful routing](https://talks.devbootcamp.com/crud-with-sinatra-and-restful-routing)
 * [CRUD with Sinatra and RESTful routing - Live Coding](https://talks.devbootcamp.com/crud-with-sinatra-and-restful-routing-live-coding)
 

@@ -41,7 +41,7 @@
 1. [Environment Variables in Ruby](http://ruby.about.com/od/rubyfeatures/a/envvar.htm), :level_2, :tutorial
 1. [$LOAD_PATH](http://rickwinfrey.com/apprenticeship/2012/12/20/-rubys-load-path.html), :documentation, :level_2
 1. [Gemfiles](http://bundler.io/v1.3/gemfile.html) , :level_1
-1. [Managing Secret Data in Open Source Projects](https://gist.github.com/ndelage/7026164)
+1. [Managing Secret Data in Open Source Projects](./resources/ndelage_7026164.md)
 1. [Open a gem in a browser](http://blog.thejls.com/post/19789574673/opening-a-gem-source-with-sublime-text-2)
 
 #### Heroku
@@ -54,7 +54,7 @@
 
 ### Testing
 
-1. [Zee TDDs Conways Game of Life](https://gist.github.com/zspencer/6924352)
+1. [Zee TDDs Conways Game of Life](./resources/zspencer_6924352.rb)
 1. [Testing with Rspec](http://net.tutsplus.com/tutorials/ruby/ruby-for-newbies-testing-with-rspec/),:level_1, :tutorial
 1. [RSpec Assertions: expect](http://betterspecs.org/#expect), :blog, :level_1
 1. [RSpec Expect](http://myronmars.to/n/dev-blog/2012/06/rspecs-new-expectation-syntax), :documentation, :level_1
@@ -82,7 +82,7 @@
 1. [semantic markup](http://www.webstyleguide.com/wsg3/5-site-structure/2-semantic-markup.html), :level_1
 1. [CSS Tricks](https://css-tricks.com/pseudo-class-selectors), :level_2, :tutorial
 1. [CSS3 transitions](http://code.tutsplus.com/tutorials/css-fundamentals-css3-transitions--pre-10922), :level_2, :tutorial
-1. [List of CSS Resources](https://gist.github.com/jenmyers/a6bb9ea6233c6c5a9edb)
+1. [List of CSS Resources](./resources/jenmyers_a6bb9ea6233c6c5a9edb.md)
 
 ### Git
 * [The Git Parable](http://tom.preston-werner.com/2009/05/19/the-git-parable.html)

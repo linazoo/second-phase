@@ -12,7 +12,7 @@
 
 ### Additional Resources
 
-- [Git Workflow for Teams](https://gist.github.com/mikelikesbikes/ccbf4c7fd90e647138c6)
+- [Git Workflow for Teams](../resources/mikelikesbikes_ccbf4c7fd90e647138c6.md)
 - [Git: Merging vs. Rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing/conceptual-overview)
 - [Git Resources](http://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
 - [Manifesto for Agile Practices](http://agilemanifesto.org/)

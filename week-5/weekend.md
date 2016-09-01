@@ -7,7 +7,7 @@
 
 We haven't talked about OOJS yet, but it's an important concept to start wrapping your head around.
 
-- Read [Intro to OOJS](https://gist.github.com/alycit/e6f5f20ced9b42a64f5a)
+- Read [Intro to OOJS](../resources/alycit_e6f5f20ced9b42a64f5a.md)
 - [Live Code - OOJS - Kevin](https://talks.devbootcamp.com/oojs-zoo-example)
 - [OOJS with Gardens](../../../../oojs-garden-challenge)
 - Complete the "Objects and Classes" section of [this challenge](../../../../javascript-from-ruby-challenge)

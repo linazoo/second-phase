@@ -44,7 +44,7 @@
 - [CSS Positioning](http://alistapart.com/article/css-positioning-101)
 - [Typesetting a Short Article with CSS](https://medium.com/designed-thought/99033116fe92)
 - [Pesticide](http://pesticide.io/) A stylesheet and Chrome extension to help with CSS debugging
-- [HTML & CSS Resources](https://gist.github.com/jenmyers/a6bb9ea6233c6c5a9edb)
+- [HTML & CSS Resources](../resources/jenmyers_a6bb9ea6233c6c5a9edb.md)
 - [Advanced CSS Talk](https://talks.devbootcamp.com/advanced-css-the-brain-bake)
 
 **jQuery / JavaScript**
@@ -52,7 +52,7 @@
 - [Talk - jQuery Basics (Mike)](https://talks.devbootcamp.com/2015-chicago-squirrels-aeu-a-jquery-basics)
 - [Talk - Intro to jQuery (Jared)](https://talks.devbootcamp.com/intro-into-jquery)
 - [jQuery Docs](https://jquery.com/)
-- [Basic OOJS Notes](https://gist.github.com/alycit/e6f5f20ced9b42a64f5a)
+- [Basic OOJS Notes](../resources/alycit_e6f5f20ced9b42a64f5a.md)
 - [JavaScript Scoping and "This"](https://talks.devbootcamp.com/javascript-scoping-and-this)
 
 
