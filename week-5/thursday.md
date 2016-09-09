@@ -1,5 +1,5 @@
 ## Thursday
-### Group Project - 2/2
+### Group Project - 1/2
 
 ### Core
 
@@ -7,7 +7,5 @@
 
 - [DBC Overflow](../../../../sinatra-overflow-challenge)
 
-**Presentations Tomorrow**
-
-You will present your DBC Overflow project tomorrow afternoon.
+You will present your DBC Overflow project Monday morning
 

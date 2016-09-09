@@ -40,8 +40,15 @@
   },
   "week-5": {
     "monday": [
+      "javascript-roman-numerals-challenge",
+      "javascript-todos-1-0-core-features-challenge",
+      "oojs-bikes-and-stations-challenge",
+      "oojs-orange-tree-challenge"
+    ],
+    "tuesday": [
       "behavior-drill-style-editor-challenge",
       "behavior-drill-tabbed-interface-challenge",
+      "behavior-drill-add-comments-challenge",
       "cheering-mascot-sinatra-2-asynchronous-forms-challenge",
       "layout-drill-basic-form-styling-challenge",
       "layout-drill-left-hand-navigation-challenge",
@@ -50,34 +57,25 @@
       "behavior-drill-collapsible-side-menu-challenge",
       "behavior-drill-form-validation-challenge"
     ],
-    "tuesday": [
-      "behavior-drill-add-comments-challenge",
-      "lucky-ajax-challenge",
-      "ajaxifying-hacker-news-challenge",
-      "sinatra-json-challenge",
-      "ajax-review-challenge"
-    ],
     "wednesday": [
-      "sinatra-overflow-challenge"
+      "lucky-ajax-challenge",
+      "sinatra-json-challenge"
     ],
     "thursday": [
-
+      "sinatra-overflow-challenge"
     ],
     "friday": [
-      "ajax-checkpoint-challenge",
-      "javascript-racer-1-front-end-challenge",
-      "javascript-racer-2-back-end-challenge"
+
     ],
     "weekend": [
-      "oojs-garden-challenge"
+      "ajax-checkpoint-challenge"
     ]
   },
   "week-6": {
     "monday": [
-      "oojs-orange-tree-challenge",
-      "oojs-bikes-and-stations-challenge",
+      "javascript-racer-1-front-end-challenge",
+      "javascript-racer-2-back-end-challenge",
       "javascript-racer-3-oojs-style-challenge",
-      "oo-js-etsy-challenge",
       "hr-sinatra-refactor-challenge"
     ],
     "tuesday": [
@@ -87,9 +85,10 @@
       "ph2-p5-active-record-and-sinatra-propagating-validations-challenge",
       "ar-teams-and-leagues-challenge",
       "active-record-associations-drill-shirts-challenge",
+      "ajaxifying-hacker-news-challenge",
+      "ajax-review-challenge",
       "tic-tac-toe-challenge",
-      "javascript-roman-numerals-challenge",
-      "javascript-todos-1-0-core-features-challenge"
+      "oojs-garden-challenge"
     ],
     "wednesday": [
 

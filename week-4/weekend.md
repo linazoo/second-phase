@@ -9,10 +9,28 @@
 
 **Prep for Monday**
 
-Complete Code School's [Try jQuery](https://www.codeschool.com/courses/try-jquery)
-Read [JavaScript Intro](../readings/javascript-intro.md).
+- Read [JavaScript Intro](../readings/javascript-intro.md).
+- Complete the challenge drills in [From Ruby to JavaScript](../../../../javascript-from-ruby-challenge). Make sure you read the material in addition to completing the challenges, and pay extra close attention to the drills on Functions, Collections, and Objects and Classes
+- Read [Intro to OOJS](../resources/alycit_e6f5f20ced9b42a64f5a.md)
+- Watch [Live Code - OOJS - Kevin](https://talks.devbootcamp.com/oojs-zoo-example)
 
-**Stretch**
-Work through the drills and read the material in [From Ruby to JavaScript](../../../../javascript-from-ruby-challenge). Complete all the drills. Pay extra close attention to the drills on Functions, Collections, and Objects and Classes.
+### Additional Resources
+
+**OOJS**
+
+- [Intro to OOJS - Torey](https://talks.devbootcamp.com/oojs-for-coyotes)
+- [OOJS Refactor of JS Racer - Alyssa](https://talks.devbootcamp.com/mvc-oojs-racer-live-code)
+
+**Object Literals and Constructor Functions**
+
+- [Difference between Object Literals and Constructor Functions](http://blog.kevinchisholm.com/javascript/difference-between-object-literal-and-instance-object/)
+- [Object Literals vs Constructor Functions](http://stackoverflow.com/questions/4859800/should-i-be-using-object-literals-or-constructor-functions)
+- [OOJS Basics](http://code.tutsplus.com/tutorials/the-basics-of-object-oriented-javascript--net-7670)
+
+**Prototype in JavaScript**
+
+- [JavaScript's Prototype](http://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/)
+- [Understanding Prototypes](https://javascriptweblog.wordpress.com/2010/06/07/understanding-javascript-prototypes/)
+
 
 

@@ -1,17 +1,12 @@
 ## Friday
-### Self Assessment & JavaScript Racer
+### Group Project - 2/2
 
 ### Core
 
-You will present your DBC Overflow projects today.
+**Group Project**
 
-**Self Assessment**
+- [DBC Overflow](../../../../sinatra-overflow-challenge)
 
-- [Sinatra AJAX Self-Assessment](../../../../ajax-checkpoint-challenge)
+**Presentations Monday**
 
-**Challenges**
-
-- [JavaScript Racer 1: Front-end](../../../../javascript-racer-1-front-end-challenge)
-- [JavaScript Racer 2: Back-end](../../../../javascript-racer-2-back-end-challenge)
-
-
+You will present your DBC Overflow project Monday morning.

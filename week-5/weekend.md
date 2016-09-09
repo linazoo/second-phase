@@ -1,16 +1,18 @@
 ## Weekend
 
-### Review
+### Core
 
+**Challenges**
+
+- Complete [Sinatra AJAX Self-Assessment](../../../../ajax-checkpoint-challenge) in 2 hours
+(maximum!). When you've completed the challenge, submit a pull request.
+
+### Review
 
 **Challenges - OOJS** (Object Oriented JavaScript)
 
-We haven't talked about OOJS yet, but it's an important concept to start wrapping your head around.
-
 - Read [Intro to OOJS](../resources/alycit_e6f5f20ced9b42a64f5a.md)
 - [Live Code - OOJS - Kevin](https://talks.devbootcamp.com/oojs-zoo-example)
-- [OOJS with Gardens](../../../../oojs-garden-challenge)
-- Complete the "Objects and Classes" section of [this challenge](../../../../javascript-from-ruby-challenge)
 
 **Challenges - AJAX**
 
@@ -33,6 +35,8 @@ If you need more practice with AR Associations, complete the shirts challenge. I
 - [Shirts](../../../../active-record-associations-drill-shirts-challenge)
 
 ### Stretch
+
+**Challenges**
 
 If you're feeling great about all the concepts we've covered so far (I know there's been a lot), feel free to dive deeper into and build the following!
 
