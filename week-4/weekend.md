@@ -6,6 +6,7 @@
 
 - Complete [Self-Assessment - Challenge](../../../../crud-and-rest-checkpoint-challenge) in 3 hours
 (maximum!). When you've completed the challenge, submit a pull request.
+- [Explore the DOM with JavaScript](../../../../the-dom-challenge)
 
 **Prep for Monday**
 
