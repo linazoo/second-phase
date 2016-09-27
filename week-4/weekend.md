@@ -6,12 +6,12 @@
 
 - Complete [Self-Assessment - Challenge](../../../../crud-and-rest-checkpoint-challenge) in 3 hours
 (maximum!). When you've completed the challenge, submit a pull request.
-- [Explore the DOM with JavaScript](../../../../the-dom-challenge)
 
 **Prep for Monday**
 
 - Read [JavaScript Intro](../readings/javascript-intro.md).
 - Complete the challenge drills in [From Ruby to JavaScript](../../../../javascript-from-ruby-challenge). Make sure you read the material in addition to completing the challenges, and pay extra close attention to the drills on Functions, Collections, and Objects and Classes
+- [Explore the DOM with JavaScript](../../../../the-dom-challenge)
 - Read [Intro to OOJS](../resources/alycit_e6f5f20ced9b42a64f5a.md)
 - Watch [Live Code - OOJS - Kevin](https://talks.devbootcamp.com/oojs-zoo-example)
 
