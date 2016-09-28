@@ -31,7 +31,8 @@
     ],
     "weekend": [
       "crud-and-rest-checkpoint-challenge",
-      "javascript-from-ruby-challenge"
+      "javascript-from-ruby-challenge",
+      "the-dom-challenge"
     ],
     "pre-work": [
       "snitching-on-sinatra-challenge",
