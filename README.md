@@ -45,7 +45,7 @@
 
 ## Weekly Groups
 
-<- FILL IN DETAILS HERE ->
+Find your weekly groups [here](./resources/groups.md).
 
 ## Weekly Cadence
 
