@@ -21,6 +21,7 @@
 **Prep for Tomorrow**
 
 - [Talk - AJAX Intro (Mike)](https://talks.devbootcamp.com/dragonflies-2014-aeu-intro-to-ajax)
+- Complete **Part 3** and **Part 4** of Code School's [Try jQuery](https://www.codeschool.com/courses/try-jquery)
 
 ### Stretch
 
@@ -34,6 +35,7 @@
 
 **HTML / CSS**
 
+- [jQuery Documentation](https://jquery.com/)
 - [MDN position](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
 - [MDN display](https://developer.mozilla.org/en-US/docs/Web/CSS/display)
 - [MDN float](https://developer.mozilla.org/en-US/docs/Web/CSS/float)

@@ -7,18 +7,16 @@
 
 - [JavaScript Roman Numerals](../../../../javascript-roman-numerals-challenge)
 - [JavaScript Todos](../../../../javascript-todos-1-0-core-features-challenge)
-- [OOJS Bikes & Stations](../../../../oojs-bikes-and-stations-challenge)
 - [Orange Trees](../../../../oojs-orange-tree-challenge)
+- [OOJS Bikes & Stations](../../../../oojs-bikes-and-stations-challenge)
 
 **Prep for Tomorrow**
 
 **jQuery / JavaScript**
 
-- Complete Code School's [Try jQuery](https://www.codeschool.com/courses/try-jquery)
 - Read [this](http://www.smashingmagazine.com/2014/05/29/mystery-jquery-object-syntax-basic-introduction/) for some jQuery prep.
 - [Talk - jQuery Basics (Mike)](https://talks.devbootcamp.com/2015-chicago-squirrels-aeu-a-jquery-basics)
-- [Talk - Intro to jQuery (Jared)](https://talks.devbootcamp.com/intro-into-jquery)
-- [jQuery Documentation](https://jquery.com/)
+- Complete **Part 1** and **Part 2** of Code School's [Try jQuery](https://www.codeschool.com/courses/try-jquery)
 
 ### Stretch
 
