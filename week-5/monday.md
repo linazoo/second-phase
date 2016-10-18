@@ -17,7 +17,6 @@
 - Complete Code School's [Try jQuery](https://www.codeschool.com/courses/try-jquery)
 - Read [this](http://www.smashingmagazine.com/2014/05/29/mystery-jquery-object-syntax-basic-introduction/) for some jQuery prep.
 - [Talk - jQuery Basics (Mike)](https://talks.devbootcamp.com/2015-chicago-squirrels-aeu-a-jquery-basics)
-- [Talk - Intro to jQuery (Jared)](https://talks.devbootcamp.com/intro-into-jquery)
 - [jQuery Documentation](https://jquery.com/)
 
 ### Stretch
