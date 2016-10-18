@@ -21,6 +21,7 @@
 **Prep for Tomorrow**
 
 - [Talk - AJAX Intro (Mike)](https://talks.devbootcamp.com/dragonflies-2014-aeu-intro-to-ajax)
+- Complete **Part 3** and **Part 4** of Code School's [Try jQuery](https://www.codeschool.com/courses/try-jquery)
 
 ### Stretch
 
