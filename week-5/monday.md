@@ -7,8 +7,8 @@
 
 - [JavaScript Roman Numerals](../../../../javascript-roman-numerals-challenge)
 - [JavaScript Todos](../../../../javascript-todos-1-0-core-features-challenge)
-- [OOJS Bikes & Stations](../../../../oojs-bikes-and-stations-challenge)
 - [Orange Trees](../../../../oojs-orange-tree-challenge)
+- [OOJS Bikes & Stations](../../../../oojs-bikes-and-stations-challenge)
 
 **Prep for Tomorrow**
 
