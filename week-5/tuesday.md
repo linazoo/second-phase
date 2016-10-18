@@ -34,6 +34,7 @@
 
 **HTML / CSS**
 
+- [jQuery Documentation](https://jquery.com/)
 - [MDN position](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
 - [MDN display](https://developer.mozilla.org/en-US/docs/Web/CSS/display)
 - [MDN float](https://developer.mozilla.org/en-US/docs/Web/CSS/float)
