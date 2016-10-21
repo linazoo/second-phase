@@ -19,7 +19,7 @@ The ubuntu.com site above references this. Also see https://www.postgresql.org/d
 `\du` *should* present you with a list of users and roles. You should see yourself listed on there as a superuser
 
 ## Change/set your password
-If you're not already in postgres: `psql` to get int.
+If you're not already in postgres: `psql` to get in.
 `ALTER USER username WITH ENCRYPTED PASSWORD 'new_password' VALID UNTIL 'expiration;'`
 "Expiration" could be either a specific date (formatted as `'Jan 1, 2015'`) or `'infinity'`.
 http://www.techonthenet.com/postgresql/change_password.php
