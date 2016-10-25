@@ -47,7 +47,7 @@ Complete the listed prep work above.
 
 We're going to cover introductions to HTTP and Sinatra, as well as touching on a harder ActiveRecord challenge. Sinatra is the web framework we'll be using throughout the phase. Read the tutorial and follow the examples -- you should create a small Sinatra app if you're actually following along. Don't _just_ read. Get your hands dirty.
 
-Please remember to read the two articles on sexism and microaggressions in tech this weekend (listed above). This Tuesday afternoon, we'll have an EE on microaggressions that will include pragmatic small group discussions around sexism in tech.
+Please remember to read the two articles on identity and microaggressions in tech this weekend (listed above). This Tuesday afternoon, we'll have an EE on allyship and microaggressions that will include pragmatic small group discussions on the subject.
 
 It's a beautiful weekend to code. And there's so much to learn! If you're not active on a Slack together, now's a great time to start sharing posts, cheat sheets, videos, or other resources that helped you understand something better. And if you've neglected to leave feedback for any of your pairs this past phase, you should hop on feedback.devbootcamp.com and make sure they get that actionable, specific, and kind gift.
 
