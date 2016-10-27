@@ -7,7 +7,7 @@
 
 - [At The Races](../../../../active-record-associations-drill-at-the-races-challenge)
 - [TCP Challenge](../../../../raw-tcp-challenge)
-- [HTTP Scavenger Hunt](http://dbcapps.com)
+- [HTTP Challenge](../../../../raw-http-challenge)
 - [Cheering Mascot](../../../../cheering-mascot-sinatra-1-synchronous-forms-challenge)
 - [Advanced Active Record](../../../../active-record-associations-drill-hotels-challenge)
 
@@ -18,7 +18,6 @@
 
 **Challenges**
 
-- [HTTP Challenge](../../../../raw-http-challenge)
 - [Github API Challenge](../../../../github-api-challenge)
 - Expand your HTTP Server (routes, POST, Cookies? whatever you desire)
 - [Recent Tweets at the Command Line](../../../../recent-tweets-command-line-challenge)
