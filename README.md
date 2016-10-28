@@ -59,6 +59,7 @@ Find your weekly groups [here](./resources/groups.md).
   - "The Challenge" - All day (break for lunch, as usual)
   - "Code Review" - 30 minute blocks starting Thursday morning
 
+
 ## Daily Cadence
 
 Time    | Activity
