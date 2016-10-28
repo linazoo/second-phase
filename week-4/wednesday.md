@@ -6,8 +6,8 @@
 
 **Challenges**
 
-- [More Advanced Hard Active Record](../../../../active-record-associations-drill-shirts-challenge)
 - [Rest Controller](../../../../rest-controller-karaoke-challenge)
+- [Datetime Challenge](../../../../sinatra-datetime-challenge)
 - [Craig's List Jr.](../../../../craigslist-jr-challenge)
 
 **Prep for Tomorrow**

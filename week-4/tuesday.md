@@ -6,9 +6,9 @@
 
 **Challenges**
 
+- [More Advanced Hard Active Record](../../../../active-record-associations-drill-shirts-challenge)
 - [Anagrams 1](../../../../anagram-server-1-the-basics-challenge)
 - [URL Shortener](../../../../sinatra-url-shortener-challenge)
-- [Anonymous Blog](../../../../blog-1-anonymous-blog-challenge)
 
 **Prep for Tomorrow**
 

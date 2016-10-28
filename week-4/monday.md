@@ -5,14 +5,12 @@
 
 **Challenges**
 
-- [At The Races](../../../../active-record-associations-drill-at-the-races-challenge)
 - [TCP Challenge](../../../../raw-tcp-challenge)
 - [HTTP Scavenger Hunt](http://dbcapps.com)
 - [Cheering Mascot](../../../../cheering-mascot-sinatra-1-synchronous-forms-challenge)
-- [Advanced Active Record](../../../../active-record-associations-drill-hotels-challenge)
+- [Anonymous Blog](../../../../blog-1-anonymous-blog-challenge)
 
 **Prep for Tomorrow**
-
 
 ### Stretch
 

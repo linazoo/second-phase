@@ -1,5 +1,4 @@
 active-record-associations-drill-at-the-races-challenge
-active-record-associations-drill-hotels-challenge
 active-record-associations-drill-shirts-challenge
 active-record-intro-validations-challenge
 activerecord-design-your-own-challenge
@@ -46,6 +45,7 @@ raw-http-challenge
 raw-tcp-challenge
 recent-tweets-command-line-challenge
 rest-controller-karaoke-challenge
+sinatra-datetime-challenge
 sinatra-json-challenge
 sinatra-overflow-challenge
 sinatra-sandbox-challenge

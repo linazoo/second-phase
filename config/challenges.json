@@ -1,10 +1,9 @@
 {
   "week-4": {
     "monday": [
-      "active-record-associations-drill-at-the-races-challenge",
       "raw-tcp-challenge",
       "cheering-mascot-sinatra-1-synchronous-forms-challenge",
-      "active-record-associations-drill-hotels-challenge",
+      "blog-1-anonymous-blog-challenge",
       "raw-http-challenge",
       "github-api-challenge",
       "recent-tweets-command-line-challenge",
@@ -12,13 +11,14 @@
       "sinatra-sandbox-challenge"
     ],
     "tuesday": [
+      "active-record-associations-drill-shirts-challenge",
       "anagram-server-1-the-basics-challenge",
       "sinatra-url-shortener-challenge",
-      "blog-1-anonymous-blog-challenge",
       "anagram-server-2-ludicrous-speed-challenge"
     ],
     "wednesday": [
       "rest-controller-karaoke-challenge",
+      "sinatra-datetime-challenge",
       "craigslist-jr-challenge"
     ],
     "thursday": [
@@ -85,7 +85,7 @@
       "active-record-intro-validations-challenge",
       "ph2-p5-active-record-and-sinatra-propagating-validations-challenge",
       "ar-teams-and-leagues-challenge",
-      "active-record-associations-drill-shirts-challenge",
+      "active-record-associations-drill-at-the-races-challenge",
       "ajaxifying-hacker-news-challenge",
       "ajax-review-challenge",
       "tic-tac-toe-challenge",
