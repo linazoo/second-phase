@@ -24,7 +24,8 @@
     "thursday": [
       "user-registration-and-authentication-challenge",
       "blog-2-multi-author-challenge",
-      "sinatra-url-shortener-with-users-challenge"
+      "sinatra-url-shortener-with-users-challenge",
+      "ar-teams-and-leagues-challenge"
     ],
     "friday": [
       "web-flashcards-challenge"
@@ -60,16 +61,25 @@
     ],
     "wednesday": [
       "lucky-ajax-challenge",
-      "sinatra-json-challenge"
+      "ajaxifying-hacker-news-challenge",
+      "sinatra-json-challenge",
+      "ajax-review-challenge"
     ],
     "thursday": [
       "sinatra-overflow-challenge"
     ],
     "friday": [
-
+      "sinatra-overflow-challenge"
     ],
     "weekend": [
-      "ajax-checkpoint-challenge"
+      "ajax-checkpoint-challenge",
+      "ajaxifying-hacker-news-challenge",
+      "ajax-review-challenge",
+      "hacker-news-clone-part-1-challenge",
+      "hacker-news-clone-part-2-challenge",
+      "active-record-associations-drill-shirts-challenge",
+      "tic-tac-toe-challenge",
+      "hr-sinatra-refactor-challenge"
     ]
   },
   "week-6": {
@@ -80,11 +90,13 @@
       "hr-sinatra-refactor-challenge"
     ],
     "tuesday": [
+      "hr-sinatra-refactor-challenge",
       "hacker-news-clone-part-1-challenge",
       "hacker-news-clone-part-2-challenge",
       "active-record-intro-validations-challenge",
       "ph2-p5-active-record-and-sinatra-propagating-validations-challenge",
       "ar-teams-and-leagues-challenge",
+      "active-record-associations-drill-shirts-challenge",
       "active-record-associations-drill-at-the-races-challenge",
       "ajaxifying-hacker-news-challenge",
       "ajax-review-challenge",
@@ -99,7 +111,7 @@
       "build-beautiful-meaningful-things-challenge"
     ],
     "friday": [
-
+      "build-beautiful-meaningful-things-challenge"
     ],
     "weekend": [
 
