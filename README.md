@@ -73,6 +73,7 @@ Time    | Activity
 <- FILL IN DETAILS HERE -> | End of core hours
 <- FILL IN DETAILS HERE -> | After hours learning/mentoring/solo time
 
+
 ## Additional Resources
 
 - [Resource Links](resources/)
