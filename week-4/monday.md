@@ -6,7 +6,7 @@
 **Challenges**
 
 - [TCP Challenge](../../../../raw-tcp-challenge)
-- [HTTP Scavenger Hunt](http://dbcapps.com)
+- [HTTP Scavenger Hunt](http://hsh.dbcapps.com/)
 - [Cheering Mascot](../../../../cheering-mascot-sinatra-1-synchronous-forms-challenge)
 - [Anonymous Blog](../../../../blog-1-anonymous-blog-challenge)
 
