@@ -8,6 +8,7 @@
 
 - [More Advanced Hard Active Record](../../../../active-record-associations-drill-shirts-challenge)
 - [Anagrams 1](../../../../anagram-server-1-the-basics-challenge)
+- _Early Afternoon_ EE: Team Dynamics
 - [URL Shortener](../../../../sinatra-url-shortener-challenge)
 
 **Prep for Tomorrow**
