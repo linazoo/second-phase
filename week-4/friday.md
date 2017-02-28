@@ -6,6 +6,7 @@
 **Challenges**
 
 - [Flashcards Group Project](../../../../web-flashcards-challenge)
+- _Early Afternoon_: EE: Empathetic Team
 
 **Prep for the Weekend**
 
