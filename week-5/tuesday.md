@@ -1,7 +1,6 @@
 ## Tuesday
 ### HTML, CSS, JavaScript, jQuery and a little bit of AJAX
 
-_Early Afternoon_: EE: Microaggressions
 
 ### Core
 

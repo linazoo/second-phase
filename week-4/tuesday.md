@@ -9,6 +9,7 @@
 - [More Advanced Hard Active Record](../../../../active-record-associations-drill-shirts-challenge)
 - [Anagrams 1](../../../../anagram-server-1-the-basics-challenge)
 - _Early Afternoon_ EE: Team Dynamics
+- _90 minutes before EOD_: EE: Microaggressions
 - [URL Shortener](../../../../sinatra-url-shortener-challenge)
 
 **Prep for Tomorrow**
