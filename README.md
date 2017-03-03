@@ -49,7 +49,6 @@ Find your weekly groups [here](./resources/groups.md).
 
 ## Weekly Cadence
 
-- Yoga: <- FILL IN DETAILS HERE ->
 - Engineering Empathy: Tuesdays at <- FILL IN DETAILS HERE ->
   - Week One <- FILL IN DETAILS HERE ->
   - Week Two <- FILL IN DETAILS HERE ->
