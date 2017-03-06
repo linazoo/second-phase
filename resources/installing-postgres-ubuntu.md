@@ -5,7 +5,7 @@ Problem solving on initial setup (Dev Bootcamp version)
 
 ## Install postgres (if you haven't already)
 First, if it's been a while, do this: `sudo apt-get update`to ensure that you get the latest version available. Assuming you want the latest version available.
-Then try `sudo apt-get install postgresql-contrib`
+Then try `sudo apt-get install postgresql postgresql-contrib`
 https://help.ubuntu.com/community/PostgreSQL
 https://www.postgresql.org/download/linux/ubuntu/
 
