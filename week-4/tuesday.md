@@ -1,6 +1,6 @@
 ## Tuesday
 
-_Last 90 Minutes of the Day_: EE: "Team Dynamics"
+_Last 90 Minutes of the Day_: EE: "Microaggressions Preparation"
 
 ### ActiveRecord & Sinatra
 
