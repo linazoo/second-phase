@@ -73,6 +73,7 @@
     ],
     "weekend": [
       "ajax-checkpoint-challenge",
+      "refactoring-javascript-challenge",
       "ajaxifying-hacker-news-challenge",
       "ajax-review-challenge",
       "hacker-news-clone-part-1-challenge",

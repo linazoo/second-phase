@@ -6,6 +6,8 @@
 
 - Complete [Sinatra AJAX Self-Assessment](../../../../ajax-checkpoint-challenge) in 2 hours
 (maximum!). When you've completed the challenge, submit a pull request.
+- Watch this talk on [Refactoring JavaScript](https://talks.devbootcamp.com/refactoring-javascript)
+- Complete this challenge on [Refactoring JavaScript](../../../../refactoring-javascript-challenge)
 
 ### Review
 
