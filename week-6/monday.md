@@ -1,5 +1,7 @@
 ## Monday
 
+_Careers Preparation: This week's topic is: **Organizing Your Job Search**_
+
 ### Core
 
 **Demonstration of Sinatra Overflow Applications**
