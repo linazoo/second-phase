@@ -1,4 +1,7 @@
 ## Monday
+
+_Careers Preparation: This week's topic is: **LinkedIn**_
+
 ### Introduction to HTTP
 
 ### Core
