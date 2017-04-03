@@ -6,6 +6,7 @@
 **Challenges**
 
 - [Flashcards Group Project](../../../../web-flashcards-challenge) 
+  
   This challenge will continue into the weekend depending on how much you were able to complete today.  Take time to set expectations with your team on how you will make time for this and your weekend [weekend work](./weekend.md).  You should be prepared to demo this application on Monday morning for your cohort.  
 
 **Prep for the Weekend**
