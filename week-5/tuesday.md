@@ -1,7 +1,7 @@
 ## Tuesday
 ### HTML, CSS, JavaScript, jQuery and a little bit of AJAX
 
-_Last 90 Minutes of the Day_ EE: Microaggressions and Diversity and Crucial Conversations (1.5 hours). _Be sure to have completed the pre-work before this session_.
+_Last 90 Minutes of the Day_ EE: Disrupting Bias and Microaggressions (1.5 hours). _Be sure to have completed the pre-work before this session_.
 
 ### Core
 
