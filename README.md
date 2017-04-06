@@ -78,3 +78,4 @@ Time    | Activity
 - [Resource Links](resources/)
 - [Mentoring Signup](http://mentoring.devbootcamp.com/)
 - Counseling Signup <- FILL IN DETAILS HERE ->
+
