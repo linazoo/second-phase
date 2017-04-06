@@ -10,7 +10,6 @@ _Careers Preparation: This week's topic is: **Organizing your Job Search**_
 
 - [JavaScript Roman Numerals](../../../../javascript-roman-numerals-challenge)
 - [OOJS with Gardens](../../../../oojs-garden-challenge)
-- [JavaScript Todos](../../../../javascript-todos-1-0-core-features-challenge)
 - [Orange Trees](../../../../oojs-orange-tree-challenge)
 
 **Prep for Tomorrow**
