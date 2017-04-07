@@ -44,7 +44,8 @@
     "monday": [
       "javascript-roman-numerals-challenge",
       "oojs-garden-challenge",
-      "oojs-orange-tree-challenge"
+      "oojs-orange-tree-challenge",
+      "active-record-associations-drill-hotels-challenge"
     ],
     "tuesday": [
       "behavior-drill-style-editor-challenge",
