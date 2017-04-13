@@ -1,8 +1,8 @@
 ## Wednesday
 
-### Core
+### Assessment
 
-**Assessment**
+### Core
 
 Assessment will begin promptly at the usual beginning of our school day. The
 assessment will be available [here](../../../../phase-2-assessment). You have
