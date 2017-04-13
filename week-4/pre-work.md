@@ -2,8 +2,8 @@
 
 * [Intro to HTTP Video](https://talks.devbootcamp.com/intro-to-http)
 * [HTTP: The Protocol Every Web Developer Must Know](http://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
-* [Intro to Sinatra Video](https://talks.devbootcamp.com/intro-to-sinatra-1)
-* [Tutorial: Snitching On Sinatra](../../../../snitching-on-sinatra-challenge) - Don't just read it, CODE ALONG THROUGH IT! It's the fastest way to truly learn this stuff.
+- [Intro to Sinatra Video](https://talks.devbootcamp.com/intro-to-sinatra-1)
+- [Tutorial: Snitching On Sinatra](../../../../snitching-on-sinatra-challenge) - Don't just read it, CODE ALONG THROUGH IT! It's the fastest way to truly learn this stuff.
 * EE Prep: Read & Reflect on following articles
   - [If you think women in tech is just a pipeline problem, you haven’t been paying attention](https://medium.com/@racheltho/if-you-think-women-in-tech-is-just-a-pipeline-problem-you-haven-t-been-paying-attention-cb7a2073b996)
   - [Stop Acting So Surprised: How Microaggressions Enforce Stereotypes in Tech](https://modelviewculture.com/pieces/stop-acting-so-surprised-how-microaggressions-enforce-stereotypes-in-tech)
