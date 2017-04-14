@@ -1,8 +1,8 @@
 ## Monday
 
-_Careers Preparation: This week's topic is: **Organizing your Job Search**_
-
 ### JavaScript Refresher
+
+_Careers Preparation: This week's topic is: **Organizing your Job Search**_
 
 ### Core
 
