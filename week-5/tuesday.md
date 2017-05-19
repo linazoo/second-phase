@@ -22,7 +22,7 @@ _Last 90 Minutes of the Day_ EE: Disrupting Bias and Microaggressions (1.5 hours
 
 **Prep for Tomorrow**
 
-- [Talk - AJAX Intro (Mike)](https://talks.devbootcamp.com/dragonflies-2014-aeu-intro-to-ajax)
+- [Talk - AJAX Intro (Mike)](https://talks.devbootcamp.com/intro-to-ajax-edit-of-2014-dragonflies-live-code)
 - Complete **Part 3** and **Part 4** of Code School's [Try jQuery](https://www.codeschool.com/courses/try-jquery)
 
 ### Stretch
