@@ -15,6 +15,6 @@ Javascript is a powerful language that while most commonly run inside a web brow
 - Review [From Ruby to
 JavaScript](../../../../javascript-from-ruby-challenge), pay
 particular attention to:
-  * [What are Objects and Classes?](../../../../javascript-from-ruby-challenge/blob/master/07-objects-and-classes/01-what-are-objects-and-classes.md)
-  * [Object Constructors](../../../../javascript-from-ruby-challenge/blob/master/07-objects-and-classes/02-object-constructors.md)
-  * [Variables & Prototypes](../../../../javascript-from-ruby-challenge/blob/master/07-objects-and-classes/03-variables-and-properties.md)
+  * [Objects: State and Behavior](../../../../javascript-from-ruby-challenge/blob/master/07-objects-and-classes/01-state-and-behavior.md)
+  * [Instantiating Objects: Setting State](../../../../javascript-from-ruby-challenge/blob/master/07-objects-and-classes/02-instantiating-object-setting-state.md)
+  * [Defining Shared Behavior](../../../../javascript-from-ruby-challenge/blob/master/07-objects-and-classes/03-defining-shared-behaviors.md)
