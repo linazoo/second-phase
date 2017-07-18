@@ -43,6 +43,11 @@
   </tr>
 </table>
 
+## Self-Check Questions
+
+[Here](./resources/self-check-questions.md) you will find a list of self-check questions to guide your conceptual understanding this phase. As the phase progresses, answer these questions.  If you find yourself with gaps do some research and check in with your advisor to fill them in! 
+
+
 ## Weekly Groups
 
 Find your weekly groups [here](./resources/groups.md).
