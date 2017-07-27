@@ -24,6 +24,7 @@ _Last 90 Minutes of the Day_: EE: "Team Dynamics"
 
 **Challenges - AJAX**
 
+- [Ajax Basics Drill](../../../../behavior-drill-ajax-basics-challenge)
 - [AJAXifying Hacker News](../../../../ajaxifying-hacker-news-challenge)
 - [AJAX your CRUD apps](../../../../ajax-review-challenge)
 
